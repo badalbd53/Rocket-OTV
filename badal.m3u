@@ -140,8 +140,10 @@ http://cdn.ihub.live:8080/j-colors-hd/index.m3u8
 #EXTINF:0 group-title="Kids",NICK
 http://cdn.ihub.live:8080/Nick/index.m3u8
 #EXTINF:0 group-title="Kids",Disney
+#EXTVLCOPT:http-user-agent=dalvik/2.1.0
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/9ae3730b2e905c7.m3u8
 #EXTINF:0 group-title="Kids",Cartoon Network
+#EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/20e3acedb66331e.m3u8
 
 
@@ -179,7 +181,10 @@ http://cv.khushitv.xyz/channels.php?c=zanmolcnm&e=.m3u8
 http://cdn.ihub.live:8080/j-star-gold-hd/index.m3u8
 #EXTINF:0 group-title="Movies",Star Gold 2
 http://84.17.41.7/JS_MoviesOK_Hin/mono.m3u8
-#EXTINF:0 group-title="Movies",Sony Max
+#EXTINF:0 group-title="Movies",Sony Max HD
+#EXTVLCOPT:http-user-agent=dalvik/2.1.0
+https://streamer-1.toffeelive.com/mobile_hls/set_max_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0 group-title="Movies",Sony Max 2
 http://cdn.ihub.live:8080/j-Sony-MAX-HD/index.m3u8
 #EXTINF:0 group-title="Movies",Sony Wah
 https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
@@ -258,11 +263,9 @@ http://103.81.104.118/hls/stream34.m3u8
 #EXTINF:0 group-title="Sports",PTV Sports
 http://103.81.104.118/hls/stream11.m3u8
 
-
 #EXTINF:0 group-title="Sports",SONY TEN 1 HD
 http://103.81.104.118/hls/stream40.m3u8
 #EXTINF:0 group-title="Sports",SONY TEN 2 HD
 http://103.81.104.118/hls/stream39.m3u8
 #EXTINF:0 group-title="Sports",SONY SIX HD
 http://103.81.104.118/hls/stream10.m3u8
-
