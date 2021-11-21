@@ -4,13 +4,14 @@ http://103.205.133.19/hls/btv.m3u8
 #EXTINF:0 group-title="Bangla",BTV World
 http://103.205.133.19/hls/btvworld.m3u8
 #EXTINF:0 group-title="Bangla",Songsad TV
-http://iptvbd.jagobd.com:1931/boishakhi/songsodtv-world.stream/chunks.m3u8
+https://cdn.appv.jagobd.com:444/live-orgin/songsodtv-world.stream/chunks.m3u8
 #EXTINF:0 group-title="Bangla",Gtv
 http://cdn.ihub.live:8080/j-GTV/index.m3u8
 #EXTINF:0 group-title="Bangla",T Sports
 http://103.205.133.19/hls/tsports.m3u8
 #EXTINF:0 group-title="Bangla",Maasranga
-http://iptvbd.jagobd.com:1931/boishakhi/mass.stream/chunks.m3u8
+https://cdn.appv.jagobd.com:444/live-orgin/mass.stream/chunks.m3u8
+https://cdn.appv.jagobd.com:444/live-orgin/mass.stream/playlist.m3u8
 #EXTINF:0 group-title="Bangla",Mohona
 http://103.205.133.19/hls/mohonatv.m3u8
 #EXTINF:0 group-title="Bangla",Asian TV
@@ -22,7 +23,7 @@ http://103.205.133.19/hls/banglavision.m3u8
 #EXTINF:0 group-title="Bangla",Boishakhi TV
 http://103.205.133.19/hls/boisakhi.m3u8
 #EXTINF:0 group-title="Bangla",Boishakhi TV Plus
-http://iptvbd.jagobd.com:1931/boishakhi/boishakhiplus.stream/chunks.m3u8
+https://cdn.appv.jagobd.com:444/live-orgin/boishakhiplus.stream/chunks.m3u8
 #EXTINF:0 group-title="Bangla",Channel 9
 http://103.205.133.19/hls/ninechannel.m3u8
 #EXTINF:0 group-title="Bangla",Channel I
@@ -48,7 +49,7 @@ http://103.205.133.19/hls/channel24.m3u8
 #EXTINF:0 group-title="Bangla",Jamuna TV
 http://103.205.133.19/hls/jamunatv.m3u8
 #EXTINF:0 group-title="Bangla",Cumilla 24
-http://iptvbd.jagobd.com:1931/boishakhi/cumilla24.stream/playlist.m3u8
+https://cdn.appv.jagobd.com:444/live-orgin/cumilla24.stream/playlist.m3u8
 #EXTINF:0 group-title="Bangla",Ekushey ETV
 http://103.205.133.19/hls/ekushey.m3u8
 #EXTINF:0 group-title="Bangla",NTV
@@ -66,36 +67,36 @@ http://103.205.133.19/hls/bijoytv.m3u8
 #EXTINF:0 group-title="Bangla",MyTV
 http://103.205.133.19/hls/mytv.m3u8
 #EXTINF:0 group-title="Bangla",Ananda TV
-http://iptvbd.jagobd.com:1931/boishakhi/anandatv.stream/chunks.m3u8
+https://cdn.appv.jagobd.com:444/live-orgin/anandatv.stream/chunks.m3u8
 #EXTINF:0 group-title="Movies",Movie Bangla
-http://iptvbd.jagobd.com:1931/boishakhi/moviebanglalink2.stream/playlist.m3u8 
+https://cdn.appv.jagobd.com:444/live-orgin/moviebanglalink2.stream/playlist.m3u8 
 #EXTINF:0 group-title="Movies",My Cinema
-http://iptvbd.jagobd.com:1931/boishakhi/mycinema-up2.stream/playlist.m3u8
+https://cdn.appv.jagobd.com:444/live-orgin/mycinema-up2.stream/playlist.m3u8
 
 
 #EXTINF:0 group-title="Islamic",ATN Islamic TV
-http://iptvbd.jagobd.com:1931/boishakhi/atnislamictv.stream/playlist.m3u8
+https://cdn.appv.jagobd.com:444/live-orgin/atnislamictv.stream/playlist.m3u8
 #EXTINF:0 group-title="Islamic",Peace TV Bangla
 https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SD/chunklist.m3u8
 #EXTINF:0 group-title="Islamic",Panvision TV
-http://iptvbd.jagobd.com:1931/boishakhi/panvisiontvs.stream/playlist.m3u8
+https://cdn.appv.jagobd.com:444/live-orgin/panvisiontvs.stream/playlist.m3u8
 #EXTINF:0 group-title="Islamic",Azan TV
-http://iptvbd.jagobd.com:1931/boishakhi/azantv.stream/playlist.m3u8
+https://cdn.appv.jagobd.com:444/live-orgin/azantv.stream/playlist.m3u8
 #EXTINF:0 group-title="Islamic",Makkah Live
-http://iptvbd.jagobd.com:1931/boishakhi/makkah.stream/chunks.m3u8
+https://cdn.appv.jagobd.com:444/live-orgin/makkah.stream/chunks.m3u8
 #EXTINF:0 group-title="Islamic",Madina Live
-http://iptvbd.jagobd.com:1931/boishakhi/madina.stream/chunks.m3u8
+https://cdn.appv.jagobd.com:444/live-orgin/madina.stream/chunks.m3u8
 
 
 #EXTINF:0 group-title="Islamic",AL Dawah TV
-http://iptvbd.jagobd.com:1931/boishakhi/dawah-eu.stream/playlist.m3u8
+https://cdn.appv.jagobd.com:444/live-orgin/dawah-eu.stream/playlist.m3u8
 
 #EXTINF:0 group-title="Music",Gaan Bangla
 http://103.205.133.19/hls/gaanbangla.m3u8
 #EXTINF:0 group-title="Music",ATN MUSIC
-http://iptvbd.jagobd.com:1931/boishakhi/atnmusic.stream/playlist.m3u8
+https://cdn.appv.jagobd.com:444/live-orgin/atnmusic.stream/playlist.m3u8
 #EXTINF:0 group-title="Music",RTV MUSIC
-http://iptvbd.jagobd.com:1931/boishakhi/rtvmusic.stream/chunks.m3u8
+https://cdn.appv.jagobd.com:444/live-orgin/rtvmusic.stream/chunks.m3u8
 #EXTINF:0 group-title="Music",Sangeet Bangla
 http://103.205.133.19/hls/sangeetbangla.m3u8
 
