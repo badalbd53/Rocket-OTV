@@ -2,11 +2,11 @@
 #EXTINF:0 tvg-logo="https://i.imgur.com/H9qgGSc.png" group-title="Bangla",BTV
 http://103.106.2.149:13456/btv.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/RR0Iv6V.png" group-title="Bangla",BTV World
-http://103.205.133.40/hls/btvworld.m3u8
+http://10.16.100.208:8082/hindi/bTvwOrld_1stop.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="Bangla",Songsad TV
 http://103.106.2.149:13456/sangsad.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/ESWXan9.png" group-title="Islamic",ATN Islamic TV
-https://piratesiptv.shortcm.li/atnislam.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/atnislamictv.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/J4JNrkH.png" group-title="Islamic",Peace TV Bangla
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/vr3EWTI.jpg" group-title="Islamic",Madani TV
@@ -18,9 +18,9 @@ http://103.161.2.142/hls/madani.m3u8
 #EXTINF:0 group-title="Islamic",Makkah Live
 http://103.161.2.142/hls/qurqntv.m3u8 
 #EXTINF:0 group-title="Islamic",Madina Live
-
+https://streamer-1.toffeelive.com/mobile_hls/sunnah_tv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:0 tvg-logo="https://i.imgur.com/pJhdZme.png" group-title="Islamic",AL Dawah TV
-
+http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/87.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/eyAInC9.png" group-title="Bangla",Gtv
 http://10.16.100.207:8082/sports/TH_gtv-local.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/eyAInC9.png" group-title="Bangla",Gtv HD
@@ -36,7 +36,7 @@ http://103.70.140.27:8080/hls/duronto.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/4imblNY.jpg" group-title="Bangla",Mohona
 http://iptvbd.jagobd.com:1931/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/fxq0pV2.png" group-title="Bangla",Asian TV
-https://cdn.appv.jagobd.com:444/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
+http://103.161.2.142/hls/Asian_TV.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Bangla",ATN Bangla
 http://stream.amrbd.com:8082/ATN-Bangla/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="Bangla",Banglavision TV
@@ -46,13 +46,13 @@ https://cdn.appv.jagobd.com:444/live-orgin/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:0 group-title="Bangla",Boishakhi TV Plus
 https://cdn.appv.jagobd.com:444/live-orgin/boishakhiplus.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/fj8nxOw.png" group-title="Bangla",Channel 9 HD
-https://cdn.appv.jagobd.com:444/live-orgin/channel9hd.stream/chunks.m3u8
+http://103.161.2.142/hls/channel9.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/p0I5dr0.png" group-title="Bangla",Channel I
 http://103.159.4.38:5868/BD-BANGLA-1/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/tPZKfLr.png" group-title="Bangla",Deepto TV
-http://stream.amrbd.com:8082/Deepto-TV/tracks-v1a1/mono.m3u8
+http://103.161.2.142/hls/dipto.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/JgkIH3w.png" group-title="Bangla",Desh TV
-https://cdn.appv.jagobd.com:444/live-orgin/deeptotv.stream/playlist.m3u8
+http://tvserver3.roarzone.info:25461/tvapppublic/roarzone/9.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/v9PqrCG.png" group-title="News",ATN News
 http://103.159.4.38:5868/BD-BANGLA-14/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/i8T9qQs.png" group-title="News",Ekattor TV
@@ -82,18 +82,17 @@ http://stream.amrbd.com:8082/RTV/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/fraEjzm.png" group-title="Bangla",SA TV HD
 http://stream.amrbd.com:8082/SATV/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/K43LsMQ.png" group-title="Bangla",Bangla TV HD
-http://103.159.4.38:5868/BD-BANGLA-17/tracks-v1a1/mono.m3u8
 http://stream.amrbd.com:8082/Bangla-TV/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/kDmkexe.png" group-title="Bangla",Bijoy TV
 http://stream.amrbd.com:8082/BijoyTv/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/bahWhBG.png" group-title="Bangla",MyTV
-http://tv.alphamediazone.com:8089/thunderbd/56/index.m3u8
+http://stream.amrbd.com:8082/MyTV/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/h5FhOWT.png" group-title="Bangla",Ananda TV
 http://stream.amrbd.com:8082/anandotv/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Movies",Movie Bangla
 https://cdn.appv.jagobd.com:444/live-orgin/moviebanglalink2.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Movies",My Cinema
-https://cdn.appv.jagobd.com:444/live-orgin/mycinema-up2.stream/playlist.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/mycinema-up2.stream/playlist.m3u8
 
 
 
@@ -104,11 +103,11 @@ https://cdn.appv.jagobd.com:444/live-orgin/atnmusic.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/PmXZNaK.png" group-title="Music",RTV MUSIC
 https://cdn.appv.jagobd.com:444/live-orgin/rtvmusic.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/g9OTeXV.png" group-title="Music",Sangeet Bangla
-http://tv.alphamediazone.com:8089/thunderbd/96/index.m3u8
+http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/96.m3u8
 #EXTINF:0 group-title="Music",Bangla Talkies
-
+http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/91.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/7rnhie0.png" group-title="Music",Dhoom
-http://tv.alphamediazone.com:8089/thunderbd/57/index.m3u8
+http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/57.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/DKVLQ7m.png" group-title="Music",MTV
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/DKVLQ7m.png" group-title="Music",MTV HD+
@@ -124,7 +123,7 @@ https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/wg3N1VT.png" group-title="Music",Music India
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/wRc0YAb.png" group-title="Music",Zoom
-http://tv.alphamediazone.com:8089/thunderbd/60/index.m3u8
+http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/60.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/chHDUsi.png" group-title="Movies",ZING
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/stZqDcA.png" group-title="Movies",B4U Music
@@ -136,24 +135,27 @@ http://tv.alphamediazone.com:8089/thunderbd/60/index.m3u8
 
 
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Drama",Star Jalsha
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Drama",Star Jalsha HD
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Drama",Star Jalsha
 http://103.159.4.38:5868/STARJALSHA/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Drama",Star Jalsha HD
+http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/30.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Drama",Zee Bangla HD
-http://103.161.2.142/hls/zeebanglahd.m3u8
+http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/34.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Drama",Zee Bangla HD
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Drama",Zee Bangla HD
 http://208.86.19.21:80/906.stream/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Drama",Zee Bangla HD
-
 #EXTINF:0 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="Drama",Sun Bangla
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Drama",Colors Bangla HD
-http://tv.alphamediazone.com:8089/thunderbd/66/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Movies",Jalsha Movies
-http://tv.alphamediazone.com:8089/thunderbd/31/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Movies",Jalsha Movies HD
+http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/66.m3u8
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Movies",Jalsha Movies
+http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/31.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Movies",Jalsha Movies HD
+http://103.161.2.142/hls/jalshamovies.m3u8
 #EXTINF:0 group-title="Drama",Colors Bangla Cinema
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Movies",Zee Bangla Cinema
@@ -161,11 +163,10 @@ http://stream.amrbd.com:8082/ZeeBanglacinema/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Movies",Enterr10 Bangla
 
 #EXTINF:0 group-title="Drama",Sony AATH
-http://tv.alphamediazone.com:8089/thunderbd/33/index.m3u8
+http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/33.m3u8
 #EXTINF:0 group-title="Drama",Sony AATH
 
 #EXTINF:0 group-title="Drama",Rongeen TV
-
 
 
 
@@ -182,12 +183,10 @@ http://221.120.204.4/SONY-SAB-LOCKLE/index.m3u8
 #EXTINF:0 group-title="Drama",Sony Pal
 
 #EXTINF:0 group-title="Drama",Sony HD
-
+http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/38.m3u8
 #EXTINF:0 group-title="Drama",Sony TV
 
 #EXTINF:0 group-title="Drama",Colors HD
-http://u.aliflailabd.com:8989/colors-hd/index.m3u8
-
 
 
 
@@ -197,27 +196,31 @@ http://u.aliflailabd.com:8989/colors-hd/index.m3u8
 
 
 #EXTINF:0 group-title="Kids",Nick
-http://tv.alphamediazone.com:8089/thunderbd/55/index.m3u8
-#EXTINF:0 group-title="Kids",Nick
+http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/55.m3u8
+#EXTINF:0 group-title="Kids",BBC Cbeebies
+http://103.161.2.142/hls/sonyyay.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qkvo1BH.png" group-title="Kids",Nick jr
+http://103.153.39.36:8000/play/a023
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4rEFCPQ.jpg" group-title="Kids",Sony Yay
 
-#EXTINF:0 group-title="Kids",Sonic
-
-#EXTINF:0 group-title="Kids",Disney
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="Kids",Discovery Kids
+http://103.153.39.36:8000/play/a024
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png" group-title="Kids",Sonic
+http://103.153.39.36:8000/play/a021
 #EXTINF:0 group-title="Kids",Disney
 http://103.153.39.36:8000/play/a01y
-#EXTINF:0 group-title="Kids",Disney
-https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
+#EXTINF:0 group-title="Kids",Disney jr
+http://103.153.39.36:8000/play/a020
 #EXTINF:0 group-title="Kids",Disney
 
 #EXTINF:0 group-title="Kids",Hungama
-
+http://103.153.39.36:8000/play/a01x
 #EXTINF:0 group-title="Kids",Cartoon Network
-
+http://103.153.39.36:8000/play/a01w
 #EXTINF:0 group-title="Kids",Cartoon Network HD
-http://tv.alphamediazone.com:8089/thunderbd/79/index.m3u8
+http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/79.m3u8
 #EXTINF:0 group-title="Kids",Pogo
-
+http://103.153.39.36:8000/play/a022
 
 
 
@@ -230,26 +233,25 @@ http://tv.alphamediazone.com:8089/thunderbd/79/index.m3u8
 
 
 #EXTINF:0 group-title="Documentary",Discovery
-https://last.gcdn.co/IND415/index.m3u8
+http://103.153.39.36:8000/play/a00y
 #EXTINF:0 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="Documentary",Discovery HD
-http://tv.alphamediazone.com:8089/thunderbd/43/index.m3u8
+http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/43.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Documentary",Nat Geo HD
-http://tv.alphamediazone.com:8089/thunderbd/35/index.m3u8
+
 
 #EXTINF:0 group-title="Documentary",National Geographic HD
-https://last.gcdn.co/IND414/index.m3u8
+http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/35.m3u8
 #EXTINF:0 group-title="Documentary",NatGeo Wild
-http://stream.dhakaflix.com:8081/live/bbcearth/chunks.m3u8
+http://103.161.2.142/hls/wild.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="Documentary",Travel XP HD
-http://stream.dhakaflix.com:8081/live/travlerxp/chunks.m3u8
-##EXTINF:0 group-title="Documentary",Animal Planet HD
-http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-HINDI-ANIMALPLANET/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38e901782c5ad3f413434f76feba4126576823fdf44b34911850a0dc345c440cee76ee92138c664006a29d4792957a13ce9f386d0f81e4bad707c643dffddbb332a702f41eb8a4177934010da02cd85807927addfbee3fb015fe7846c156d439bd0f9899a593&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
+http://103.161.2.142/hls/travelxp.m3u8
+#EXTINF:0 group-title="Documentary",Animal Planet HD
+
 #EXTINF:0 group-title="Documentary",TLC HD
-http://stream.dhakaflix.com:8081/live/animalplanet/chunks.m3u8
+http://103.161.2.142/hls/tlc.m3u8
 #EXTINF:0 group-title="Documentary",Sony BBC Earth HD
-http://stream.amrbd.com:8082/Bbc-Earth/tracks-v1a1/mono.m3u8
+http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/44.m3u8
 #EXTINF:0 group-title="Documentary",History 18
-http://103.217.221.64/snehjiotv/snehjioo.php?c=History_18_Hindi&q=800&e=junk.m3u8
 
 
 
@@ -261,61 +263,51 @@ http://103.217.221.64/snehjiotv/snehjioo.php?c=History_18_Hindi&q=800&e=junk.m3u
 
 
 #EXTINF:0 group-title="Movies",Zee Cinema
-https://snehz5tv.herokuapp.com/?c=0-9-zeecinema
+http://208.115.215.42/ZEE_CInema_HD/index.m3u8
 #EXTINF:0 group-title="Movies",Zee Cinema HD
-https://snehz5tv.herokuapp.com/?c=0-9-zeecinemahd
-#EXTINF:0 group-title="Movies",Zee Cinema UK
-https://f8e7y4c6.ssl.hwcdn.net/cinemauk/index.m3u8
+http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/76.m3u8
+#EXTINF:0 group-title="Movies",& Picture
+http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/100.m3u8
 #EXTINF:0 group-title="Movies",Zee Cinema USA
-https://f8e7y4c6.ssl.hwcdn.net/cinemausa/index.m3u8
+
 #EXTINF:0 group-title="Movies",Zee Cinema Me
-https://f8e7y4c6.ssl.hwcdn.net/zeecinemame/index.m3u8
+
 #EXTINF:0 group-title="Movies",Zee Action
-https://f8e7y4c6.ssl.hwcdn.net/action/index.m3u8
+http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/90.m3u8
 #EXTINF:0 group-title="Movies",Zee Anmol Cinema
-https://f8e7y4c6.ssl.hwcdn.net/zanmolcnm/index.m3u8
-#EXTINF:0 group-title="Movies",Star Gold Select
-http://89.187.182.181:9090/SM_FHD_HINDI_STARGOLDSELECT/tracks-v1a1/index.m3u8
+
+#EXTINF:0 group-title="Movies",Star Gold Select HD
+
 #EXTINF:0 group-title="Movies",Star Gold
-http://185.246.209.207/HINDI_STAR_GOLD_HD_UK/index.m3u8?token=test
+
 #EXTINF:0 group-title="Movies",Star Gold
-http://103.157.237.18:8000/play/307
+
 #EXTINF:0 group-title="Movies",Star Gold HD
-http://103.81.104.118/hls/stream19.m3u8
+http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/75.m3u8
 #EXTINF:0 group-title="Movies",Star Gold 2
-http://84.17.41.7/JS_MoviesOK_Hin/index.m3u8
+http://103.153.39.36:8000/play/a01q
 #EXTINF:0 group-title="Movies",Sony Max HD
-http://stream.amrbd.com:8082/Sony-Max/tracks-v1a1/mono.m3u8
+http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/77.m3u8
 #EXTINF:0 group-title="Movies",Sony Max HD
 http://221.120.204.4/SONY-MAX-LOCKLE/index.m3u8
 #EXTINF:0 group-title="Movies",Sony Set Max
-http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6574/index.m3u8
+http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/37.m3u8
 #EXTINF:0 group-title="Movies",Sony Max 2
 
 #EXTINF:0 group-title="Movies",Sony Wah
-https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://streamer-1.toffeelive.com/mobile_hls/sony_wah/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:0 group-title="Movies",UTV Action
-http://bd.digiiptv.net:25461/moznu43/PA2443/588
-#EXTINF:0 group-title="Movies",UTV HD
-http://103.157.237.18:8000/play/314
+http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Movies",UTV Action
+http://103.131.212.138:8000/play/a00k/index.m3u8
+#EXTINF:0 group-title="Movies",UTV Action
+http://103.153.39.36:8000/play/a01p
 #EXTINF:0 group-title="Movies",UTV Movies
-http://103.157.237.18:8000/play/316
-#EXTINF:0 group-title="Movies",MBC Bollywood
-https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_4.m3u8
+http://103.153.39.36:8000/play/a01o
 #EXTINF:0 group-title="Movies",B4U Kadak
-https://d207nlzuawwh55.cloudfront.net/B4U_KADAK.m3u8
-#EXTINF:0 group-title="Movies",Color Cineplex HD
-http://103.81.104.118/hls/stream29.m3u8
-#EXTINF:0 group-title="Movies",Rishtey Cineplex
-https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
-#EXTINF:0 group-title="Movies",& Picture HD
-http://103.81.104.118/hls/stream14.m3u8
-#EXTINF:0 group-title="Movies",Movie Opera
-http://d2whc8q9z2af8n.cloudfront.net/MO1.m3u8
-#EXTINF:0 group-title="Movies",B4U Movies
-http://103.205.133.40/hls/b4umovies.m3u8
-#EXTINF:0 group-title="Movies",Wow Cinema
-http://103.205.133.40/hls/wowcinema.m3u8
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+
 #EXTINF:0 group-title="Movies",BflixMovies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 #EXTINF:0 group-title="Movies",Box Cinema
@@ -323,7 +315,7 @@ https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in.m3u8
 #EXTINF:0 group-title="Movies",Maha Movie
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
 #EXTINF:0 group-title="Movies",Miniplex
-http://103.157.237.18:8000/play/326
+
 
 
 
@@ -333,20 +325,18 @@ http://103.157.237.18:8000/play/326
 #EXTINF:0 group-title="Entertainment",AXN
 
 #EXTINF:0 group-title="Movies",And Flix HD
-https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
+http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/78.m3u8
 #EXTINF:0 group-title="Movies",&Prive HD
-https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
+
 #EXTINF:0 group-title="Movies",Star Movies HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Movies",Star Movies Select HD
-http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIESSELECT/tracks-v1a1/index.m3u8
+
 #EXTINF:0 group-title="Movies",HBO HD
-http://89.187.182.181:9090/SM_FHD_ENG_HBO/tracks-v1a1/index.m3u8
+http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/42.m3u8
 #EXTINF:0 group-title="Movies",Sony Pix HD
-#EXTINF:0 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="Documentary",Travel XP HD
-http://stream.dhakaflix.com:8081/live/sonypix/chunks.m3u8
+http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/41.m3u8
 #EXTINF:0 group-title="Movies",Zee Café HD
-https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/index.m3u8
 
 
 
@@ -359,51 +349,40 @@ https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/index.m3u8
 
 
 
-#EXTINF:0 group-title="Sports",Live Sports
-http://stream.dhakaflix.com:8081/live/mystream/chunks.m3u8
-#EXTINF:0 group-title="Sports",Live Sports
-http://nwbz1u.ecm.tm/806B6CF/84137e/SK_MA_ASTRO_SUPER_SPORT_CRICKET/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c3be801782c27ff83d6c3d8086796083c9e4eae0718a96e35a78db35fc417891f79725c21b88b1da11a64ac33705b66d7f50ff103affd5a58ef48256855a8ba8eae22ac6594c65d6bb7c33e329027c7364d6cc809fa887c8464d715b237c7e50e07a64eff32421d00c4de17b8b06ce5
-#EXTINF:0 group-title="Sports",Live Sports
-https://akamai2-br.cdn.booyah.live/hls/1000023/81258086.m3u8
-#EXTINF:0 group-title="Sports",Live Sports
-https://google-me.cdn.booyah.live/hls/113138/86055317.m3u8
-#EXTINF:0 group-title="Sports",Live Sports
-https://google-me.cdn.booyah.live/hls/113137/85569341.m3u8
-#EXTINF:0 group-title="Sports",Live Sports
-https://google-me.cdn.booyah.live/hls/113138/85572513.m3u8
+
 #EXTINF:0 group-title="Sports",Live Sports
 
 #EXTINF:0 group-title="Sports",Live Sports
-http://89.187.182.181:9090/SR_SS3_HD/tracks-v1a1/index.m3u8
-#EXTINF:0 group-title="Sports",Live Sports
-http://nwbz1u.ecm.tm/806B6CF/89181e/SR_SS2_HD/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8d30e301782cfd952ef8d6f27fc7afe88f4fde17df92ea28974dd12502b0d750cccdbeb6977499fae4167e90e4b5c084705623a9c7cbcd376060ee03a5d239b0ad122479676cfcf71b5d712805a39860bfe2fc25d6c93ab47a&mac=00:1A:79:3A:6B:91&ip=202.134.8.137&magic_server=MAIN_MP
 
-
-
-
+#EXTINF:0 group-title="Sports",Willow HD
+http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/70.m3u8
+#EXTINF:0 group-title="Sports",Sky Sports Cricket
+http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/71.m3u8
+#EXTINF:0 group-title="Sports",Sky Sports Mix
+http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/72.m3u8
+#EXTINF:0 group-title="Sports",Star Sports Select 1
+http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/27.m3u8
+#EXTINF:0 group-title="Sports",Star Sports Select 2
+http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/28.m3u8
+#EXTINF:0 group-title="Sports",Star Sports 1
+http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/25.m3u8
+#EXTINF:0 group-title="Sports",Star Sports 2
+http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/26.m3u8
 #EXTINF:0 group-title="Sports",SONY TEN 1 HD
-http://stream.dhakaflix.com:8081/live/sonyten1/chunks.m3u8
+http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/20.m3u8
 #EXTINF:0 group-title="Sports",SONY TEN 2 HD
-http://stream.dhakaflix.com:8081/live/sonyten2/chunks.m3u8
+http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/21.m3u8
 #EXTINF:0 group-title="Sports",SONY TEN 3 HD
-http://stream.dhakaflix.com:8081/live/sonyten3/chunks.m3u8
+http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/22.m3u8
 #EXTINF:0 group-title="Sports",Sony Six HD
-http://stream.dhakaflix.com:8081/live/sonysix.m3u8/chunks.m3u8
+http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/24.m3u8
 #EXTINF:0 group-title="Sports",Red Bull TV HD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:0 group-title="Sports",Bein Sports Xtra
-http://stream.dhakaflix.com:8081/live/bensportsextra/chunks.m3u8
-#EXTINF:0 group-title="Sports",Bein Sports Xtra
-https://siloh-ns1.plutotv.net/lilo/production/bein/master.m3u8
-#EXTINF:0 group-title="Sports",Bein Sports 1
-http://31.220.41.88:8081/live/beinus.stream/playlist.m3u8
-#EXTINF:0 group-title="Sports",Star Sports 2
-http://103.81.104.118/hls/stream16.m3u8
-#EXTINF:0 group-title="Sports",Sport TV 1
-http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:0 group-title="Sports",Sport TV 2
-http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:0 group-title="Sports",Sport TV 3
-http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:0 group-title="Sports",Sport TV 4
-http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:0 group-title="Sports",ESPN
+http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/23.m3u8
+#EXTINF:0 group-title="Sports",PTV Sports
+http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/73.m3u8
+
+
+
+
