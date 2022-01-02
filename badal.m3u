@@ -368,7 +368,7 @@ http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/28.m3u8
 #EXTINF:0 group-title="Sports",Star Sports 1
 http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/25.m3u8
 #EXTINF:0 group-title="Sports",Star Sports 2
-http://edge.thunderbd.com:8081/live/tvapppublic/roarzone/26.m3u8
+http://edge.thunderbd.com:8081/roarzone/26.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yLzIwMjIgNDo1Nzo0NCBQTSZoYXNoX3ZhbHVlPWJFU082T0dkenhUblB1Q3l3TUJUbVE9PSZ2YWxpZG1pbnV0ZXM9MiZpZD01 HTTP/1.1
 #EXTINF:0 group-title="Sports",SONY TEN 1 HD
 http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/20.m3u8
 #EXTINF:0 group-title="Sports",SONY TEN 2 HD
@@ -382,7 +382,12 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:0 group-title="Sports",ESPN
 http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/23.m3u8
 #EXTINF:0 group-title="Sports",PTV Sports
-http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/73.m3u8
+http://tv.roarzone.info/app.php?ch_name=PtvSports
+Authorization: Basic YWRtaW46YWRtaW4xMjM=
+User-Agent: Rangdhanu Live 1.0
+Content-Type: application/x-www-form-urlencoded
+Host: tv.roarzone.info
+Connection: 
 
 
 
