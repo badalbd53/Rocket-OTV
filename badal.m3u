@@ -368,7 +368,7 @@ http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/28.m3u8
 #EXTINF:0 group-title="Sports",Star Sports 1
 http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/25.m3u8
 #EXTINF:0 group-title="Sports",Star Sports 2
-http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/26.m3u8
+http://edge.thunderbd.com:8081/live/tvapppublic/roarzone/26.m3u8
 #EXTINF:0 group-title="Sports",SONY TEN 1 HD
 http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/20.m3u8
 #EXTINF:0 group-title="Sports",SONY TEN 2 HD
