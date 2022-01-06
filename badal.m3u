@@ -334,9 +334,9 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Movies",Star Movies Select HD
 
 #EXTINF:0 group-title="Movies",HBO HD
-http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/42.m3u8
+http://tvserver3.roarzone.info:25461/live/roarhome/noyan/42.m3u8
 #EXTINF:0 group-title="Movies",Sony Pix HD
-http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/41.m3u8
+http://tvserver3.roarzone.info:2/roarzone/41.m3u8
 #EXTINF:0 group-title="Movies",Zee Café HD
 
 
@@ -356,38 +356,32 @@ http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/41.m3u8
 #EXTINF:0 group-title="Sports",Live Sports
 
 #EXTINF:0 group-title="Sports",Willow HD
-http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/70.m3u8
+http://etv.roarzone.info:8081/thunderbd/70/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS82LzIwMjIgNzoyNDozNiBQTSZoYXNoX3ZhbHVlPVQzdWhJOHdLT3g5VlhrOEs4MmpYUGc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 #EXTINF:0 group-title="Sports",Sky Sports Cricket
-http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/71.m3u8
+http://etv.roarzone.info:8081/thunderbd/71/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS82LzIwMjIgNzoyNDozNiBQTSZoYXNoX3ZhbHVlPVQzdWhJOHdLT3g5VlhrOEs4MmpYUGc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 #EXTINF:0 group-title="Sports",Sky Sports Mix
-http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/72.m3u8
+http://etv.roarzone.info:8081/thunderbd/72/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS82LzIwMjIgNzoyNDozNiBQTSZoYXNoX3ZhbHVlPVQzdWhJOHdLT3g5VlhrOEs4MmpYUGc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 #EXTINF:0 group-title="Sports",Star Sports Select 1
-http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/27.m3u8
+http://etv.roarzone.info:8081/thunderbd/27/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS82LzIwMjIgNzoyNDozNiBQTSZoYXNoX3ZhbHVlPVQzdWhJOHdLT3g5VlhrOEs4MmpYUGc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 #EXTINF:0 group-title="Sports",Star Sports Select 2
-http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/28.m3u8
+http://etv.roarzone.info:8081/thunderbd/28/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS82LzIwMjIgNzoyNDozNiBQTSZoYXNoX3ZhbHVlPVQzdWhJOHdLT3g5VlhrOEs4MmpYUGc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 #EXTINF:0 group-title="Sports",Star Sports 1
-http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/25.m3u8
+http://etv.roarzone.info:8081/thunderbd/25/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS82LzIwMjIgNzoyNDozNiBQTSZoYXNoX3ZhbHVlPVQzdWhJOHdLT3g5VlhrOEs4MmpYUGc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 #EXTINF:0 group-title="Sports",Star Sports 2
-http://edge.thunderbd.com:8081/roarzone/26.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yLzIwMjIgNDo1Nzo0NCBQTSZoYXNoX3ZhbHVlPWJFU082T0dkenhUblB1Q3l3TUJUbVE9PSZ2YWxpZG1pbnV0ZXM9MiZpZD01 HTTP/1.1
+http://etv.roarzone.info:8081/thunderbd/26/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS82LzIwMjIgNzoyNDozNiBQTSZoYXNoX3ZhbHVlPVQzdWhJOHdLT3g5VlhrOEs4MmpYUGc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ== HTTP/1.1
 #EXTINF:0 group-title="Sports",SONY TEN 1 HD
-http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/20.m3u8
+http://etv.roarzone.info:8081/thunderbd/20/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS82LzIwMjIgNzoyNDozNiBQTSZoYXNoX3ZhbHVlPVQzdWhJOHdLT3g5VlhrOEs4MmpYUGc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 #EXTINF:0 group-title="Sports",SONY TEN 2 HD
-http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/21.m3u8
+http://etv.roarzone.info:8081/thunderbd/21/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS82LzIwMjIgNzoyNDozNiBQTSZoYXNoX3ZhbHVlPVQzdWhJOHdLT3g5VlhrOEs4MmpYUGc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 #EXTINF:0 group-title="Sports",SONY TEN 3 HD
-http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/22.m3u8
+http://etv.roarzone.info:8081/thunderbd/22/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS82LzIwMjIgNzoyNDozNiBQTSZoYXNoX3ZhbHVlPVQzdWhJOHdLT3g5VlhrOEs4MmpYUGc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 #EXTINF:0 group-title="Sports",Sony Six HD
-http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/24.m3u8
+http://etv.roarzone.info:8081/thunderbd/24/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS82LzIwMjIgNzoyNDozNiBQTSZoYXNoX3ZhbHVlPVQzdWhJOHdLT3g5VlhrOEs4MmpYUGc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 #EXTINF:0 group-title="Sports",Red Bull TV HD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:0 group-title="Sports",ESPN
-http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/23.m3u8
+http://etv.roarzone.info:8081/thunderbd/23/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS82LzIwMjIgNzoyNDozNiBQTSZoYXNoX3ZhbHVlPVQzdWhJOHdLT3g5VlhrOEs4MmpYUGc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 #EXTINF:0 group-title="Sports",PTV Sports
-http://tv.roarzone.info/app.php?ch_name=PtvSports
-Authorization: Basic YWRtaW46YWRtaW4xMjM=
-User-Agent: Rangdhanu Live 1.0
-Content-Type: application/x-www-form-urlencoded
-Host: tv.roarzone.info
-Connection: 
 
 
 
