@@ -376,7 +376,7 @@ http://etv.roarzone.info:8081/thunderbd/21/playlist.m3u8?wmsAuthSign=c2VydmVyX3R
 #EXTINF:0 group-title="Sports",SONY TEN 3 HD
 http://etv.roarzone.info:8081/thunderbd/22/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS82LzIwMjIgNzoyNDozNiBQTSZoYXNoX3ZhbHVlPVQzdWhJOHdLT3g5VlhrOEs4MmpYUGc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 #EXTINF:0 group-title="Sports",Sony Six HD
-http://etv.roarzone.info:8081/thunderbd/24/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS82LzIwMjIgNzoyNDozNiBQTSZoYXNoX3ZhbHVlPVQzdWhJOHdLT3g5VlhrOEs4MmpYUGc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+http://etv.roarzone.info:8081/thunderbd/24/playlist.m3u8?wmsauthsign=c2vydmvyx3rpbwu9ms84lziwmjigodoynzoxnibbtszoyxnox3zhbhvlpxnqeg9jddvwd0fxrwjsmutnde92qle9psz2ywxpzg1pbnv0zxm9njamawq9nq==
 #EXTINF:0 group-title="Sports",Red Bull TV HD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:0 group-title="Sports",ESPN
