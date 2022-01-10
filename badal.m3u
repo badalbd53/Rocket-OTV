@@ -16,9 +16,9 @@ http://103.161.2.142/hls/madani.m3u8
 #EXTINF:0 group-title="Islamic",Azan TV
 
 #EXTINF:0 group-title="Islamic",Makkah Live
-http://103.161.2.142/hls/qurqntv.m3u8
+https://streamer-1.toffeelive.com/live/quran_tv_720/index.m3u8
 #EXTINF:0 group-title="Islamic",Madina Live
-https://streamer-1.toffeelive.com/live/sunnah_tv_576/index.m3u8
+https://streamer-1.toffeelive.com/live/sunnah_tv_720/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/pJhdZme.png" group-title="Islamic",AL Dawah TV
 http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/87.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/eyAInC9.png" group-title="Bangla",Gtv
