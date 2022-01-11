@@ -24,7 +24,7 @@ https://streamer-1.toffeelive.com/live/sunnah_tv_720/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/eyAInC9.png" group-title="Bangla",Gtv
 http://10.16.100.207:8082/sports/TH_gtv-local.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/eyAInC9.png" group-title="Bangla",Gtv HD
-http://stream.amrbd.com:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
+http://103.161.2.142/hls/Gazi-TV.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Bangla",T Sports HD
 http://103.159.4.38:5868/BD-BANGLA-11/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Bangla",T Sports HD
@@ -227,7 +227,7 @@ http://103.153.39.36:8000/play/a01x
 #EXTINF:0 group-title="Kids",Cartoon Network
 http://103.153.39.36:8000/play/a01w
 #EXTINF:0 group-title="Kids",Cartoon Network HD
-http://103.161.2.142/hls/cn.m3u8
+http://103.159.4.38:8080/KIDS-2/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Kids",Pogo
 http://103.153.39.36:8000/play/a022
 
@@ -245,8 +245,8 @@ http://103.153.39.36:8000/play/a022
 http://103.153.39.36:8000/play/a00y
 #EXTINF:0 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="Documentary",Discovery HD
 http://103.161.2.142/hls/discovery.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Documentary",Nat Geo HD
-
+#EXTINF:0 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Documentary",Discovery Science
+http://103.161.2.142/hls/dis-science.m3u8
 
 #EXTINF:0 group-title="Documentary",National Geographic HD
 http://103.161.2.142/hls/ngohd.m3u8
@@ -317,7 +317,7 @@ http://103.153.39.36:8000/play/a01o
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 
 #EXTINF:0 group-title="Movies",BflixMovies
-https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
+http://103.159.4.38:8080/MOVIE-3/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Movies",Box Cinema
 https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in.m3u8
 #EXTINF:0 group-title="Movies",Maha Movie
@@ -387,7 +387,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:0 group-title="Sports",Eurosport
 http://103.161.2.142/hls/euro.m3u8
 #EXTINF:0 group-title="Sports",PTV Sports
-
 
 
 
