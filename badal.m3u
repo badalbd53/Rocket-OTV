@@ -26,11 +26,11 @@ http://10.16.100.207:8082/sports/TH_gtv-local.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/eyAInC9.png" group-title="Bangla",Gtv HD
 http://stream.amrbd.com:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Bangla",T Sports HD
-http://103.159.4.38:5868/BD-BANGLA-8/tracks-v1a1/mono.m3u8
+http://103.159.4.38:5868/BD-BANGLA-11/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Bangla",T Sports HD
-http://stream.amrbd.com:8082/Local-Sports/tracks-v1a1/mono.m3u8
+http://103.161.2.142/hls/t-sports.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/7ftu2Rt.jpg" group-title="Bangla",Maasranga
-http://103.159.4.38:8080/BD-BANGLA-19/tracks-v1a1/mono.m3u8
+http://103.161.2.142/hls/masranga.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Bangla",Duronto TV
 http://103.70.140.27:8080/hls/duronto.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/4imblNY.jpg" group-title="Bangla",Mohona
@@ -117,7 +117,7 @@ http://iptvbd.jagobd.com:1931/live-orgin//musiccipl.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/DKVLQ7m.png" group-title="Music",MTV
 https://streamer-1.toffeelive.com/live/mtv_720/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/DKVLQ7m.png" group-title="Music",MTV Beats HD
-https://streamer-1.toffeelive.com/live/mtv_beats_hd_720/index.m3u8
+
 #EXTINF:0 group-title="Music",MTV Beats
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/LZ7W3Yc.png" group-title="Music",Mastiii
@@ -128,8 +128,8 @@ https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/wg3N1VT.png" group-title="Music",Music India
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/wRc0YAb.png" group-title="Music",Zoom
-http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/60.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/wRc0YAb.png" group-title="Music",Bindass
+http://103.161.2.142/hls/bindass.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/chHDUsi.png" group-title="Movies",ZING
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/stZqDcA.png" group-title="Movies",B4U Music
@@ -144,34 +144,34 @@ http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/60.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Drama",Star Jalsha
-http://103.159.4.38:5868/STARJALSHA/tracks-v1a1/mono.m3u8
+http://103.159.4.38:8080/IN-BANGLA-3/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Drama",Star Jalsha HD
-http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/30.m3u8
+http://103.161.2.142/hls/starjalsha.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Drama",Zee Bangla HD
-http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/34.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Drama",Zee Bangla HD
+http://103.159.4.38:8080/IN-BANGLA-4/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Drama",Zee Bangla
 https://streamer-1.toffeelive.com/live/zee_bangla_720/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Drama",Zee Bangla HD
-http://208.86.19.21:80/906.stream/index.m3u8
+http://103.161.2.142/hls/zeebanglahd.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="Drama",Sun Bangla
-
+http://103.161.2.142/hls/sunbangla.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Drama",Colors Bangla HD
-http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/66.m3u8
+http://103.161.2.142/hls/colorsbangla.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Movies",Jalsha Movies
-http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/31.m3u8
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Movies",Jalsha Movies HD
 http://103.161.2.142/hls/jalshamovies.m3u8
 #EXTINF:0 group-title="Drama",Colors Bangla Cinema
-
+http://103.161.2.142/hls/colore-bangla-cinema.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Movies",Zee Bangla Cinema
-http://stream.amrbd.com:8082/ZeeBanglacinema/tracks-v1a1/mono.m3u8
+http://103.161.2.142/hls/zee-bangla-cinema.m3u8
 #EXTINF:0 group-title="Movies",Enterr10 Bangla
 
 #EXTINF:0 group-title="Drama",Sony AATH
-http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/33.m3u8
+http://103.161.2.142/hls/Sony_Aath.m3u8
 #EXTINF:0 group-title="Drama",Sony AATH
-
+https://streamer-1.toffeelive.com/live/sony_aath_720/index.m3u8
 #EXTINF:0 group-title="Drama",Rongeen TV
 
 
@@ -181,19 +181,22 @@ http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/33.m3u8
 
 
 #EXTINF:0 group-title="Drama",Sony Sab HD
-http://221.120.204.4/SONY-SAB-LOCKLE/index.m3u8
+https://streamer-1.toffeelive.com/live/sony_sab_hd_720/index.m3u8
 #EXTINF:0 group-title="Drama",Star Plus
 
 #EXTINF:0 group-title="Drama",Star Plus HD
 
-#EXTINF:0 group-title="Drama",Sony Pal
 
 #EXTINF:0 group-title="Drama",Sony HD
-http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/38.m3u8
+http://103.161.2.142/hls/sonyen.m3u8
 #EXTINF:0 group-title="Drama",Sony TV
-
+https://streamer-1.toffeelive.com/live/sony_entertainment_720/index.m3u8
+#EXTINF:0 group-title="Drama",Sony HD
+https://streamer-1.toffeelive.com/live/sony_entertainmnt_hd_720/index.m3u8
+#EXTINF:0 group-title="Drama",Sony Pal
+https://streamer-1.toffeelive.com/live/sony_pal_720/index.m3u8
 #EXTINF:0 group-title="Drama",Colors HD
-
+https://streamer-1.toffeelive.com/live/colors_720/index.m3u8
 
 
 
@@ -202,13 +205,11 @@ http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/38.m3u8
 
 
 #EXTINF:0 group-title="Kids",Nick
-http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/55.m3u8
-#EXTINF:0 group-title="Kids",BBC Cbeebies
-http://103.161.2.142/hls/sonyyay.m3u8
+https://streamer-1.toffeelive.com/live/nick_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qkvo1BH.png" group-title="Kids",Nick jr
 http://103.153.39.36:8000/play/a023
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4rEFCPQ.jpg" group-title="Kids",Sony Yay
-
+https://streamer-1.toffeelive.com/live/sony_yay_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="Kids",Discovery Kids
 http://103.153.39.36:8000/play/a024
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png" group-title="Kids",Sonic
@@ -218,7 +219,7 @@ http://103.153.39.36:8000/play/a01y
 #EXTINF:0 group-title="Kids",Disney
 http://103.157.210.165:8000/play/a00r/index.m3u8
 #EXTINF:0 group-title="Kids",Disney jr
-http://103.153.39.36:8000/play/a020
+
 #EXTINF:0 group-title="Kids",Disney
 
 #EXTINF:0 group-title="Kids",Hungama
@@ -226,7 +227,7 @@ http://103.153.39.36:8000/play/a01x
 #EXTINF:0 group-title="Kids",Cartoon Network
 http://103.153.39.36:8000/play/a01w
 #EXTINF:0 group-title="Kids",Cartoon Network HD
-http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/79.m3u8
+http://103.161.2.142/hls/cn.m3u8
 #EXTINF:0 group-title="Kids",Pogo
 http://103.153.39.36:8000/play/a022
 
@@ -243,12 +244,12 @@ http://103.153.39.36:8000/play/a022
 #EXTINF:0 group-title="Documentary",Discovery
 http://103.153.39.36:8000/play/a00y
 #EXTINF:0 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="Documentary",Discovery HD
-http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/43.m3u8
+http://103.161.2.142/hls/discovery.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Documentary",Nat Geo HD
 
 
 #EXTINF:0 group-title="Documentary",National Geographic HD
-http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/35.m3u8
+http://103.161.2.142/hls/ngohd.m3u8
 #EXTINF:0 group-title="Documentary",NatGeo Wild
 http://103.161.2.142/hls/wild.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="Documentary",Travel XP HD
@@ -258,7 +259,7 @@ http://103.161.2.142/hls/travelxp.m3u8
 #EXTINF:0 group-title="Documentary",TLC HD
 http://103.161.2.142/hls/tlc.m3u8
 #EXTINF:0 group-title="Documentary",Sony BBC Earth HD
-http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/44.m3u8
+https://streamer-1.toffeelive.com/live/sony_bbc_earth_hd_720/index.m3u8
 #EXTINF:0 group-title="Documentary",History 18
 
 
@@ -271,40 +272,39 @@ http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/44.m3u8
 
 
 #EXTINF:0 group-title="Movies",Zee Cinema
-http://208.115.215.42/ZEE_CInema_HD/index.m3u8
+https://streamer-1.toffeelive.com/live/zee_cinema_hd_720/index.m3u8
 #EXTINF:0 group-title="Movies",Zee Cinema HD
-http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/76.m3u8
+http://103.161.2.142/hls/zeecinemahd.m3u8
 #EXTINF:0 group-title="Movies",& Picture
-http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/100.m3u8
-#EXTINF:0 group-title="Movies",Zee Cinema USA
-
+http://103.161.2.142/hls/andpictures.m3u8
+#EXTINF:0 group-title="Movies",Colors Cineplex HD
+http://103.161.2.142/hls/colorscineplex.m3u8
 #EXTINF:0 group-title="Movies",Zee Cinema Me
 
 #EXTINF:0 group-title="Movies",Zee Action
-http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/90.m3u8
+https://streamer-1.toffeelive.com/live/zee_action_720/index.m3u8
 #EXTINF:0 group-title="Movies",Zee Anmol Cinema
 
 #EXTINF:0 group-title="Movies",Star Gold Select HD
 
 #EXTINF:0 group-title="Movies",Star Gold
 
-#EXTINF:0 group-title="Movies",Star Gold
-
+#EXTINF:0 group-title="Movies",Zing
+https://streamer-1.toffeelive.com/live/zing_sd_720/index.m3u8
 #EXTINF:0 group-title="Movies",Star Gold HD
-http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/75.m3u8
+http://103.161.2.142/hls/stargold.m3u8
 #EXTINF:0 group-title="Movies",Star Gold 2
-http://103.153.39.36:8000/play/a01q
+http://103.161.2.142/hls/stargold2hd.m3u8
 #EXTINF:0 group-title="Movies",Sony Max HD
-http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/77.m3u8
-#EXTINF:0 group-title="Movies",Sony Max HD
-http://221.120.204.4/SONY-MAX-LOCKLE/index.m3u8
+http://103.161.2.142/hls/sony-maxhd.m3u8
 #EXTINF:0 group-title="Movies",Sony Set Max
-http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/37.m3u8
+https://streamer-1.toffeelive.com/live/sony_max_720/index.m3u8
+#EXTINF:0 group-title="Movies",Sony Max HD
+https://streamer-1.toffeelive.com/live/set_max_hd_720/index.m3u8
 #EXTINF:0 group-title="Movies",Sony Max 2
-
+https://streamer-1.toffeelive.com/live/sony_max_2_720/index.m3u8
 #EXTINF:0 group-title="Movies",Sony Wah
-#EXTVLCOPT:network-caching=1000
-https://streamer-1.toffeelive.com/mobile_hls/sony_wah/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+https://streamer-1.toffeelive.com/live/sony_wah_720/index.m3u8
 #EXTINF:0 group-title="Movies",UTV Action
 http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Movies",UTV Action
@@ -330,22 +330,22 @@ https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
 
 
 
-#EXTINF:0 group-title="Entertainment",AXN
-
+#EXTINF:0 group-title="Entertainment",Sony Pix HD
+https://streamer-1.toffeelive.com/live/sony_pix_hd_720/index.m3u8
 #EXTINF:0 group-title="Movies",And Flix HD
-http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/78.m3u8
+
 #EXTINF:0 group-title="Movies",&Prive HD
 
 #EXTINF:0 group-title="Movies",Star Movies HD
-http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Movies",Star Movies Select HD
-
-#EXTINF:0 group-title="Movies",HBO HD
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/42.m3u8
-#EXTINF:0 group-title="Movies",Sony Pix HD
-http://tvserver3.roarzone.info:2/roarzone/41.m3u8
+http://103.161.2.142/hls/starmovies.m3u8
+#EXTINF:0 group-title="Movies",Movies Now
+http://103.161.2.142/hls/movies-now.m3u8
+#EXTINF:0 group-title="Movies",MN+ HD
+http://103.161.2.142/hls/mn+.m3u8
+#EXTINF:0 group-title="Movies",MNX HD
+http://103.161.2.142/hls/mnx-hd.m3u8
 #EXTINF:0 group-title="Movies",Zee Café HD
-
+http://103.161.2.142/hls/sonypixhd.m3u8
 
 
 
@@ -359,36 +359,33 @@ http://tvserver3.roarzone.info:2/roarzone/41.m3u8
 
 
 #EXTINF:0 group-title="Sports",Live Sports
-
+https://streamer-1.toffeelive.com/live/sports_live_01_720/index.m3u8
 #EXTINF:0 group-title="Sports",Live Sports
-
+https://streamer-1.toffeelive.com/live/sports_live_02_720/index.m3u8
 #EXTINF:0 group-title="Sports",Willow HD
-http://etv.roarzone.info:8081/thunderbd/70/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS82LzIwMjIgNzoyNDozNiBQTSZoYXNoX3ZhbHVlPVQzdWhJOHdLT3g5VlhrOEs4MmpYUGc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+
 #EXTINF:0 group-title="Sports",Sky Sports Cricket
-http://etv.roarzone.info:8081/thunderbd/71/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS82LzIwMjIgNzoyNDozNiBQTSZoYXNoX3ZhbHVlPVQzdWhJOHdLT3g5VlhrOEs4MmpYUGc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
-#EXTINF:0 group-title="Sports",Sky Sports Mix
-http://etv.roarzone.info:8081/thunderbd/72/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS82LzIwMjIgNzoyNDozNiBQTSZoYXNoX3ZhbHVlPVQzdWhJOHdLT3g5VlhrOEs4MmpYUGc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
-#EXTINF:0 group-title="Sports",Star Sports Select 1
-http://etv.roarzone.info:8081/thunderbd/27/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS82LzIwMjIgNzoyNDozNiBQTSZoYXNoX3ZhbHVlPVQzdWhJOHdLT3g5VlhrOEs4MmpYUGc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
-#EXTINF:0 group-title="Sports",Star Sports Select 2
-http://etv.roarzone.info:8081/thunderbd/28/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS82LzIwMjIgNzoyNDozNiBQTSZoYXNoX3ZhbHVlPVQzdWhJOHdLT3g5VlhrOEs4MmpYUGc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+
+#EXTINF:0 group-title="Sports",Star Sports Select 1 HD
+http://103.161.2.142/hls/Star_Sport_Select1HD.m3u8
+#EXTINF:0 group-title="Sports",Star Sports Select 2 HD
+http://103.161.2.142/hls/select2.m3u8
 #EXTINF:0 group-title="Sports",Star Sports 1
-http://etv.roarzone.info:8081/thunderbd/25/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS82LzIwMjIgNzoyNDozNiBQTSZoYXNoX3ZhbHVlPVQzdWhJOHdLT3g5VlhrOEs4MmpYUGc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+http://103.161.2.142/hls/stersports1hd.m3u8
 #EXTINF:0 group-title="Sports",Star Sports 2
-http://etv.roarzone.info:8081/thunderbd/26/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS82LzIwMjIgNzoyNDozNiBQTSZoYXNoX3ZhbHVlPVQzdWhJOHdLT3g5VlhrOEs4MmpYUGc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ== HTTP/1.1
+http://103.161.2.142/hls/starsports2.m3u8
 #EXTINF:0 group-title="Sports",SONY TEN 1 HD
-http://etv.roarzone.info:8081/thunderbd/20/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS82LzIwMjIgNzoyNDozNiBQTSZoYXNoX3ZhbHVlPVQzdWhJOHdLT3g5VlhrOEs4MmpYUGc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
-http://etv.roarzone.info:8081/thunderbd/20/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS84LzIwMjIgNDo0NjozOCBQTSZoYXNoX3ZhbHVlPUtkM2ZEV1ovSFNQOEJ1UTJKbFRxakE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+http://103.161.2.142/hls/sonyten1.m3u8
 #EXTINF:0 group-title="Sports",SONY TEN 2 HD
-http://etv.roarzone.info:8081/thunderbd/21/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS82LzIwMjIgNzoyNDozNiBQTSZoYXNoX3ZhbHVlPVQzdWhJOHdLT3g5VlhrOEs4MmpYUGc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+http://103.161.2.142/hls/sonyten2.m3u8
 #EXTINF:0 group-title="Sports",SONY TEN 3 HD
-http://etv.roarzone.info:8081/thunderbd/22/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS82LzIwMjIgNzoyNDozNiBQTSZoYXNoX3ZhbHVlPVQzdWhJOHdLT3g5VlhrOEs4MmpYUGc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+https://streamer-1.toffeelive.com/live/sony_ten3_hd_720/index.m3u8
 #EXTINF:0 group-title="Sports",Sony Six HD
-http://tv.roarzone.info/player2.php?stream=24
+http://103.161.2.142/hls/sonysix.m3u8
 #EXTINF:0 group-title="Sports",Red Bull TV HD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:0 group-title="Sports",ESPN
-http://etv.roarzone.info:8081/thunderbd/23/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS82LzIwMjIgNzoyNDozNiBQTSZoYXNoX3ZhbHVlPVQzdWhJOHdLT3g5VlhrOEs4MmpYUGc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+#EXTINF:0 group-title="Sports",Eurosport
+http://103.161.2.142/hls/euro.m3u8
 #EXTINF:0 group-title="Sports",PTV Sports
 
 
