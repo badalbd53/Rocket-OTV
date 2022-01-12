@@ -225,7 +225,7 @@ http://103.157.210.165:8000/play/a00r/index.m3u8
 #EXTINF:0 group-title="Kids",Hungama
 http://103.153.39.36:8000/play/a01x
 #EXTINF:0 group-title="Kids",Cartoon Network
-http://103.153.39.36:8000/play/a01w
+http://103.161.2.142/hls/cn.m3u8
 #EXTINF:0 group-title="Kids",Cartoon Network HD
 http://103.159.4.38:8080/KIDS-2/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Kids",Pogo
@@ -255,13 +255,13 @@ http://103.161.2.142/hls/wild.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="Documentary",Travel XP HD
 http://103.161.2.142/hls/travelxp.m3u8
 #EXTINF:0 group-title="Documentary",Animal Planet HD
-
+http://103.161.2.142/hls/animalplanent.m3u8
 #EXTINF:0 group-title="Documentary",TLC HD
 http://103.161.2.142/hls/tlc.m3u8
 #EXTINF:0 group-title="Documentary",Sony BBC Earth HD
-https://streamer-1.toffeelive.com/live/sony_bbc_earth_hd_720/index.m3u8
-#EXTINF:0 group-title="Documentary",History 18
-
+http://103.161.2.142/hls/bbcearth.m3u8
+#EXTINF:0 group-title="Documentary",TravelXP
+http://103.161.2.142/hls/travelxp.m3u8
 
 
 
@@ -275,6 +275,10 @@ https://streamer-1.toffeelive.com/live/sony_bbc_earth_hd_720/index.m3u8
 https://streamer-1.toffeelive.com/live/zee_cinema_hd_720/index.m3u8
 #EXTINF:0 group-title="Movies",Zee Cinema HD
 http://103.161.2.142/hls/zeecinemahd.m3u8
+#EXTINF:0 group-title="Movies",Sony Set Max
+http://103.161.2.142/hls/sonymax.m3u8
+#EXTINF:0 group-title="Movies",Sony Max HD
+http://103.161.2.142/hls/sony-maxhd.m3u8
 #EXTINF:0 group-title="Movies",& Picture
 http://103.161.2.142/hls/andpictures.m3u8
 #EXTINF:0 group-title="Movies",Colors Cineplex HD
@@ -295,8 +299,6 @@ https://streamer-1.toffeelive.com/live/zing_sd_720/index.m3u8
 http://103.161.2.142/hls/stargold.m3u8
 #EXTINF:0 group-title="Movies",Star Gold 2
 http://103.161.2.142/hls/stargold2hd.m3u8
-#EXTINF:0 group-title="Movies",Sony Max HD
-http://103.161.2.142/hls/sony-maxhd.m3u8
 #EXTINF:0 group-title="Movies",Sony Set Max
 https://streamer-1.toffeelive.com/live/sony_max_720/index.m3u8
 #EXTINF:0 group-title="Movies",Sony Max HD
@@ -306,11 +308,9 @@ https://streamer-1.toffeelive.com/live/sony_max_2_720/index.m3u8
 #EXTINF:0 group-title="Movies",Sony Wah
 https://streamer-1.toffeelive.com/live/sony_wah_720/index.m3u8
 #EXTINF:0 group-title="Movies",UTV Action
+http://103.161.2.142/hls/utvaction.m3u8
+#EXTINF:0 group-title="Movies",UTV Action
 http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Movies",UTV Action
-http://103.131.212.138:8000/play/a00k/index.m3u8
-#EXTINF:0 group-title="Movies",UTV Action
-http://103.153.39.36:8000/play/a01p
 #EXTINF:0 group-title="Movies",UTV Movies
 http://103.153.39.36:8000/play/a01o
 #EXTINF:0 group-title="Movies",B4U Kadak
