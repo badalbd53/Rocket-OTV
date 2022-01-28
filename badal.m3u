@@ -1,140 +1,138 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://i.imgur.com/H9qgGSc.png" group-title="Bangla",BTV
+#EXTINF:0 tvg-logo=https://i.imgur.com/H9qgGSc.png group-title=”Bangla”,BTV
 http://103.106.2.149:13456/btv.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/RR0Iv6V.png" group-title="Bangla",BTV World
+#EXTINF:0 tvg-logo=https://i.imgur.com/RR0Iv6V.png group-title=”Bangla”,BTV World
 http://10.16.100.208:8082/hindi/bTvwOrld_1stop.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="Bangla",Songsad TV
+#EXTINF:0 tvg-logo=https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg group-title=”Bangla”,Songsad TV
 http://103.106.2.149:13456/sangsad.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/ESWXan9.png" group-title="Islamic",ATN Islamic TV
+#EXTINF:0 tvg-logo=https://i.imgur.com/ESWXan9.png group-title=”Islamic”,ATN Islamic TV
 http://iptvbd.jagobd.com:1931/live-orgin/atnislamictv.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/J4JNrkH.png" group-title="Islamic",Peace TV Bangla
+#EXTINF:0 tvg-logo=https://i.imgur.com/J4JNrkH.png group-title=”Islamic”,Peace TV Bangla
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/vr3EWTI.jpg" group-title="Islamic",Madani TV
+#EXTINF:0 tvg-logo=https://i.imgur.com/vr3EWTI.jpg group-title=”Islamic”,Madani TV
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/QSrvJLt.jpeg" group-title="Islamic",Panvision TV
+#EXTINF:0 tvg-logo=https://i.imgur.com/QSrvJLt.jpeg group-title=”Islamic”,Panvision TV
 
-#EXTINF:0 group-title="Islamic",Azan TV
+#EXTINF:0 group-title=”Islamic”,Azan TV
 
-#EXTINF:0 group-title="Islamic",Makkah Live
+#EXTINF:0 group-title=”Islamic”,Makkah Live
 https://streamer-1.toffeelive.com/live/quran_tv_720/index.m3u8
-#EXTINF:0 group-title="Islamic",Madina Live
+#EXTINF:0 group-title=”Islamic”,Madina Live
 https://streamer-1.toffeelive.com/live/sunnah_tv_720/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/pJhdZme.png" group-title="Islamic",AL Dawah TV
+#EXTINF:0 tvg-logo=https://i.imgur.com/pJhdZme.png group-title=”Islamic”,AL Dawah TV
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/eyAInC9.png" group-title="Bangla",Gtv
+#EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv
 http://10.16.100.207:8082/sports/TH_gtv-local.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/eyAInC9.png" group-title="Bangla",Gtv HD
-http://103.161.2.142/hls/Gazi-TV.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Bangla",T Sports HD
+#EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv HD
+http://live.flixhub.net/hls/Gazi-TV.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
 http://103.159.4.38:5868/BD-BANGLA-11/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Bangla",T Sports HD
-http://103.161.2.142/hls/t-sports.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/7ftu2Rt.jpg" group-title="Bangla",Maasranga
-http://103.161.2.142/hls/masranga.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Bangla",Duronto TV
+#EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
+http://live.flixhub.net/hls/t-sports.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/7ftu2Rt.jpg group-title=”Bangla”,Maasranga
+http://live.flixhub.net/hls/masranga.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/PK9Gm5g.png group-title=”Bangla”,Duronto TV
 http://103.70.140.27:8080/hls/duronto.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/4imblNY.jpg" group-title="Bangla",Mohona
+#EXTINF:0 tvg-logo=https://i.imgur.com/4imblNY.jpg group-title=”Bangla”,Mohona
 http://iptvbd.jagobd.com:1931/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/fxq0pV2.png" group-title="Bangla",Asian TV
+#EXTINF:0 tvg-logo=https://i.imgur.com/fxq0pV2.png group-title=”Bangla”,Asian TV
 http://103.159.4.38:5868/BD-BANGLA-22/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Bangla",ATN Bangla
+#EXTINF:0 tvg-logo=https://i.imgur.com/5PsRkPd.png group-title=”Bangla”,ATN Bangla
 http://stream.amrbd.com:8082/ATN-Bangla/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="Bangla",Banglavision TV
+#EXTINF:0 tvg-logo=https://i.imgur.com/HX8SSDA.png group-title=”Bangla”,Banglavision TV
 http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/pTJSGtj.png" group-title="Bangla",Boishakhi TV
+#EXTINF:0 tvg-logo=https://i.imgur.com/pTJSGtj.png group-title=”Bangla”,Boishakhi TV
 http://iptvbd.jagobd.com:1931/live-orgin/boishakhitv-org.stream/chunks.m3u8
-#EXTINF:0 group-title="Bangla",Boishakhi TV Plus
+#EXTINF:0 group-title=”Bangla”,Boishakhi TV Plus
 http://iptvbd.jagobd.com:1931/live-orgin/boishakhiplus.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/fj8nxOw.png" group-title="Bangla",Channel 9 HD
+#EXTINF:0 tvg-logo=https://i.imgur.com/fj8nxOw.png group-title=”Bangla”,Channel 9 HD
 http://iptvbd.jagobd.com:1931/live-orgin/channel9hd.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/p0I5dr0.png" group-title="Bangla",Channel I
+#EXTINF:0 tvg-logo=https://i.imgur.com/p0I5dr0.png group-title=”Bangla”,Channel I
 http://103.159.4.38:5868/BD-BANGLA-1/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/tPZKfLr.png" group-title="Bangla",Deepto TV
+#EXTINF:0 tvg-logo=https://i.imgur.com/tPZKfLr.png group-title=”Bangla”,Deepto TV
 http://iptvbd.jagobd.com:1931/live-orgin/deeptotv.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/JgkIH3w.png" group-title="Bangla",Desh TV
+#EXTINF:0 tvg-logo=https://i.imgur.com/JgkIH3w.png group-title=”Bangla”,Desh TV
 http://iptvbd.jagobd.com:1931/live-orgin/deshtv.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/JgkIH3w.png" group-title="Bangla",Desh TV
+#EXTINF:0 tvg-logo=https://i.imgur.com/JgkIH3w.png group-title=”Bangla”,Desh TV
 https://streamer-1.toffeelive.com/live/desh_tv_720/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/v9PqrCG.png" group-title="News",ATN News
+#EXTINF:0 tvg-logo=https://i.imgur.com/v9PqrCG.png group-title=”News”,ATN News
 http://103.159.4.38:5868/BD-BANGLA-14/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/i8T9qQs.png" group-title="News",Ekattor TV
+#EXTINF:0 tvg-logo=https://i.imgur.com/i8T9qQs.png group-title=”News”,Ekattor TV
 http://stream.amrbd.com:8082/Ekattor-tv/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/kviJN1i.png" group-title="News",Independent TV
+#EXTINF:0 tvg-logo=https://i.imgur.com/kviJN1i.png group-title=”News”,Independent TV
 http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/Z2QvpTn.png" group-title="News",Somoy News
+#EXTINF:0 tvg-logo=https://i.imgur.com/Z2QvpTn.png group-title=”News”,Somoy News
 http://stream.amrbd.com:8082/Somoy-TV/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/FxsW4XI.png" group-title="News",News 24
+#EXTINF:0 tvg-logo=https://i.imgur.com/FxsW4XI.png group-title=”News”,News 24
 http://stream.amrbd.com:8082/News24bd/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/djAX8Rc.png" group-title="News",DBC News
+#EXTINF:0 tvg-logo=https://i.imgur.com/djAX8Rc.png group-title=”News”,DBC News
 http://stream.amrbd.com:8082/DBC-NEWS/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="Bangla",Channel 24
+#EXTINF:0 tvg-logo=https://i.imgur.com/MmhxR5E.png group-title=”Bangla”,Channel 24
 http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/ds3aThu.jpg" group-title="Bangla",Jamuna TV
+#EXTINF:0 tvg-logo=https://i.imgur.com/ds3aThu.jpg group-title=”Bangla”,Jamuna TV
 http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8
-#EXTINF:0 group-title="Bangla",Cumilla 24
+#EXTINF:0 group-title=”Bangla”,Cumilla 24
 http://iptvbd.jagobd.com:1931/live-orgin/cumilla24.stream/playlist.m3u8
-#EXTINF:0 group-title="Bangla",Global TV
+#EXTINF:0 group-title=”Bangla”,Global TV
 http://iptvbd.jagobd.com:1931/live-orgin/globaltv.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/kFqOMtx.png" group-title="Bangla",Ekushey ETV
+#EXTINF:0 tvg-logo=https://i.imgur.com/kFqOMtx.png group-title=”Bangla”,Ekushey ETV
 http://103.159.4.38:5868/BD-BANGLA-16/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="Bangla",NTV
+#EXTINF:0 tvg-logo=https://i.imgur.com/3usnOla.png group-title=”Bangla”,NTV
 http://103.159.4.38:8080/BD-BANGLA-18/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/2cpHJKq.png" group-title="Bangla",Nagorik TV
+#EXTINF:0 tvg-logo=https://i.imgur.com/2cpHJKq.png group-title=”Bangla”,Nagorik TV
 http://stream.amrbd.com:8082/Nagorik-TV/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/yi5p51T.png" group-title="Bangla",RTV
+#EXTINF:0 tvg-logo=https://i.imgur.com/yi5p51T.png group-title=”Bangla”,RTV
 http://stream.amrbd.com:8082/RTV/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/fraEjzm.png" group-title="Bangla",SA TV HD
+#EXTINF:0 tvg-logo=https://i.imgur.com/fraEjzm.png group-title=”Bangla”,SA TV HD
 http://stream.amrbd.com:8082/SATV/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/K43LsMQ.png" group-title="Bangla",Bangla TV HD
+#EXTINF:0 tvg-logo=https://i.imgur.com/K43LsMQ.png group-title=”Bangla”,Bangla TV HD
 http://stream.amrbd.com:8082/Bangla-TV/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/kDmkexe.png" group-title="Bangla",Bijoy TV
+#EXTINF:0 tvg-logo=https://i.imgur.com/kDmkexe.png group-title=”Bangla”,Bijoy TV
 http://stream.amrbd.com:8082/BijoyTv/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/bahWhBG.png" group-title="Bangla",MyTV
+#EXTINF:0 tvg-logo=https://i.imgur.com/bahWhBG.png group-title=”Bangla”,MyTV
 http://stream.amrbd.com:8082/MyTV/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/h5FhOWT.png" group-title="Bangla",Ananda TV
+#EXTINF:0 tvg-logo=https://i.imgur.com/h5FhOWT.png group-title=”Bangla”,Ananda TV
 http://stream.amrbd.com:8082/anandotv/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Movies",Movie Bangla
+#EXTINF:0 tvg-logo=https://i.imgur.com/IYGU8Km.png group-title=”Movies”,Movie Bangla
 http://iptvbd.jagobd.com:1931/live-orgin/moviebanglalink2.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/IYGU8Km.png" group-title="Movies",My Cinema
+#EXTINF:0 tvg-logo=https://i.imgur.com/IYGU8Km.png group-title=”Movies”,My Cinema
 http://iptvbd.jagobd.com:1931/live-orgin/mycinema-up2.stream/playlist.m3u8
 
 
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="Music",Gaan Bangla
+#EXTINF:0 tvg-logo=https://i.imgur.com/Jo7wzmn.png group-title=”Music”,Gaan Bangla
 http://stream.amrbd.com:8082/GaanBangla/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/OTzS5Fc.png" group-title="Music",ATN MUSIC
+#EXTINF:0 tvg-logo=https://i.imgur.com/OTzS5Fc.png group-title=”Music”,ATN MUSIC
 http://iptvbd.jagobd.com:1931/live-orgin/atnmusic.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/PmXZNaK.png" group-title="Music",RTV MUSIC
+#EXTINF:0 tvg-logo=https://i.imgur.com/PmXZNaK.png group-title=”Music”,RTV MUSIC
 https://cdnr.appv.jagobd.com:444/live-orgin/rtvmusic.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/PmXZNaK.png" group-title="Music",MUSIC CIPL
+#EXTINF:0 tvg-logo=https://i.imgur.com/PmXZNaK.png group-title=”Music”,MUSIC CIPL
 http://iptvbd.jagobd.com:1931/live-orgin//musiccipl.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/g9OTeXV.png" group-title="Music",Sangeet Bangla
+#EXTINF:0 tvg-logo=https://i.imgur.com/g9OTeXV.png group-title=”Music”,Sangeet Bangla
 
-#EXTINF:0 group-title="Music",Bangla Talkies
+#EXTINF:0 group-title=”Music”,Bangla Talkies
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/7rnhie0.png" group-title="Music",Dhoom
+#EXTINF:0 tvg-logo=https://i.imgur.com/7rnhie0.png group-title=”Music”,Dhoom
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/DKVLQ7m.png" group-title="Music",MTV
+#EXTINF:0 tvg-logo=https://i.imgur.com/DKVLQ7m.png group-title=”Music”,MTV
 https://streamer-1.toffeelive.com/live/mtv_720/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/DKVLQ7m.png" group-title="Music",MTV Beats HD
+#EXTINF:0 tvg-logo=https://i.imgur.com/DKVLQ7m.png group-title=”Music”,MTV Beats HD
 
-#EXTINF:0 group-title="Music",MTV Beats
+#EXTINF:0 group-title=”Music”,MTV Beats
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/LZ7W3Yc.png" group-title="Music",Mastiii
+#EXTINF:0 tvg-logo=https://i.imgur.com/LZ7W3Yc.png group-title=”Music”,Mastiii
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="Music",9XM Music
+#EXTINF:0 tvg-logo=https://i.imgur.com/0rFA2Cx.png group-title=”Music”,9XM Music
 https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/3mkjuTk.png" group-title="Music",9X Jalwa
+#EXTINF:0 tvg-logo=https://i.imgur.com/3mkjuTk.png group-title=”Music”,9X Jalwa
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/wg3N1VT.png" group-title="Music",Music India
+#EXTINF:0 tvg-logo=https://i.imgur.com/wg3N1VT.png group-title=”Music”,Music India
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/wRc0YAb.png" group-title="Music",Bindass
-http://103.161.2.142/hls/bindass.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/chHDUsi.png" group-title="Movies",ZING
+#EXTINF:0 tvg-logo=https://i.imgur.com/wRc0YAb.png group-title=”Music”,Bindass
+http://live.flixhub.net/hls/bindass.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/chHDUsi.png group-title=”Movies”,ZING
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/stZqDcA.png" group-title="Movies",B4U Music
-
-
+#EXTINF:0 tvg-logo=https://i.imgur.com/stZqDcA.png group-title=”Movies”,B4U Music
 
 
 
@@ -143,36 +141,38 @@ http://103.161.2.142/hls/bindass.m3u8
 
 
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Drama",Star Jalsha
+
+
+#EXTINF:0 tvg-logo=https://i.imgur.com/ppJO2Ep.png group-title=”Drama”,Star Jalsha
 http://103.159.4.38:8080/IN-BANGLA-3/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Drama",Star Jalsha HD
-http://103.161.2.142/hls/starjalsha.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Drama",Zee Bangla HD
+#EXTINF:0 tvg-logo=https://i.imgur.com/9d1xXjN.png group-title=”Drama”,Star Jalsha HD
+http://live.flixhub.net/hls/starjalsha.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/e5Ldh7e.png group-title=”Drama”,Zee Bangla HD
 http://103.159.4.38:8080/IN-BANGLA-4/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Drama",Zee Bangla
+#EXTINF:0 tvg-logo=https://i.imgur.com/e5Ldh7e.png group-title=”Drama”,Zee Bangla
 https://streamer-1.toffeelive.com/live/zee_bangla_720/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Drama",Zee Bangla HD
-http://103.161.2.142/hls/zeebanglahd.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="Drama",Sun Bangla
-http://103.161.2.142/hls/sunbangla.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Drama",Colors Bangla HD
-http://103.161.2.142/hls/colorsbangla.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/e5Ldh7e.png group-title=”Drama”,Zee Bangla HD
+http://live.flixhub.net/hls/zeebanglahd.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/PW9hRDa.png group-title=”Drama”,Sun Bangla
+http://live.flixhub.net/hls/sunbangla.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/HVZHZGl.png group-title=”Drama”,Colors Bangla HD
+http://live.flixhub.net/hls/colorsbangla.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Movies",Jalsha Movies
+#EXTINF:0 tvg-logo=https://i.imgur.com/2PQfcOh.png group-title=”Movies”,Jalsha Movies
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Movies",Jalsha Movies HD
-http://103.161.2.142/hls/jalshamovies.m3u8
-#EXTINF:0 group-title="Drama",Colors Bangla Cinema
-http://103.161.2.142/hls/colore-bangla-cinema.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Movies",Zee Bangla Cinema
-http://103.161.2.142/hls/zee-bangla-cinema.m3u8
-#EXTINF:0 group-title="Movies",Enterr10 Bangla
+#EXTINF:0 tvg-logo=https://i.imgur.com/2PQfcOh.png group-title=”Movies”,Jalsha Movies HD
+http://live.flixhub.net/hls/jalshamovies.m3u8
+#EXTINF:0 group-title=”Drama”,Colors Bangla Cinema
+http://live.flixhub.net/hls/colore-bangla-cinema.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/M6GyIvI.png group-title=”Movies”,Zee Bangla Cinema
+http://live.flixhub.net/hls/zee-bangla-cinema.m3u8
+#EXTINF:0 group-title=”Movies”,Enterr10 Bangla
 
-#EXTINF:0 group-title="Drama",Sony AATH
-http://103.161.2.142/hls/Sony_Aath.m3u8
-#EXTINF:0 group-title="Drama",Sony AATH
+#EXTINF:0 group-title=”Drama”,Sony AATH
+http://live.flixhub.net/hls/Sony_Aath.m3u8
+#EXTINF:0 group-title=”Drama”,Sony AATH
 https://streamer-1.toffeelive.com/live/sony_aath_720/index.m3u8
-#EXTINF:0 group-title="Drama",Rongeen TV
+#EXTINF:0 group-title=”Drama”,Rongeen TV
 
 
 
@@ -180,22 +180,22 @@ https://streamer-1.toffeelive.com/live/sony_aath_720/index.m3u8
 
 
 
-#EXTINF:0 group-title="Drama",Sony Sab HD
+#EXTINF:0 group-title=”Drama”,Sony Sab HD
 https://streamer-1.toffeelive.com/live/sony_sab_hd_720/index.m3u8
-#EXTINF:0 group-title="Drama",Star Plus
+#EXTINF:0 group-title=”Drama”,Star Plus
 
-#EXTINF:0 group-title="Drama",Star Plus HD
+#EXTINF:0 group-title=”Drama”,Star Plus HD
 
 
-#EXTINF:0 group-title="Drama",Sony HD
-http://103.161.2.142/hls/sonyen.m3u8
-#EXTINF:0 group-title="Drama",Sony TV
+#EXTINF:0 group-title=”Drama”,Sony HD
+http://live.flixhub.net/hls/sonyen.m3u8
+#EXTINF:0 group-title=”Drama”,Sony TV
 https://streamer-1.toffeelive.com/live/sony_entertainment_720/index.m3u8
-#EXTINF:0 group-title="Drama",Sony HD
+#EXTINF:0 group-title=”Drama”,Sony HD
 https://streamer-1.toffeelive.com/live/sony_entertainmnt_hd_720/index.m3u8
-#EXTINF:0 group-title="Drama",Sony Pal
+#EXTINF:0 group-title=”Drama”,Sony Pal
 https://streamer-1.toffeelive.com/live/sony_pal_720/index.m3u8
-#EXTINF:0 group-title="Drama",Colors HD
+#EXTINF:0 group-title=”Drama”,Colors HD
 https://streamer-1.toffeelive.com/live/colors_720/index.m3u8
 
 
@@ -204,31 +204,31 @@ https://streamer-1.toffeelive.com/live/colors_720/index.m3u8
 
 
 
-#EXTINF:0 group-title="Kids",Nick
+#EXTINF:0 group-title=”Kids”,Nick
 https://streamer-1.toffeelive.com/live/nick_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qkvo1BH.png" group-title="Kids",Nick jr
+#EXTINF:-1 tvg-logo=https://i.imgur.com/Qkvo1BH.png group-title=”Kids”,Nick jr
 http://103.153.39.36:8000/play/a023
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4rEFCPQ.jpg" group-title="Kids",Sony Yay
+#EXTINF:-1 tvg-logo=https://i.imgur.com/4rEFCPQ.jpg group-title=”Kids”,Sony Yay
 https://streamer-1.toffeelive.com/live/sony_yay_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="Kids",Discovery Kids
+#EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png group-title=”Kids”,Discovery Kids
 http://103.153.39.36:8000/play/a024
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png" group-title="Kids",Sonic
+#EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png group-title=”Kids”,Sonic
 http://103.153.39.36:8000/play/a021
-#EXTINF:0 group-title="Kids",Disney
+#EXTINF:0 group-title=”Kids”,Disney
 http://103.153.39.36:8000/play/a01y
-#EXTINF:0 group-title="Kids",Disney
+#EXTINF:0 group-title=”Kids”,Disney
 http://103.157.210.165:8000/play/a00r/index.m3u8
-#EXTINF:0 group-title="Kids",Disney jr
+#EXTINF:0 group-title=”Kids”,Disney jr
 
-#EXTINF:0 group-title="Kids",Disney
+#EXTINF:0 group-title=”Kids”,Disney
 
-#EXTINF:0 group-title="Kids",Hungama
+#EXTINF:0 group-title=”Kids”,Hungama
 http://103.153.39.36:8000/play/a01x
-#EXTINF:0 group-title="Kids",Cartoon Network
-http://103.161.2.142/hls/cn.m3u8
-#EXTINF:0 group-title="Kids",Cartoon Network HD
+#EXTINF:0 group-title=”Kids”,Cartoon Network
+http://live.flixhub.net/hls/cn.m3u8
+#EXTINF:0 group-title=”Kids”,Cartoon Network HD
 http://103.159.4.38:8080/KIDS-2/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Kids",Pogo
+#EXTINF:0 group-title=”Kids”,Pogo
 http://103.153.39.36:8000/play/a022
 
 
@@ -241,29 +241,27 @@ http://103.153.39.36:8000/play/a022
 
 
 
-#EXTINF:0 group-title="Documentary",Discovery
+#EXTINF:0 group-title=”Documentary”,Discovery
 http://103.153.39.36:8000/play/a00y
-#EXTINF:0 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="Documentary",Discovery HD
-http://103.161.2.142/hls/discovery.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Documentary",Discovery Science
-http://103.161.2.142/hls/dis-science.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/8GG7Ny9.png group-title=”Documentary”,Discovery HD
+http://live.flixhub.net/hls/discovery.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/m7Cl2M9.png group-title=”Documentary”,Discovery Science
+http://live.flixhub.net/hls/dis-science.m3u8
 
-#EXTINF:0 group-title="Documentary",National Geographic HD
-http://103.161.2.142/hls/ngohd.m3u8
-#EXTINF:0 group-title="Documentary",NatGeo Wild
-http://103.161.2.142/hls/wild.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="Documentary",Travel XP HD
-http://103.161.2.142/hls/travelxp.m3u8
-#EXTINF:0 group-title="Documentary",Animal Planet HD
-http://103.161.2.142/hls/animalplanent.m3u8
-#EXTINF:0 group-title="Documentary",TLC HD
-http://103.161.2.142/hls/tlc.m3u8
-#EXTINF:0 group-title="Documentary",Sony BBC Earth HD
-http://103.161.2.142/hls/bbcearth.m3u8
-#EXTINF:0 group-title="Documentary",TravelXP
-http://103.161.2.142/hls/travelxp.m3u8
-
-
+#EXTINF:0 group-title=”Documentary”,National Geographic HD
+http://live.flixhub.net/hls/ngohd.m3u8
+#EXTINF:0 group-title=”Documentary”,NatGeo Wild
+http://live.flixhub.net/hls/wild.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/KLBorkM.png group-title=”Documentary”,Travel XP HD
+http://live.flixhub.net/hls/travelxp.m3u8
+#EXTINF:0 group-title=”Documentary”,Animal Planet HD
+http://live.flixhub.net/hls/animalplanent.m3u8
+#EXTINF:0 group-title=”Documentary”,TLC HD
+http://live.flixhub.net/hls/tlc.m3u8
+#EXTINF:0 group-title=”Documentary”,Sony BBC Earth HD
+http://live.flixhub.net/hls/bbcearth.m3u8
+#EXTINF:0 group-title=”Documentary”,TravelXP
+http://live.flixhub.net/hls/travelxp.m3u8
 
 
 
@@ -271,58 +269,60 @@ http://103.161.2.142/hls/travelxp.m3u8
 
 
 
-#EXTINF:0 group-title="Movies",Zee Cinema
+
+
+#EXTINF:0 group-title=”Movies”,Zee Cinema
 https://streamer-1.toffeelive.com/live/zee_cinema_hd_720/index.m3u8
-#EXTINF:0 group-title="Movies",Zee Cinema HD
-http://103.161.2.142/hls/zeecinemahd.m3u8
-#EXTINF:0 group-title="Movies",Sony Set Max
-http://103.161.2.142/hls/sonymax.m3u8
-#EXTINF:0 group-title="Movies",Sony Max HD
-http://103.161.2.142/hls/sony-maxhd.m3u8
-#EXTINF:0 group-title="Movies",& Picture
-http://103.161.2.142/hls/andpictures.m3u8
-#EXTINF:0 group-title="Movies",Colors Cineplex HD
-http://103.161.2.142/hls/colorscineplex.m3u8
-#EXTINF:0 group-title="Movies",Zee Cinema Me
+#EXTINF:0 group-title=”Movies”,Zee Cinema HD
+http://live.flixhub.net/hls/zeecinemahd.m3u8
+#EXTINF:0 group-title=”Movies”,Sony Set Max
+http://live.flixhub.net/hls/sonymax.m3u8
+#EXTINF:0 group-title=”Movies”,Sony Max HD
+http://live.flixhub.net/hls/sony-maxhd.m3u8
+#EXTINF:0 group-title=”Movies”,& Picture
+http://live.flixhub.net/hls/andpictures.m3u8
+#EXTINF:0 group-title=”Movies”,Colors Cineplex HD
+http://live.flixhub.net/hls/colorscineplex.m3u8
+#EXTINF:0 group-title=”Movies”,Zee Cinema Me
 
-#EXTINF:0 group-title="Movies",Zee Action
+#EXTINF:0 group-title=”Movies”,Zee Action
 https://streamer-1.toffeelive.com/live/zee_action_720/index.m3u8
-#EXTINF:0 group-title="Movies",Zee Anmol Cinema
+#EXTINF:0 group-title=”Movies”,Zee Anmol Cinema
 
-#EXTINF:0 group-title="Movies",Star Gold Select HD
+#EXTINF:0 group-title=”Movies”,Star Gold Select HD
 
-#EXTINF:0 group-title="Movies",Star Gold
+#EXTINF:0 group-title=”Movies”,Star Gold
 
-#EXTINF:0 group-title="Movies",Zing
+#EXTINF:0 group-title=”Movies”,Zing
 https://streamer-1.toffeelive.com/live/zing_sd_720/index.m3u8
-#EXTINF:0 group-title="Movies",Star Gold HD
-http://103.161.2.142/hls/stargold.m3u8
-#EXTINF:0 group-title="Movies",Star Gold 2
-http://103.161.2.142/hls/stargold2hd.m3u8
-#EXTINF:0 group-title="Movies",Sony Set Max
+#EXTINF:0 group-title=”Movies”,Star Gold HD
+http://live.flixhub.net/hls/stargold.m3u8
+#EXTINF:0 group-title=”Movies”,Star Gold 2
+http://live.flixhub.net/hls/stargold2hd.m3u8
+#EXTINF:0 group-title=”Movies”,Sony Set Max
 https://streamer-1.toffeelive.com/live/sony_max_720/index.m3u8
-#EXTINF:0 group-title="Movies",Sony Max HD
+#EXTINF:0 group-title=”Movies”,Sony Max HD
 https://streamer-1.toffeelive.com/live/set_max_hd_720/index.m3u8
-#EXTINF:0 group-title="Movies",Sony Max 2
+#EXTINF:0 group-title=”Movies”,Sony Max 2
 https://streamer-1.toffeelive.com/live/sony_max_2_720/index.m3u8
-#EXTINF:0 group-title="Movies",Sony Wah
+#EXTINF:0 group-title=”Movies”,Sony Wah
 https://streamer-1.toffeelive.com/live/sony_wah_720/index.m3u8
-#EXTINF:0 group-title="Movies",UTV Action
-http://103.161.2.142/hls/utvaction.m3u8
-#EXTINF:0 group-title="Movies",UTV Action
+#EXTINF:0 group-title=”Movies”,UTV Action
+http://live.flixhub.net/hls/utvaction.m3u8
+#EXTINF:0 group-title=”Movies”,UTV Action
 http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Movies",UTV Movies
+#EXTINF:0 group-title=”Movies”,UTV Movies
 http://103.153.39.36:8000/play/a01o
-#EXTINF:0 group-title="Movies",B4U Kadak
+#EXTINF:0 group-title=”Movies”,B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 
-#EXTINF:0 group-title="Movies",BflixMovies
+#EXTINF:0 group-title=”Movies”,BflixMovies
 http://103.159.4.38:8080/MOVIE-3/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Movies",Box Cinema
+#EXTINF:0 group-title=”Movies”,Box Cinema
 https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in.m3u8
-#EXTINF:0 group-title="Movies",Maha Movie
+#EXTINF:0 group-title=”Movies”,Maha Movie
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
-#EXTINF:0 group-title="Movies",Miniplex
+#EXTINF:0 group-title=”Movies”,Miniplex
 
 
 
@@ -330,24 +330,22 @@ https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
 
 
 
-#EXTINF:0 group-title="Entertainment",Sony Pix HD
+#EXTINF:0 group-title=”Entertainment”,Sony Pix HD
 https://streamer-1.toffeelive.com/live/sony_pix_hd_720/index.m3u8
-#EXTINF:0 group-title="Movies",And Flix HD
+#EXTINF:0 group-title=”Movies”,And Flix HD
 
-#EXTINF:0 group-title="Movies",&Prive HD
+#EXTINF:0 group-title=”Movies”,&Prive HD
 
-#EXTINF:0 group-title="Movies",Star Movies HD
-http://103.161.2.142/hls/starmovies.m3u8
-#EXTINF:0 group-title="Movies",Movies Now
-http://103.161.2.142/hls/movies-now.m3u8
-#EXTINF:0 group-title="Movies",MN+ HD
-http://103.161.2.142/hls/mn+.m3u8
-#EXTINF:0 group-title="Movies",MNX HD
-http://103.161.2.142/hls/mnx-hd.m3u8
-#EXTINF:0 group-title="Movies",Zee Café HD
-http://103.161.2.142/hls/sonypixhd.m3u8
-
-
+#EXTINF:0 group-title=”Movies”,Star Movies HD
+http://live.flixhub.net/hls/starmovies.m3u8
+#EXTINF:0 group-title=”Movies”,Movies Now
+http://live.flixhub.net/hls/movies-now.m3u8
+#EXTINF:0 group-title=”Movies”,MN+ HD
+http://live.flixhub.net/hls/mn+.m3u8
+#EXTINF:0 group-title=”Movies”,MNX HD
+http://live.flixhub.net/hls/mnx-hd.m3u8
+#EXTINF:0 group-title=”Movies”,Zee Café HD
+http://live.flixhub.net/hls/sonypixhd.m3u8
 
 
 
@@ -358,35 +356,40 @@ http://103.161.2.142/hls/sonypixhd.m3u8
 
 
 
-#EXTINF:0 group-title="Sports",Live Sports
+
+
+#EXTINF:0 group-title=”Sports”,Live Sports
 https://streamer-1.toffeelive.com/live/sports_live_01_720/index.m3u8
-#EXTINF:0 group-title="Sports",Live Sports
+#EXTINF:0 group-title=”Sports”,Live Sports
 https://streamer-1.toffeelive.com/live/sports_live_02_720/index.m3u8
-#EXTINF:0 group-title="Sports",Willow HD
+#EXTINF:0 group-title=”Sports”,Willow HD
 
-#EXTINF:0 group-title="Sports",Sky Sports Cricket
+#EXTINF:0 group-title=”Sports”,Sky Sports Cricket
 
-#EXTINF:0 group-title="Sports",Star Sports Select 1 HD
-http://103.161.2.142/hls/Star_Sport_Select1HD.m3u8
-#EXTINF:0 group-title="Sports",Star Sports Select 2 HD
-http://103.161.2.142/hls/select2.m3u8
-#EXTINF:0 group-title="Sports",Star Sports 1
-http://103.161.2.142/hls/stersports1hd.m3u8
-#EXTINF:0 group-title="Sports",Star Sports 2
-http://103.161.2.142/hls/starsports2.m3u8
-#EXTINF:0 group-title="Sports",SONY TEN 1 HD
-http://103.161.2.142/hls/sonyten1.m3u8
-#EXTINF:0 group-title="Sports",SONY TEN 2 HD
-http://103.161.2.142/hls/sonyten2.m3u8
-#EXTINF:0 group-title="Sports",SONY TEN 3 HD
+#EXTINF:0 group-title=”Sports”,Star Sports Select 1 HD
+http://live.flixhub.net/hls/Star_Sport_Select1HD.m3u8
+#EXTINF:0 group-title=”Sports”,Star Sports Select 2 HD
+http://live.flixhub.net/hls/select2.m3u8
+#EXTINF:0 group-title=”Sports”,Star Sports 1
+http://live.flixhub.net/hls/stersports1hd.m3u8
+#EXTINF:0 group-title=”Sports”,Star Sports 2
+http://live.flixhub.net/hls/starsports2.m3u8
+#EXTINF:0 group-title=”Sports”,SONY TEN 1 HD
+http://live.flixhub.net/hls/sonyten1.m3u8
+#EXTINF:0 group-title=”Sports”,SONY TEN 2 HD
+http://live.flixhub.net/hls/sonyten2.m3u8
+#EXTINF:0 group-title=”Sports”,SONY TEN 3 HD
 https://streamer-1.toffeelive.com/live/sony_ten3_hd_720/index.m3u8
-#EXTINF:0 group-title="Sports",Sony Six HD
-http://103.161.2.142/hls/sonysix.m3u8
-#EXTINF:0 group-title="Sports",Red Bull TV HD
+#EXTINF:0 group-title=”Sports”,Sony Six HD
+http://live.flixhub.net/hls/sonysix.m3u8
+#EXTINF:0 group-title=”Sports”,Red Bull TV HD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:0 group-title="Sports",Eurosport
-http://103.161.2.142/hls/euro.m3u8
-#EXTINF:0 group-title="Sports",PTV Sports
+#EXTINF:0 group-title=”Sports”,Eurosport
+http://live.flixhub.net/hls/euro.m3u8
+#EXTINF:0 group-title=”Sports”,PTV Sports
+
+
+
 
 
 
