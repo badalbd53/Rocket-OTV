@@ -150,7 +150,7 @@ http://live.flixhub.net/hls/starjalsha.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/e5Ldh7e.png group-title=”Drama”,Zee Bangla HD
 http://103.159.4.38:8080/IN-BANGLA-4/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/e5Ldh7e.png group-title=”Drama”,Zee Bangla
-https://streamer-1.toffeelive.com/live/zee_bangla_720/index.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/e5Ldh7e.png group-title=”Drama”,Zee Bangla HD
 http://live.flixhub.net/hls/zeebanglahd.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/PW9hRDa.png group-title=”Drama”,Sun Bangla
@@ -379,7 +379,7 @@ http://live.flixhub.net/hls/sonyten1.m3u8
 #EXTINF:0 group-title=”Sports”,SONY TEN 2 HD
 http://live.flixhub.net/hls/sonyten2.m3u8
 #EXTINF:0 group-title=”Sports”,SONY TEN 3 HD
-https://streamer-1.toffeelive.com/live/sony_ten3_hd_720/index.m3u8
+http://live.flixhub.net/hls/sonyten3.m3u8
 #EXTINF:0 group-title=”Sports”,Sony Six HD
 http://live.flixhub.net/hls/sonysix.m3u8
 #EXTINF:0 group-title=”Sports”,Red Bull TV HD
