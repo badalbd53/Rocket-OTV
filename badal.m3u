@@ -1,4 +1,4 @@
- #EXTM3U
+#EXTM3U
 #EXTINF:0 tvg-logo=https://i.imgur.com/H9qgGSc.png group-title=”Bangla”,BTV
 http://103.106.2.149:13456/btv.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/RR0Iv6V.png group-title=”Bangla”,BTV World
@@ -52,7 +52,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/deeptotv.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/JgkIH3w.png group-title=”Bangla”,Desh TV
 http://iptvbd.jagobd.com:1931/live-orgin/deshtv.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/JgkIH3w.png group-title=”Bangla”,Desh TV
-https://streamer-1.toffeelive.com/live/desh_tv_720/index.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/v9PqrCG.png group-title=”News”,ATN News
 http://103.159.4.38:5868/BD-BANGLA-14/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/i8T9qQs.png group-title=”News”,Ekattor TV
@@ -169,7 +169,7 @@ http://103.55.144.46/hls/zee-bangla-cinema.m3u8
 #EXTINF:0 group-title=”Drama”,Sony AATH
 http://103.55.144.46/hls/Sony_Aath.m3u8
 #EXTINF:0 group-title=”Drama”,Sony AATH
-https://streamer-1.toffeelive.com/live/sony_aath_720/index.m3u8
+
 #EXTINF:0 group-title=”Drama”,Rongeen TV
 
 
@@ -179,7 +179,7 @@ https://streamer-1.toffeelive.com/live/sony_aath_720/index.m3u8
 
 
 #EXTINF:0 group-title=”Drama”,Sony Sab HD
-https://streamer-1.toffeelive.com/live/sony_sab_hd_720/index.m3u8
+
 #EXTINF:0 group-title=”Drama”,Star Plus
 
 #EXTINF:0 group-title=”Drama”,Star Plus HD
