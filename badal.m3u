@@ -24,7 +24,7 @@ http://bdiptv.net:8080/ATNIslamic/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv HD
 http://103.55.144.46/hls/Gazi-TV.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
-http://103.159.4.38:5868/BD-BANGLA-11/tracks-v1a1/mono.m3u8
+http://103.149.130.122:8089/102/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
 http://103.55.144.46/hls/t-sports.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/7ftu2Rt.jpg group-title=”Bangla”,Maasranga
@@ -240,7 +240,7 @@ http://103.153.39.36:8000/play/a022
 
 
 #EXTINF:0 group-title=”Documentary”,Discovery
-http://103.153.39.36:8000/play/a00y
+http://103.149.130.122:8089/43/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/8GG7Ny9.png group-title=”Documentary”,Discovery HD
 http://103.55.144.46/hls/discovery.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/m7Cl2M9.png group-title=”Documentary”,Discovery Science
