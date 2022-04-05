@@ -16,9 +16,9 @@ http://iptvbd.jagobd.com:1931/live-orgin/atnislamictv.stream/chunks.m3u8
 #EXTINF:0 group-title=”Islamic”,Azan TV
 
 #EXTINF:0 group-title=”Islamic”,Makkah Live
-#EXTVLCOPT:http-user-agent=iPhone
-https://streamer-1.toffeelive.com/mobile_hls/quran_tv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+http://103.55.144.46/hls/qurqntv.m3u8
 #EXTINF:0 group-title=”Islamic”,Madina Live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36
 https://streamer-1.toffeelive.com/mobile_hls/sunnah_tv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:0 tvg-logo=https://i.imgur.com/pJhdZme.png group-title=”Islamic”,AL Dawah TV
 
@@ -35,9 +35,9 @@ http://103.149.130.122:8089/10/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/4imblNY.jpg group-title=”Bangla”,Mohona
 http://iptvbd.jagobd.com:1931/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/fxq0pV2.png group-title=”Bangla”,Asian TV
-http://103.159.4.38:8080/BD-BANGLA-22/index.m3u8
+http://103.149.130.122:8089/62/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/5PsRkPd.png group-title=”Bangla”,ATN Bangla
-http://stream.amrbd.com:8082/ATN-Bangla/tracks-v1a1/mono.m3u8
+http://103.149.130.122:8089/2/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/HX8SSDA.png group-title=”Bangla”,Banglavision TV
 http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/pTJSGtj.png group-title=”Bangla”,Boishakhi TV
@@ -47,7 +47,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/boishakhiplus.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/fj8nxOw.png group-title=”Bangla”,Channel 9 HD
 http://iptvbd.jagobd.com:1931/live-orgin/channel9hd.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/p0I5dr0.png group-title=”Bangla”,Channel I
-http://103.159.4.38:5868/BD-BANGLA-1/tracks-v1a1/mono.m3u8
+http://103.149.130.122:8089/6/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/tPZKfLr.png group-title=”Bangla”,Deepto TV
 http://iptvbd.jagobd.com:1931/live-orgin/deeptotv.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/JgkIH3w.png group-title=”Bangla”,Desh TV
@@ -55,17 +55,17 @@ http://iptvbd.jagobd.com:1931/live-orgin/deshtv.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/JgkIH3w.png group-title=”Bangla”,Desh TV
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/v9PqrCG.png group-title=”News”,ATN News
-http://103.159.4.38:5868/BD-BANGLA-14/tracks-v1a1/mono.m3u8
+http://103.149.130.122:8089/49/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/i8T9qQs.png group-title=”News”,Ekattor TV
-http://stream.amrbd.com:8082/Ekattor-tv/tracks-v1a1/mono.m3u8
+http://103.149.130.122:8089/11/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/kviJN1i.png group-title=”News”,Independent TV
 http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/playlist.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/Z2QvpTn.png group-title=”News”,Somoy News
-http://stream.amrbd.com:8082/Somoy-TV/tracks-v1a1/mono.m3u8
+http://103.149.130.122:8089/17/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/FxsW4XI.png group-title=”News”,News 24
-http://stream.amrbd.com:8082/News24bd/tracks-v1a1/mono.m3u8
+http://103.149.130.122:8089/18/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/djAX8Rc.png group-title=”News”,DBC News
-http://stream.amrbd.com:8082/DBC-NEWS/tracks-v1a1/mono.m3u8
+http://103.149.130.122:8089/7/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/MmhxR5E.png group-title=”Bangla”,Channel 24
 http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/ds3aThu.jpg group-title=”Bangla”,Jamuna TV
@@ -75,17 +75,17 @@ http://iptvbd.jagobd.com:1931/live-orgin/cumilla24.stream/playlist.m3u8
 #EXTINF:0 group-title=”Bangla”,Global TV
 http://iptvbd.jagobd.com:1931/live-orgin/globaltv.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/kFqOMtx.png group-title=”Bangla”,Ekushey ETV
-http://103.159.4.38:5868/BD-BANGLA-16/tracks-v1a1/mono.m3u8
+http://103.149.130.122:8089/65/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/3usnOla.png group-title=”Bangla”,NTV
-http://103.159.4.38:8080/BD-BANGLA-18/tracks-v1a1/mono.m3u8
+http://103.149.130.122:8089/54/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/2cpHJKq.png group-title=”Bangla”,Nagorik TV
-http://stream.amrbd.com:8082/Nagorik-TV/tracks-v1a1/mono.m3u8
+http://103.149.130.122:8089/59/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/yi5p51T.png group-title=”Bangla”,RTV
-http://stream.amrbd.com:8082/RTV/tracks-v1a1/mono.m3u8
+http://103.149.130.122:8089/14/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/fraEjzm.png group-title=”Bangla”,SA TV HD
-http://stream.amrbd.com:8082/SATV/tracks-v1a1/mono.m3u8
+http://103.149.130.122:8089/15/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/K43LsMQ.png group-title=”Bangla”,Bangla TV HD
-http://stream.amrbd.com:8082/Bangla-TV/tracks-v1a1/mono.m3u8
+http://103.149.130.122:8089/19/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/kDmkexe.png group-title=”Bangla”,Bijoy TV
 http://stream.amrbd.com:8082/BijoyTv/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/bahWhBG.png group-title=”Bangla”,MyTV
@@ -114,7 +114,7 @@ http://iptvbd.jagobd.com:1931/live-orgin//musiccipl.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/7rnhie0.png group-title=”Music”,Dhoom
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/DKVLQ7m.png group-title=”Music”,MTV
-https://streamer-1.toffeelive.com/live/mtv_720/index.m3u8
+https://cdn-01.toffeelive.com/live/mtv_720/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/DKVLQ7m.png group-title=”Music”,MTV Beats HD
 
 #EXTINF:0 group-title=”Music”,MTV Beats
@@ -270,8 +270,8 @@ http://103.55.144.46/hls/travelxp.m3u8
 
 
 
-#EXTINF:0 group-title=”Movies”,Zee Cinema
-https://streamer-1.toffeelive.com/live/zee_cinema_hd_720/index.m3u8
+#EXTINF:0 group-title=”Movies”,Goldmine
+http://103.55.144.46/hls/dhin.m3u8
 #EXTINF:0 group-title=”Movies”,Zee Cinema HD
 http://103.55.144.46/hls/zeecinemahd.m3u8
 #EXTINF:0 group-title=”Movies”,Sony Set Max
