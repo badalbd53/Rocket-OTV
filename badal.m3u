@@ -18,7 +18,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/atnislamictv.stream/chunks.m3u8
 #EXTINF:0 group-title=”Islamic”,Makkah Live
 http://103.55.144.46/hls/qurqntv.m3u8
 #EXTINF:0 group-title=”Islamic”,Madina Live
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://streamer-1.toffeelive.com/mobile_hls/sunnah_tv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:0 tvg-logo=https://i.imgur.com/pJhdZme.png group-title=”Islamic”,AL Dawah TV
 
@@ -260,7 +260,7 @@ http://103.55.144.46/hls/tlc.m3u8
 #EXTINF:0 group-title=”Documentary”,Sony BBC Earth HD
 http://103.55.144.46/hls/bbcearth.m3u8
 #EXTINF:0 group-title=”Documentary”,TravelXP
-http://103.55.144.46/hls/travelxp.m3u8
+
 
 
 
