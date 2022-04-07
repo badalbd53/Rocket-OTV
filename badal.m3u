@@ -14,18 +14,17 @@ http://iptvbd.jagobd.com:1931/live-orgin/atnislamictv.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/QSrvJLt.jpeg group-title=”Islamic”,Panvision TV
 
 #EXTINF:0 group-title=”Islamic”,Azan TV
-http://nbn.chowdhury-shaheb.com/live/duranta/chunks.m3u8
+
 #EXTINF:0 group-title=”Islamic”,Makkah Live
 http://103.55.144.46/hls/qurqntv.m3u8
 #EXTINF:0 group-title=”Islamic”,Madina Live
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://streamer-1.toffeelive.com/mobile_hls/sunnah_tv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/pJhdZme.png group-title=”Islamic”,AL Dawah TV
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv HD
 http://103.55.144.46/hls/Gazi-TV.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
-http://103.149.130.122:8089/102/index.m3u8
+http://103.70.140.27:8080/hls/tsports.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
 http://103.55.144.46/hls/t-sports.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/7ftu2Rt.jpg group-title=”Bangla”,Maasranga
@@ -35,9 +34,9 @@ http://103.113.195.141/live/duranta/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/4imblNY.jpg group-title=”Bangla”,Mohona
 http://iptvbd.jagobd.com:1931/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/fxq0pV2.png group-title=”Bangla”,Asian TV
-http://103.149.130.122:8089/62/index.m3u8
+http://10.16.100.203:8082/bangla/tv_AsiaN.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/5PsRkPd.png group-title=”Bangla”,ATN Bangla
-http://103.149.130.122:8089/2/index.m3u8
+http://103.70.140.27:8080/hls/atnbangla.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/HX8SSDA.png group-title=”Bangla”,Banglavision TV
 http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/pTJSGtj.png group-title=”Bangla”,Boishakhi TV
@@ -47,7 +46,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/boishakhiplus.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/fj8nxOw.png group-title=”Bangla”,Channel 9 HD
 http://iptvbd.jagobd.com:1931/live-orgin/channel9hd.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/p0I5dr0.png group-title=”Bangla”,Channel I
-http://103.149.130.122:8089/6/index.m3u8
+http://103.70.140.27:8080/hls/channeli.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/tPZKfLr.png group-title=”Bangla”,Deepto TV
 http://iptvbd.jagobd.com:1931/live-orgin/deeptotv.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/JgkIH3w.png group-title=”Bangla”,Desh TV
@@ -55,17 +54,17 @@ http://iptvbd.jagobd.com:1931/live-orgin/deshtv.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/JgkIH3w.png group-title=”Bangla”,Desh TV
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/v9PqrCG.png group-title=”News”,ATN News
-http://103.149.130.122:8089/49/index.m3u8
+http://10.16.100.245/hindi/atNnews_1st0p.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/i8T9qQs.png group-title=”News”,Ekattor TV
-http://103.149.130.122:8089/11/index.m3u8
+http://103.70.140.27:8080/hls/ekator.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/kviJN1i.png group-title=”News”,Independent TV
-http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/playlist.m3u8
+http://103.55.144.46/hls/indepen.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/Z2QvpTn.png group-title=”News”,Somoy News
-http://103.149.130.122:8089/17/index.m3u8
+http://103.55.144.46/hls/somoy.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/FxsW4XI.png group-title=”News”,News 24
-http://103.149.130.122:8089/18/index.m3u8
+http://103.70.140.27:8080/hls/news24.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/djAX8Rc.png group-title=”News”,DBC News
-http://103.149.130.122:8089/7/index.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/MmhxR5E.png group-title=”Bangla”,Channel 24
 http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/ds3aThu.jpg group-title=”Bangla”,Jamuna TV
@@ -75,9 +74,9 @@ http://iptvbd.jagobd.com:1931/live-orgin/cumilla24.stream/playlist.m3u8
 #EXTINF:0 group-title=”Bangla”,Global TV
 http://iptvbd.jagobd.com:1931/live-orgin/globaltv.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/kFqOMtx.png group-title=”Bangla”,Ekushey ETV
-http://103.149.130.122:8089/65/index.m3u8
+http://10.16.100.203:8082/bangla/ekushe_tv_local.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/3usnOla.png group-title=”Bangla”,NTV
-http://103.149.130.122:8089/54/index.m3u8
+http://103.70.140.27:8080/hls/ntv.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/2cpHJKq.png group-title=”Bangla”,Nagorik TV
 http://103.149.130.122:8089/59/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/yi5p51T.png group-title=”Bangla”,RTV
@@ -143,11 +142,11 @@ http://103.55.144.46/hls/bindass.m3u8
 
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/ppJO2Ep.png group-title=”Drama”,Star Jalsha
-
+http://103.135.133.21/hls/stream1.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/9d1xXjN.png group-title=”Drama”,Star Jalsha HD
 http://103.55.144.46/hls/starjalsha.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/e5Ldh7e.png group-title=”Drama”,Zee Bangla HD
-
+http://103.135.133.21/hls/stream2.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/e5Ldh7e.png group-title=”Drama”,Zee Bangla
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/e5Ldh7e.png group-title=”Drama”,Zee Bangla HD
@@ -214,9 +213,9 @@ http://103.153.39.36:8000/play/a024
 #EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png group-title=”Kids”,Sonic
 http://103.153.39.36:8000/play/a021
 #EXTINF:0 group-title=”Kids”,Disney
-http://103.153.39.36:8000/play/a01y
+
 #EXTINF:0 group-title=”Kids”,Disney
-http://103.157.210.165:8000/play/a00r/index.m3u8
+http://opplex.tv:8080/live/bGBCT3UTy4n3/Kta7nf92AB6n/167551.m3u8
 #EXTINF:0 group-title=”Kids”,Disney jr
 
 #EXTINF:0 group-title=”Kids”,Disney
