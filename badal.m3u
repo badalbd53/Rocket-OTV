@@ -14,7 +14,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/atnislamictv.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/QSrvJLt.jpeg group-title=”Islamic”,Panvision TV
 
 #EXTINF:0 group-title=”Islamic”,Azan TV
-
+http://nbn.chowdhury-shaheb.com/live/duranta/chunks.m3u8
 #EXTINF:0 group-title=”Islamic”,Makkah Live
 http://103.55.144.46/hls/qurqntv.m3u8
 #EXTINF:0 group-title=”Islamic”,Madina Live
