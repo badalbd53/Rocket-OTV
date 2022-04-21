@@ -215,7 +215,7 @@ http://103.153.39.36:8000/play/a021
 #EXTINF:0 group-title=”Kids”,Disney
 
 #EXTINF:0 group-title=”Kids”,Disney
-http://opplex.tv:8080/live/bGBCT3UTy4n3/Kta7nf92AB6n/167551.m3u8
+http://103.153.39.36:8000/play/a01y/index.m3u8
 #EXTINF:0 group-title=”Kids”,Disney jr
 
 #EXTINF:0 group-title=”Kids”,Disney
@@ -227,7 +227,9 @@ http://103.55.144.46/hls/cn.m3u8
 #EXTINF:0 group-title=”Kids”,Cartoon Network HD
 http://103.159.4.38:8080/KIDS-2/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title=”Kids”,Pogo
-http://103.153.39.36:8000/play/a022
+http://103.55.144.46/hls/pogo.m3u8
+
+
 
 
 
@@ -259,6 +261,9 @@ http://103.55.144.46/hls/tlc.m3u8
 #EXTINF:0 group-title=”Documentary”,Sony BBC Earth HD
 http://103.55.144.46/hls/bbcearth.m3u8
 #EXTINF:0 group-title=”Documentary”,TravelXP
+
+
+
 
 
 
@@ -328,6 +333,9 @@ https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
 
 
 
+
+
+
 #EXTINF:0 group-title=”Entertainment”,Sony Pix HD
 https://streamer-1.toffeelive.com/live/sony_pix_hd_720/index.m3u8
 #EXTINF:0 group-title=”Movies”,And Flix HD
@@ -357,9 +365,9 @@ http://103.55.144.46/hls/sonypixhd.m3u8
 
 
 #EXTINF:0 group-title=”Sports”,Live Sports
-https://streamer-1.toffeelive.com/live/sports_live_01_720/index.m3u8
+
 #EXTINF:0 group-title=”Sports”,Live Sports
-https://streamer-1.toffeelive.com/live/sports_live_02_720/index.m3u8
+
 #EXTINF:0 group-title=”Sports”,Willow HD
 
 #EXTINF:0 group-title=”Sports”,Sky Sports Cricket
