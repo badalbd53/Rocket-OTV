@@ -22,9 +22,9 @@ http://103.167.190.250/hls/qurqntv.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/pJhdZme.png group-title=”Islamic”,AL Dawah TV
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv HD
-http://stream.amrbd.com:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/Gazi-Tv/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
-http://103.124.110.34:8082/tsp/index.m3u8
+http://bdiptv.net:8082/tsp/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
 http://103.167.190.250/hls/t-sports.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/7ftu2Rt.jpg group-title=”Bangla”,Maasranga
@@ -364,14 +364,16 @@ http://103.167.190.250/hls/sonypixhd.m3u8
 
 
 
-#EXTINF:0 group-title=”Sports”,Live Sports
-
-#EXTINF:0 group-title=”Sports”,Live Sports
-
+#EXTINF:0 group-title=”Sports”,A Sports
+http://bdiptv.net:8082/ASPORTS/index.m3u8
+#EXTINF:0 group-title=”Sports”,Super Sports
+http://bdiptv.net:8082/SUPERSPORT-CRICKET/index.m3u8
 #EXTINF:0 group-title=”Sports”,Willow HD
-
+http://bdiptv.net:8082/WILLOW-CRICKET-HD/index.m3u8
 #EXTINF:0 group-title=”Sports”,Sky Sports Cricket
-
+http://bdiptv.net:8082/SKY-SPORTS-CRICKET/index.m3u8
+#EXTINF:0 group-title=”Sports”,Sky Sports Football
+http://bdiptv.net:8082/SKY-SPORTS-FOOTBALL/index.m3u8
 #EXTINF:0 group-title=”Sports”,Star Sports Select 1 HD
 http://103.167.190.250/hls/Star_Sport_Select1HD.m3u8
 #EXTINF:0 group-title=”Sports”,Star Sports Select 2 HD
@@ -394,3 +396,5 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 http://103.167.190.250/hls/euro.m3u8
 #EXTINF:0 group-title=”Sports”,PTV Sports
 http://103.167.190.250/hls/ptv.m3u8
+
+
