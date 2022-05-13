@@ -142,7 +142,7 @@ http://103.167.190.250/hls/bindass.m3u8
 
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/ppJO2Ep.png group-title=”Drama”,Star Jalsha
-http://103.135.133.21/hls/stream1.m3u8
+http://10.16.100.204:8082/hls/st@rj@lsha.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/9d1xXjN.png group-title=”Drama”,Star Jalsha HD
 http://103.167.190.250/hls/starjalsha.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/e5Ldh7e.png group-title=”Drama”,Zee Bangla HD
@@ -397,4 +397,4 @@ http://103.167.190.250/hls/euro.m3u8
 #EXTINF:0 group-title=”Sports”,PTV Sports
 http://103.167.190.250/hls/ptv.m3u8
 
-
+HD
