@@ -192,7 +192,7 @@ http://103.167.190.250/hls/sonyen.m3u8
 #EXTINF:0 group-title=”Drama”,Sony TV
 http://103.136.200.246:8082/SonyTVHD/index.m3u8
 #EXTINF:0 group-title=”Drama”,Sony HD
-
+http://89.187.162.109/SONYHD/mono.m3u8
 #EXTINF:0 group-title=”Drama”,Sony Pal
 
 #EXTINF:0 group-title=”Drama”,Colors HD
@@ -205,15 +205,15 @@ http://103.136.200.246:8082/SonyTVHD/index.m3u8
 
 
 #EXTINF:0 group-title=”Kids”,Nick
-https://streamer-1.toffeelive.com/live/nick_720/index.m3u8
+http://103.55.144.46/hls/nick.m3u8
 #EXTINF:-1 tvg-logo=https://i.imgur.com/Qkvo1BH.png group-title=”Kids”,Nick jr
-http://103.153.39.36:8000/play/a023
+
 #EXTINF:-1 tvg-logo=https://i.imgur.com/4rEFCPQ.jpg group-title=”Kids”,Sony Yay
-https://streamer-1.toffeelive.com/live/sony_yay_720/index.m3u8
+
 #EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png group-title=”Kids”,Discovery Kids
-http://103.153.39.36:8000/play/a024
+
 #EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png group-title=”Kids”,Sonic
-http://103.153.39.36:8000/play/a021
+
 #EXTINF:0 group-title=”Kids”,Disney
 
 #EXTINF:0 group-title=”Kids”,Disney
@@ -223,11 +223,11 @@ http://103.153.39.36:8000/play/a01y/index.m3u8
 #EXTINF:0 group-title=”Kids”,Disney
 
 #EXTINF:0 group-title=”Kids”,Hungama
-http://103.153.39.36:8000/play/a01x
+
 #EXTINF:0 group-title=”Kids”,Cartoon Network
 http://103.167.190.250/hls/cn.m3u8
 #EXTINF:0 group-title=”Kids”,Cartoon Network HD
-http://103.159.4.38:8080/KIDS-2/tracks-v1a1/mono.m3u8
+
 #EXTINF:0 group-title=”Kids”,Pogo
 http://103.167.190.250/hls/pogo.m3u8
 
