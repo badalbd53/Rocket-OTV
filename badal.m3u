@@ -26,7 +26,7 @@ http://103.136.200.246:8082/Gazi-Tv/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
 http://bdiptv.net:8082/tsp/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
-http://103.167.190.250/hls/t-sports.m3u8
+http://tvserver3.roarzone.info:25461/live/roarhome/noyan/102.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
 https://cdn.appv.jagobd.com:444/live-orgin/titash.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/7ftu2Rt.jpg group-title=”Bangla”,Maasranga
