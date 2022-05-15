@@ -194,7 +194,7 @@ http://103.136.200.246:8082/SonyTVHD/index.m3u8
 #EXTINF:0 group-title=”Drama”,Sony HD
 http://89.187.162.109/SONYHD/mono.m3u8
 #EXTINF:0 group-title=”Drama”,Sony Pal
-
+http://144.217.70.181:9587/hin2/SONYPAL/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title=”Drama”,Colors HD
 
 
