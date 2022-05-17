@@ -117,13 +117,13 @@ http://103.149.130.122:8089/91/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/7rnhie0.png group-title=”Music”,Dhoom
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/DKVLQ7m.png group-title=”Music”,MTV
-https://cdn-01.toffeelive.com/live/mtv_720/index.m3u8
+http://tvserver.aliflailabd.com:8989/mtv/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/DKVLQ7m.png group-title=”Music”,MTV Beats HD
 
 #EXTINF:0 group-title=”Music”,MTV Beats
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/LZ7W3Yc.png group-title=”Music”,Mastiii
-
+http://tvserver.aliflailabd.com:8989/musti-music/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/0rFA2Cx.png group-title=”Music”,9XM Music
 https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/3mkjuTk.png group-title=”Music”,9X Jalwa
@@ -378,6 +378,8 @@ http://bdiptv.net:8082/WILLOW-CRICKET-HD/index.m3u8
 http://bdiptv.net:8082/SKY-SPORTS-CRICKET/index.m3u8
 #EXTINF:0 group-title=”Sports”,Sky Sports Football
 http://bdiptv.net:8082/SKY-SPORTS-FOOTBALL/index.m3u8
+#EXTINF:0 group-title=”Sports”,Sky Net HD
+http://tvserver.aliflailabd.com:8989/SKY-NET-HD/index.m3u8
 #EXTINF:0 group-title=”Sports”,Star Sports Select 1 HD
 http://103.167.190.250/hls/Star_Sport_Select1HD.m3u8
 #EXTINF:0 group-title=”Sports”,Star Sports Select 2 HD
