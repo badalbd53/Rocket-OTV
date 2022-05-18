@@ -283,9 +283,9 @@ http://103.167.190.250/hls/dhin.m3u8
 #EXTINF:0 group-title=”Movies”,Zee Cinema HD
 http://103.167.190.250/hls/zeecinemahd.m3u8
 #EXTINF:0 group-title=”Movies”,Sony Set Max
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/77.m3u8
+https://stream.rangdhanu.live/SonyMaxHD/video.m3u8
 #EXTINF:0 group-title=”Movies”,Sony Max HD
-http://103.167.190.250/hls/sony-maxhd.m3u8
+http://tvserver.aliflailabd.com:8989/setmax/index.m3u8
 #EXTINF:0 group-title=”Movies”,& Picture
 http://103.167.190.250/hls/andpictures.m3u8
 #EXTINF:0 group-title=”Movies”,Colors Cineplex HD
