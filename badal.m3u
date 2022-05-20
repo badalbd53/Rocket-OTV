@@ -34,7 +34,7 @@ https://cdn.appv.jagobd.com:444/live-orgin/titash.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/7ftu2Rt.jpg group-title=”Bangla”,Maasranga
 http://103.167.190.250/hls/masranga.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/PK9Gm5g.png group-title=”Bangla”,Duronto TV
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/10.m3u8
+http://tvserver.aliflailabd.com:8989/duronto-tv/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/4imblNY.jpg group-title=”Bangla”,Mohona
 http://iptvbd.jagobd.com:1931/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/fxq0pV2.png group-title=”Bangla”,Asian TV
@@ -55,8 +55,8 @@ http://103.136.200.246:8082/Channel-i/index.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/deeptotv.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/JgkIH3w.png group-title=”Bangla”,Desh TV
 http://10.16.100.245/hindi/de$htv_1st0p.m3u8
-#EXTINF:0 tvg-logo=https://i.imgur.com/JgkIH3w.png group-title=”Bangla”,Desh TV
-
+#EXTINF:0 tvg-logo=https://i.imgur.com/JgkIH3w.png group-title=”Bangla”,Nexus TV
+http://103.167.190.250/hls/nexus.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/v9PqrCG.png group-title=”News”,ATN News
 http://10.16.100.245/hindi/atNnews_1st0p.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/i8T9qQs.png group-title=”News”,Ekattor TV
@@ -246,7 +246,7 @@ http://103.167.190.250/hls/pogo.m3u8
 
 
 #EXTINF:0 group-title=”Documentary”,Discovery
-http://tvserver3.roarzone.info:25461/live/roarhome/noyan/43.m3u8
+http://tvserver.aliflailabd.com:8989/discovery/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/8GG7Ny9.png group-title=”Documentary”,Discovery HD
 http://103.167.190.250/hls/discovery.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/m7Cl2M9.png group-title=”Documentary”,Discovery Science
