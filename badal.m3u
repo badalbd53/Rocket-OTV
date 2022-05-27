@@ -388,6 +388,8 @@ http://103.167.190.250/hls/select2.m3u8
 http://103.167.190.250/hls/stersports1hd.m3u8
 #EXTINF:0 group-title=”Sports”,Star Sports 2
 http://103.167.190.250/hls/starsports2.m3u8
+#EXTINF:0 group-title=”Sports”,Star Sports 3
+http://103.167.190.250/hls/starsports3.m3u8
 #EXTINF:0 group-title=”Sports”,SONY TEN 1 HD
 http://103.167.190.250/hls/sonyten1.m3u8
 #EXTINF:0 group-title=”Sports”,SONY TEN 2 HD
@@ -398,8 +400,8 @@ http://103.167.190.250/hls/sonyten3.m3u8
 http://103.167.190.250/hls/sonysix.m3u8
 #EXTINF:0 group-title=”Sports”,Red Bull TV HD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:0 group-title=”Sports”,Eurosport
-http://103.167.190.250/hls/euro.m3u8
+#EXTINF:0 group-title=”Sports”,Ten Sports 
+http://103.167.190.250/hls/ten.m3u8
 #EXTINF:0 group-title=”Sports”,PTV Sports
 http://103.167.190.250/hls/ptv.m3u8
 
