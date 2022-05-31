@@ -28,13 +28,13 @@ http://103.136.200.246:8082/Gazi-Tv/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
 http://bdiptv.net:8082/tsp/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
-http://tvserver.aliflailabd.com:8989/tsports/index.m3u8
+http://103.60.172.106:8080/TSportsHD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
 https://cdn.appv.jagobd.com:444/live-orgin/titash.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/7ftu2Rt.jpg group-title=”Bangla”,Maasranga
 http://103.167.190.250/hls/masranga.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/PK9Gm5g.png group-title=”Bangla”,Duronto TV
-http://tvserver.aliflailabd.com:8989/duronto-tv/index.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/4imblNY.jpg group-title=”Bangla”,Mohona
 http://iptvbd.jagobd.com:1931/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/fxq0pV2.png group-title=”Bangla”,Asian TV
@@ -117,13 +117,13 @@ http://103.149.130.122:8089/91/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/7rnhie0.png group-title=”Music”,Dhoom
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/DKVLQ7m.png group-title=”Music”,MTV
-http://tvserver.aliflailabd.com:8989/mtv/index.m3u8
+http://103.60.172.106:8080/MTV/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/DKVLQ7m.png group-title=”Music”,MTV Beats HD
 
 #EXTINF:0 group-title=”Music”,MTV Beats
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/LZ7W3Yc.png group-title=”Music”,Mastiii
-http://tvserver.aliflailabd.com:8989/musti-music/index.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/0rFA2Cx.png group-title=”Music”,9XM Music
 https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/3mkjuTk.png group-title=”Music”,9X Jalwa
@@ -192,9 +192,9 @@ http://103.167.190.250/hls/Sony_Aath.m3u8
 #EXTINF:0 group-title=”Drama”,Sony HD
 http://103.167.190.250/hls/sonyen.m3u8
 #EXTINF:0 group-title=”Drama”,Sony TV
-http://103.136.200.246:8082/SonyTVHD/index.m3u8
+http://103.60.172.106:8080/SonyTVHD/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title=”Drama”,Sony HD
-http://89.187.162.109/SONYHD/mono.m3u8
+
 #EXTINF:0 group-title=”Drama”,Sony Pal
 http://144.217.70.181:9587/hin2/SONYPAL/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title=”Drama”,Colors HD
@@ -246,7 +246,7 @@ http://103.167.190.250/hls/pogo.m3u8
 
 
 #EXTINF:0 group-title=”Documentary”,Discovery
-http://tvserver.aliflailabd.com:8989/discovery/index.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/8GG7Ny9.png group-title=”Documentary”,Discovery HD
 http://103.167.190.250/hls/discovery.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/m7Cl2M9.png group-title=”Documentary”,Discovery Science
@@ -282,10 +282,10 @@ http://103.167.190.250/hls/bbcearth.m3u8
 http://103.167.190.250/hls/dhin.m3u8
 #EXTINF:0 group-title=”Movies”,Zee Cinema HD
 http://103.167.190.250/hls/zeecinemahd.m3u8
-#EXTINF:0 group-title=”Movies”,Sony Set Max
-https://stream.rangdhanu.live/SonyMaxHD/video.m3u8
 #EXTINF:0 group-title=”Movies”,Sony Max HD
-http://tvserver.aliflailabd.com:8989/setmax/index.m3u8
+http://103.60.172.106:8080/SonyMaxHD/index.m3u8
+#EXTINF:0 group-title=”Movies”,Sony WAH
+http://103.60.172.106:8080/SonyWah/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title=”Movies”,& Picture
 http://103.167.190.250/hls/andpictures.m3u8
 #EXTINF:0 group-title=”Movies”,Colors Cineplex HD
@@ -379,7 +379,7 @@ http://bdiptv.net:8082/SKY-SPORTS-CRICKET/index.m3u8
 #EXTINF:0 group-title=”Sports”,Sky Sports Football
 http://bdiptv.net:8082/SKY-SPORTS-FOOTBALL/index.m3u8
 #EXTINF:0 group-title=”Sports”,Sky Net HD
-http://tvserver.aliflailabd.com:8989/SKY-NET-HD/index.m3u8
+
 #EXTINF:0 group-title=”Sports”,Star Sports Select 1 HD
 http://103.167.190.250/hls/Star_Sport_Select1HD.m3u8
 #EXTINF:0 group-title=”Sports”,Star Sports Select 2 HD
