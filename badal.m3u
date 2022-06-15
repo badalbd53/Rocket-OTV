@@ -15,7 +15,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/atnislamictv.stream/chunks.m3u8
 
 #EXTINF:0 group-title=”Islamic”,Azan TV
 
-
+http://stream.amrbd.com:8082/Discovery-Tv/index.m3u8
 
 #EXTINF:0 group-title=”Islamic”,Makkah Live
 http://103.55.144.46/hls/qurqntv.m3u8
@@ -25,6 +25,8 @@ http://103.55.144.46/hls/qurqntv.m3u8
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv HD
 http://dds.oncast.me:1934/dlive/gz.stream/playlist.m3u8?|Referer=http://dds.oncast.me/
+#EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv HD
+http://bdiptv.net:8082/gtv/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
 http://bdiptv.net:8082/tsp/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
