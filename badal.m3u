@@ -285,10 +285,12 @@ http://103.55.144.46/hls/bbcearth.m3u8
 http://103.55.144.46/hls/dhin.m3u8
 #EXTINF:0 group-title=”Movies”,Zee Cinema HD
 http://103.55.144.46/hls/zeecinemahd.m3u8
+#EXTINF:0 group-title=”Movies”,Sony Set Max
+http://103.139.171.5:5001/jiotvplus/live.php?c=Sony_Max_SD&q=800&e=.m3u8
 #EXTINF:0 group-title=”Movies”,Sony Max HD
 http://stream.amrbd.com:8082/Sony-Max/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title=”Movies”,Sony WAH
-
+http://103.139.171.5:5001/jiotvplus/live.php?c=Sony_Wah&q=800&e=junk.m3u8
 #EXTINF:0 group-title=”Movies”,& Picture
 http://103.55.144.46/hls/andpictures.m3u8
 #EXTINF:0 group-title=”Movies”,Colors Cineplex HD
