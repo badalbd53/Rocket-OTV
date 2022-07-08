@@ -220,7 +220,7 @@ http://103.55.144.46/hls/nick.m3u8
 #EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png group-title=”Kids”,Sonic
 
 #EXTINF:0 group-title=”Kids”,Disney
-http://103.179.246.243:8000/play/a01y/index.m3u8
+http://103.179.246.243:8000/play/a01y
 #EXTINF:0 group-title=”Kids”,Disney
 
 #EXTINF:0 group-title=”Kids”,Disney jr
