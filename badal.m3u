@@ -30,7 +30,7 @@ http://bdiptv.net:8082/gtv/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
 http://bdiptv.net:8082/tsp/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
-
+http://30.30.30.30/live/skyfeed1005/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
 http://stream.amrbd.com:8082/T-Sports/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/7ftu2Rt.jpg group-title=”Bangla”,Maasranga
