@@ -27,14 +27,16 @@ http://iptvbd.jagobd.com:1931/live-orgin/atnislamictv.stream/chunks.m3u8
 http://dds.oncast.me:1934/dlive/gz.stream/playlist.m3u8?|Referer=http://dds.oncast.me/
 #EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv HD
 http://bdiptv.net:8082/gtv/index.m3u8
-#EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv Youtube
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1660598754/ei/gmX6YsOAL8_ukgbqkaLoAQ/ip/20.245.135.59/id/vSHelsYpvkc.2/source/yt_live_broadcast/requiressl/yes/tx/24227765/txs/24227765%2C24227766%2C24227767/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-KhkLWya479tzETwPch0vpHzgfYTk/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgZLy8E1arLA51wLPnnwmBhcD30RThHGjvWDYj9aTeSekCIDR07LdOTXR8JgvHxaquRFxDbDr4H56-bPNM0R6iYqyT/file/index.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv
+http://12.1.1.1:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
 http://bdiptv.net:8082/tsp/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
-http://30.30.30.30/live/skyfeed1005/index.m3u8
+http://30.30.30.30/live/skyfeed2001/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
 http://stream.amrbd.com:8082/T-Sports/index.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
+https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/7ftu2Rt.jpg group-title=”Bangla”,Maasranga
 http://bdiptv.net:8082/Maasranga/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/PK9Gm5g.png group-title=”Bangla”,Duronto TV
@@ -288,11 +290,11 @@ http://103.55.144.46/hls/dhin.m3u8
 #EXTINF:0 group-title=”Movies”,Zee Cinema HD
 http://103.55.144.46/hls/zeecinemahd.m3u8
 #EXTINF:0 group-title=”Movies”,Sony Set Max
-http://103.139.171.5:5001/jiotvplus/live.php?c=Sony_Max_SD&q=800&e=.m3u8
+http://30.30.30.30/live/skyfeed2005/index.m3u8
 #EXTINF:0 group-title=”Movies”,Sony Max HD
 http://stream.amrbd.com:8082/Sony-Max/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title=”Movies”,Sony WAH
-http://103.139.171.5:5001/jiotvplus/live.php?c=Sony_Wah&q=800&e=junk.m3u8
+
 #EXTINF:0 group-title=”Movies”,& Picture
 http://103.55.144.46/hls/andpictures.m3u8
 #EXTINF:0 group-title=”Movies”,Colors Cineplex HD
@@ -410,7 +412,7 @@ http://bdiptv.net:8082/BEIN-SPORTS-PREMIUM-1/index.m3u8
 #EXTINF:0 group-title=”Sports”,Bein Sports Premium
 http://bdiptv.net:8082/BEIN-SPORTS-PREMIUM-2/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony SIX
-http://dangguli.live:8080/SonySix/index.m3u8
+http://103.179.128.252:8080/SonySix/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony TEN.1
 http://dangguli.live:8080/SonyTen1/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony TEN.2
