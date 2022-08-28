@@ -29,6 +29,8 @@ http://dds.oncast.me:1934/dlive/gz.stream/playlist.m3u8?|Referer=http://dds.onca
 http://bdiptv.net:8082/gtv/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv
 http://12.1.1.1:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv YT
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1661689657/ei/2QoLY7u7ItGzlu8P4PerEA/ip/20.29.91.106/id/vSHelsYpvkc.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgPYOT2rv30iSGmrJ-2b-F0xFeddV9s4ozFsIKQZffSvsCIQCJj3rfDmDT5g7GWDDlXxtgicohSCB4Atq839naLbtMzg%3D%3D/file/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
 http://bdiptv.net:8082/tsp/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
