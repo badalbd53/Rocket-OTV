@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-logo=https://i.imgur.com/H9qgGSc.png group-title=”Bangla”,BTV
-http://10.16.100.203:8082/bangla/BTv_NatiOnal_1stop.m3u8
+http://10.16.100.203:8082/bangla/btvnational.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/RR0Iv6V.png group-title=”Bangla”,BTV World
 http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg group-title=”Bangla”,Songsad TV
@@ -14,8 +14,6 @@ http://iptvbd.jagobd.com:1931/live-orgin/atnislamictv.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/QSrvJLt.jpeg group-title=”Islamic”,Panvision TV
 
 #EXTINF:0 group-title=”Islamic”,Azan TV
-
-
 
 #EXTINF:0 group-title=”Islamic”,Makkah Live
 
@@ -64,7 +62,7 @@ http://bdiptv.net:8082/Channel-9/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/p0I5dr0.png group-title=”Bangla”,Channel I
 http://stream.amrbd.com:8082/Channel-i/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/tPZKfLr.png group-title=”Bangla”,Deepto TV
-http://iptvbd.jagobd.com:1931/live-orgin/deeptotv.stream/chunks.m3u8
+http://10.16.100.203:8082/bangla/deepto.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/JgkIH3w.png group-title=”Bangla”,Desh TV
 http://bdiptv.net:8082/DESH-TV/index.m3u8
 #EXTINF:0 group-title=”Bangla”,Nexus TV
