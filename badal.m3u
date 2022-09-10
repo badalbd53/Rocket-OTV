@@ -48,23 +48,23 @@ http://10.252.253.254/hls/duranta.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/4imblNY.jpg group-title=”Bangla”,Mohona
 http://stream.amrbd.com:8082/MohonaTV/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/fxq0pV2.png group-title=”Bangla”,Asian TV
-https://bd.jagobd.com:444/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
+http://aliflailabd.live:8989/asiantv/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/5PsRkPd.png group-title=”Bangla”,ATN Bangla
 http://stream.amrbd.com:8082/ATN-Bangla/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/HX8SSDA.png group-title=”Bangla”,Banglavision TV
-http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8
+http://223.29.212.14:8080/roarzone/3/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/pTJSGtj.png group-title=”Bangla”,Boishakhi TV
-http://iptvbd.jagobd.com:1931/live-orgin/boishakhitv-org.stream/chunks.m3u8
+http://223.29.212.14:8080/roarzone/61/index.m3u8
 #EXTINF:0 group-title=”Bangla”,Boishakhi TV Plus
-http://iptvbd.jagobd.com:1931/live-orgin/boishakhiplus.stream/chunks.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/fj8nxOw.png group-title=”Bangla”,Channel 9 HD
-http://bdiptv.net:8082/Channel-9/index.m3u8
+http://223.29.212.14:8080/roarzone/4/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/p0I5dr0.png group-title=”Bangla”,Channel I
 http://stream.amrbd.com:8082/Channel-i/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/tPZKfLr.png group-title=”Bangla”,Deepto TV
-http://10.16.100.203:8082/bangla/deepto.m3u8
+http://223.29.212.14:8080/roarzone/8/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/JgkIH3w.png group-title=”Bangla”,Desh TV
-http://bdiptv.net:8082/DESH-TV/index.m3u8
+http://223.29.212.14:8080/roarzone/62/index.m3u8
 #EXTINF:0 group-title=”Bangla”,Nexus TV
 https://bd.jagobd.com:444/live-orgin/nexustv.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/v9PqrCG.png group-title=”News”,ATN News
