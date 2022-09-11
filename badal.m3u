@@ -56,7 +56,7 @@ http://aliflailabd.live:8989/bangla-vision/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/pTJSGtj.png group-title=”Bangla”,Boishakhi TV
 http://aliflailabd.live:8989/boishakhi-tv/index.m3u8
 #EXTINF:0 group-title=”Bangla”,Boishakhi TV Plus
-https://bd.jagobd.com:444/live-orgin/boishakhitvplus.stream/chunks.m3u8
+https://bd.jagobd.com:444/live-orgin/boishakhiplus.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/fj8nxOw.png group-title=”Bangla”,Channel 9 HD
 http://223.29.212.14:8080/roarzone/4/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/p0I5dr0.png group-title=”Bangla”,Channel I
