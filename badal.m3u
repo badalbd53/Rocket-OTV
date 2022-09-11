@@ -58,13 +58,13 @@ http://aliflailabd.live:8989/boishakhi-tv/index.m3u8
 #EXTINF:0 group-title=”Bangla”,Boishakhi TV Plus
 https://bd.jagobd.com:444/live-orgin/boishakhiplus.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/fj8nxOw.png group-title=”Bangla”,Channel 9 HD
-http://223.29.212.14:8080/roarzone/4/index.m3u8
+http://aliflailabd.live:8989/channel9/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/p0I5dr0.png group-title=”Bangla”,Channel I
 http://stream.amrbd.com:8082/Channel-i/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/tPZKfLr.png group-title=”Bangla”,Deepto TV
-http://223.29.212.14:8080/roarzone/8/index.m3u8
+http://aliflailabd.live:8989/depto-bangla/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/JgkIH3w.png group-title=”Bangla”,Desh TV
-http://223.29.212.14:8080/roarzone/62/index.m3u8
+http://aliflailabd.live:8989/desh-tv/index.m3u8
 #EXTINF:0 group-title=”Bangla”,Nexus TV
 https://bd.jagobd.com:444/live-orgin/nexustv.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/v9PqrCG.png group-title=”News”,ATN News
