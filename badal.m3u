@@ -24,7 +24,7 @@ http://10.252.253.254/hls/qurqntv.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv HD
 http://10.252.253.254/hls/Gazi-TV.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv HD
-http://bciptv.net:8082/GAZI-TV/index.m3u8
+http://15.1.5.14:8082/GAZI-TV/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv HD
 http://stream.amrbd.com:8082/Gazi-Tv/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv
@@ -36,7 +36,7 @@ http://stream.amrbd.com:8082/Gazi-Tv/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
 http://tv.fnfonlinebd.com/live/fnffeed1002/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
-http://bciptv.net:8082/TSPORTS-HD/index.m3u8
+http://15.1.5.14:8082/TSPORTS-HD/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
 http://stream.amrbd.com:8082/T-Sports/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
@@ -78,7 +78,7 @@ http://223.29.212.14:8080/roarzone/17/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/FxsW4XI.png group-title=”News”,News 24
 http://223.29.212.14:8080/roarzone/18/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/djAX8Rc.png group-title=”News”,DBC News
-http://bciptv.net:8082/DBC-NEWS/index.m3u8
+http://15.1.5.14:8082/DBC-NEWS/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/MmhxR5E.png group-title=”Bangla”,Channel 24
 http://223.29.212.14:8080/roarzone/5/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/ds3aThu.jpg group-title=”Bangla”,Jamuna TV
@@ -382,9 +382,9 @@ http://103.55.144.46/hls/mnx-hd.m3u8
 
 
 #EXTINF:0 group-title=”Sports”,A Sports
-http://bciptv.net:8082/A-SPORTS/index.m3u8
+http://15.1.5.14:8082/A-SPORTS/index.m3u8
 #EXTINF:0 group-title=”Sports”,Willow HD
-http://bciptv.net:8082/WILLOW-CRICKET-HD/index.m3u8
+http://15.1.5.14:8082/WILLOW-CRICKET-HD/index.m3u8
 #EXTINF:0 group-title=”Sports”,Sky Sports Cricket
 http://bdiptv.net:8082/SKY-SPORTS-CRICKET/index.m3u8
 #EXTINF:0 group-title=”Sports”,Sky Sports Football
@@ -412,9 +412,9 @@ http://bdiptv.net:8082/BEIN-SPORTS-3-HD/index.m3u8
 #EXTINF:0 group-title=”Sports”,Bein Sports 4
 http://bdiptv.net:8082/BEIN-SPORTS-4/index.m3u8
 #EXTINF:0 group-title=”Sports”,Bein Sports Premium 1
-http://bciptv.net:8082/BEIN-SPORTS-PREMIUM-1/index.m3u8
+http://15.1.5.14:8082/BEIN-SPORTS-PREMIUM-1/index.m3u8
 #EXTINF:0 group-title=”Sports”,Bein Sports Premium
-http://bciptv.net:8082/BEIN-SPORTS-PREMIUM-2/index.m3u8
+http://15.1.5.14:8082/BEIN-SPORTS-PREMIUM-2/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony SIX
 http://103.179.128.252:8080/SonySix/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony TEN.1
@@ -430,7 +430,7 @@ http://dangguli.live:8080/StarSports2HD/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports 3
 http://bdiptv.net:8082/STAR-SPORTS-3HD/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports SELECT.1
-http://bciptv.net:8082/Star_Sport_Select1HD/tracks-v1a1/mono.m3u8
+http://15.1.5.14:8082/Star_Sport_Select1HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports SELECT.2
 http://dangguli.live:8080/StarSportsSelect2/index.m3u8
 #EXTINF:0 group-title=”Sports”,Red Bull TV HD
@@ -439,3 +439,4 @@ http://dangguli.live:8080/RedBullTVHD/index.m3u8
 http://dangguli.live:8080/TenSports/index.m3u8
 #EXTINF:0 group-title=”Sports”,PTV Sports
 http://dangguli.live:8080/PTVSports/index.m3u8
+
