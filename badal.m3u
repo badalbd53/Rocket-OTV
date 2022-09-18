@@ -42,41 +42,41 @@ http://stream.amrbd.com:8082/T-Sports/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
 http://bdiptv.net:8282/TSPORTS-HD/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/7ftu2Rt.jpg group-title=”Bangla”,Maasranga
-http://aliflailabd.live:8989/maasranga/index.m3u8
+http://15.1.5.10:8082/maasranga/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/PK9Gm5g.png group-title=”Bangla”,Duronto TV
 http://10.252.253.254/hls/duranta.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/4imblNY.jpg group-title=”Bangla”,Mohona
 http://stream.amrbd.com:8082/MohonaTV/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/fxq0pV2.png group-title=”Bangla”,Asian TV
-http://aliflailabd.live:8989/asiantv/index.m3u8
+http://10.16.100.203:8082/bangla/@sianhd_1stop.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/5PsRkPd.png group-title=”Bangla”,ATN Bangla
 http://stream.amrbd.com:8082/ATN-Bangla/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/HX8SSDA.png group-title=”Bangla”,Banglavision TV
-http://aliflailabd.live:8989/bangla-vision/index.m3u8
+http://stream.amrbd.com:8082/BanglaVision/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/pTJSGtj.png group-title=”Bangla”,Boishakhi TV
-http://aliflailabd.live:8989/boishakhi-tv/index.m3u8
+http://stream.amrbd.com:8082/Boishakhi/index.m3u8
 #EXTINF:0 group-title=”Bangla”,Boishakhi TV Plus
 https://bd.jagobd.com:444/live-orgin/boishakhiplus.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/fj8nxOw.png group-title=”Bangla”,Channel 9 HD
-http://aliflailabd.live:8989/channel9/index.m3u8
+http://10.16.100.245/hindi/9channell.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/p0I5dr0.png group-title=”Bangla”,Channel I
 http://stream.amrbd.com:8082/Channel-i/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/tPZKfLr.png group-title=”Bangla”,Deepto TV
-http://aliflailabd.live:8989/depto-bangla/index.m3u8
+http://15.1.5.10:8082/depto-bangla/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/JgkIH3w.png group-title=”Bangla”,Desh TV
-http://aliflailabd.live:8989/desh-tv/index.m3u8
+http://10.16.100.245/hindi/deshtv.m3u8
 #EXTINF:0 group-title=”Bangla”,Nexus TV
-https://bd.jagobd.com:444/live-orgin/nexustv.stream/chunks.m3u8
+http://15.1.5.14:8082/nexus/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/v9PqrCG.png group-title=”News”,ATN News
-http://223.29.212.14:8080/roarzone/49/index.m3u8
+http://bdiptv.net:8282/Atn-News/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/i8T9qQs.png group-title=”News”,Ekattor TV
-http://223.29.212.14:8080/roarzone/11/index.m3u8
+http://10.252.253.254/hls/nexus.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/kviJN1i.png group-title=”News”,Independent TV
-http://223.29.212.14:8080/roarzone/12/index.m3u8
+http://10.252.253.254/hls/indepen.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/Z2QvpTn.png group-title=”News”,Somoy News
-http://223.29.212.14:8080/roarzone/17/index.m3u8
+http://10.252.253.254/hls/somoy.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/FxsW4XI.png group-title=”News”,News 24
-http://223.29.212.14:8080/roarzone/18/index.m3u8
+http://bdiptv.net:8282/News24bd/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/djAX8Rc.png group-title=”News”,DBC News
 http://15.1.5.14:8082/DBC-NEWS/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/MmhxR5E.png group-title=”Bangla”,Channel 24
