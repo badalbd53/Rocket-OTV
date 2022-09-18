@@ -24,7 +24,7 @@ http://10.252.253.254/hls/qurqntv.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv HD
 http://10.252.253.254/hls/Gazi-TV.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv HD
-http://15.1.5.14:8082/GAZI-TV/index.m3u8
+http://15.1.5.14:8082/GAZI-TV-HD/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv HD
 http://stream.amrbd.com:8082/Gazi-Tv/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv
