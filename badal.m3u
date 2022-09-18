@@ -4,7 +4,7 @@ http://10.16.100.203:8082/bangla/btvnational.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/RR0Iv6V.png group-title=”Bangla”,BTV World
 http://103.106.2.152:13456/btv_world.m3u8
 #EXTINF:0 tvg-logo=https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg group-title=”Bangla”,Songsad TV
-http://tv.fnfonlinebd.com/live/fnffeed1003/index.m3u8
+http://10.10.10.2/live/fnffeed1003/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/ESWXan9.png group-title=”Islamic”,ATN Islamic TV
 http://iptvbd.jagobd.com:1931/live-orgin/atnislamictv.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/J4JNrkH.png group-title=”Islamic”,Peace TV Bangla
@@ -34,7 +34,7 @@ http://stream.amrbd.com:8082/Gazi-Tv/index.m3u8
 #EXTINF:0 group-title=”Bangla”,Asia Cup
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
-http://tv.fnfonlinebd.com/live/fnffeed1002/index.m3u8
+http://10.10.10.2/live/fnffeed1002/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
 http://15.1.5.14:8082/TSPORTS-HD/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
