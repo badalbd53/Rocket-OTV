@@ -115,19 +115,19 @@ https://bd.jagobd.com:444/live-orgin/moviebanglalink2.stream/playlist.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/Jo7wzmn.png group-title=”Music”,Gaan Bangla
 http://stream.amrbd.com:8082/GaanBangla/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/OTzS5Fc.png group-title=”Music”,ATN MUSIC
-https://bd.jagobd.com:444/live-orgin/atnmusic.stream/playlist.m3u8
+http://15.1.5.10:8082/ATN-MUSIC/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/PmXZNaK.png group-title=”Music”,RTV MUSIC
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/PmXZNaK.png group-title=”Music”,MUSIC CIPL
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/g9OTeXV.png group-title=”Music”,Sangeet Bangla
-http://223.29.212.14:8080/roarzone/96/index.m3u8
+http://15.1.5.10:8082/sangeet-bangla/index.m3u8
 #EXTINF:0 group-title=”Music”,Bangla Talkies
-http://223.29.212.14:8080/roarzone/91/index.m3u8
+http://15.1.5.10:8082/BANGLA-TALKIES/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/7rnhie0.png group-title=”Music”,Zoom
-http://223.29.212.14:8080/roarzone/60/index.m3u8
+http://stream.amrbd.com:8082/Zoom/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/DKVLQ7m.png group-title=”Music”,MTV
-http://223.29.212.14:8080/roarzone/46/index.m3u8
+http://stream.amrbd.com:8082/Mtv/index.m3u8
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/DKVLQ7m.png group-title=”Music”,MTV Beats HD
 
@@ -137,8 +137,8 @@ http://223.29.212.14:8080/roarzone/46/index.m3u8
 http://10.252.253.254/hls/masti.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/0rFA2Cx.png group-title=”Music”,9XM Music
 http://10.252.253.254/hls/9xm.m3u8
-#EXTINF:0 tvg-logo=https://i.imgur.com/3mkjuTk.png group-title=”Music”,9X Jalwa
-http://aliflailabd.live:8989/9x-jalwa/index.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/3mkjuTk.png group-title=”Music”,E24
+http://10.100.100.140:8081/dugdugi/zetc/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/wg3N1VT.png group-title=”Music”,Music India
 http://aliflailabd.live:8989/music-india/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/wRc0YAb.png group-title=”Music”,Bindass
