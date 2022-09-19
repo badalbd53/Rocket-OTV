@@ -80,19 +80,19 @@ http://bdiptv.net:8282/News24bd/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/djAX8Rc.png group-title=”News”,DBC News
 http://15.1.5.14:8082/DBC-NEWS/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/MmhxR5E.png group-title=”Bangla”,Channel 24
-http://223.29.212.14:8080/roarzone/5/index.m3u8
+http://stream.amrbd.com:8082/Channel24/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/ds3aThu.jpg group-title=”Bangla”,Jamuna TV
-http://aliflailabd.live:8989/jamuna-tv/index.m3u8
+http://bdiptv.net:8282/jamuna-tv/index.m3u8
 #EXTINF:0 group-title=”Bangla”,Cumilla 24
 
 #EXTINF:0 group-title=”Bangla”,Global TV
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/kFqOMtx.png group-title=”Bangla”,Ekushey ETV
-http://aliflailabd.live:8989/ekushey-tv/index.m3u8
+http://bdiptv.net:8282/Ekushey-TV/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/3usnOla.png group-title=”Bangla”,NTV
 http://stream.amrbd.com:8082/Ntv/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/2cpHJKq.png group-title=”Bangla”,Nagorik TV
-http://223.29.212.14:8080/roarzone/59/index.m3u8
+http://bdiptv.net:8282/nagorik-tv/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/yi5p51T.png group-title=”Bangla”,RTV
 http://stream.amrbd.com:8082/RTV/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/fraEjzm.png group-title=”Bangla”,SA TV HD
@@ -100,9 +100,9 @@ http://stream.amrbd.com:8082/SATV/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/K43LsMQ.png group-title=”Bangla”,Bangla TV HD
 http://stream.amrbd.com:8082/Bangla-TV/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/kDmkexe.png group-title=”Bangla”,Bijoy Tv
-https://bd.jagobd.com:444/live-orgin/bijoy00.stream/chunks.m3u8
+http://10.16.100.203:8082/bangla/bij0ytv.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/bahWhBG.png group-title=”Bangla”,MyTV
-http://223.29.212.14:8080/roarzone/56/index.m3u8
+http://stream.amrbd.com:8082/MyTV/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/h5FhOWT.png group-title=”Bangla”,Ananda TV
 http://stream.amrbd.com:8082/anandotv/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/IYGU8Km.png group-title=”Movies”,Movie Bangla
