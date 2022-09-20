@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-logo=https://i.imgur.com/H9qgGSc.png group-title=”Bangla”,BTV
-http://10.16.100.203:8082/bangla/btvnational.m3u8
+http://103.106.2.152:13456/btv.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/RR0Iv6V.png group-title=”Bangla”,BTV World
 http://103.106.2.152:13456/btv_world.m3u8
 #EXTINF:0 tvg-logo=https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg group-title=”Bangla”,Songsad TV
@@ -58,7 +58,7 @@ http://stream.amrbd.com:8082/Boishakhi/index.m3u8
 #EXTINF:0 group-title=”Bangla”,Boishakhi TV Plus
 https://bd.jagobd.com:444/live-orgin/boishakhiplus.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/fj8nxOw.png group-title=”Bangla”,Channel 9 HD
-http://10.16.100.245/hindi/9channell.m3u8
+http://10.100.100.140:8081/dugdugi/channel9/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/p0I5dr0.png group-title=”Bangla”,Channel I
 http://stream.amrbd.com:8082/Channel-i/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/tPZKfLr.png group-title=”Bangla”,Deepto TV
@@ -137,10 +137,12 @@ http://stream.amrbd.com:8082/Mtv/index.m3u8
 http://10.252.253.254/hls/masti.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/0rFA2Cx.png group-title=”Music”,9XM Music
 http://10.252.253.254/hls/9xm.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/0rFA2Cx.png group-title=”Music”,9X Jalwa
+http://stream.amrbd.com:8082/9X-Jalwa/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/3mkjuTk.png group-title=”Music”,E24
 http://10.100.100.140:8081/dugdugi/zetc/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/wg3N1VT.png group-title=”Music”,Music India
-http://aliflailabd.live:8989/music-india/index.m3u8
+http://103.87.212.110:8989/music-india/tracks-v1a1/mono.m3u8?token=e4bb924daba4af4910976f9f0716173359a983df-2d870a12ff41486a5f30f8cfed62a347-1663675495-1663664695
 #EXTINF:0 tvg-logo=https://i.imgur.com/wRc0YAb.png group-title=”Music”,Bindass
 http://10.252.253.254/hls/bindass.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/chHDUsi.png group-title=”Movies”,ZING
