@@ -146,9 +146,9 @@ http://103.87.212.110:8989/music-india/tracks-v1a1/mono.m3u8?token=e4bb924daba4a
 #EXTINF:0 tvg-logo=https://i.imgur.com/wRc0YAb.png group-title=”Music”,Bindass
 http://10.252.253.254/hls/bindass.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/chHDUsi.png group-title=”Movies”,ZING
-http://223.29.212.14:8080/roarzone/93/index.m3u8
+http://10.100.100.140:8081/dugdugi/zing/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/stZqDcA.png group-title=”Movies”,B4U Music
-
+http://15.1.5.10:8082/b4u/index.m3u8
 
 
 
@@ -159,13 +159,13 @@ http://223.29.212.14:8080/roarzone/93/index.m3u8
 
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/ppJO2Ep.png group-title=”Drama”,Star Jalsha
-http://aliflailabd.live:8989/star-jalsha/index.m3u8
+http://10.16.100.211/sports/jolshaStar.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/9d1xXjN.png group-title=”Drama”,Star Jalsha HD
-http://223.29.212.14:8080/roarzone/30/index.m3u8
+http://stream.amrbd.com:8082/Star-Jalsha/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/e5Ldh7e.png group-title=”Drama”,Zee Bangla
-http://223.29.212.14:8080/roarzone/34/index.m3u8
+http://15.1.5.14:8082/zee-bangla/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/e5Ldh7e.png group-title=”Drama”,Zee Bangla HD
-http://aliflailabd.live:8989/zee-bangla/index.m3u8
+http://stream.amrbd.com:8082/ZeeBanglaHD/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/e5Ldh7e.png group-title=”Drama”,Zee Bangla HD
 http://10.252.253.254/hls/zeebanglahd.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/PW9hRDa.png group-title=”Drama”,Sun Bangla
@@ -174,7 +174,7 @@ http://10.252.253.254/hls/sunbangla.m3u8
 http://10.252.253.254/hls/colorsbangla.m3u8
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/2PQfcOh.png group-title=”Movies”,Jalsha Movies
-http://aliflailabd.live:8989/jalsha-movies/index.m3u8
+http://15.1.5.14:8082/jalsha-movies/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/2PQfcOh.png group-title=”Movies”,Jalsha Movies HD
 http://10.252.253.254/hls/jalshamovies.m3u8
 #EXTINF:0 group-title=”Drama”,Colors Bangla Cinema
@@ -186,7 +186,7 @@ http://10.252.253.254/hls/enterr10.m3u8
 #EXTINF:0 group-title=”Drama”,Sony AATH
 http://10.252.253.254/hls/Sony_Aath.m3u8
 #EXTINF:0 group-title=”Drama”,Sony AATH
-http://aliflailabd.live:8989/sony-aath/index.m3u8
+http://15.1.5.14:8082/Sonyaath/index m3u8
 #EXTINF:0 group-title=”Drama”,Rongeen TV
 
 
@@ -196,22 +196,22 @@ http://aliflailabd.live:8989/sony-aath/index.m3u8
 
 
 #EXTINF:0 group-title=”Drama”,Sony Sab HD
-http://aliflailabd.live:8989/sony-sub/index.m3u8
-#EXTINF:0 group-title=”Drama”,Star Plus
-
+http://stream.amrbd.com:8082/Sony_Sab/index.m3u8
+#EXTINF:0 group-title=”Drama”,Zee Tv HD
+http://stream.amrbd.com:8082/Zee-Hd/index.m3u8
 #EXTINF:0 group-title=”Drama”,Star Plus HD
-
+http://15.1.5.14:8082/star-plus/index.m3u8
 
 #EXTINF:0 group-title=”Drama”,Sony HD
-http://103.55.144.46/hls/sonyen.m3u8
+http://stream.amrbd.com:8082/SonyTVHD/index.m3u8
 #EXTINF:0 group-title=”Drama”,Sony TV
-http://103.60.172.106:8080/SonyTVHD/tracks-v1a1/mono.m3u8
+http://15.1.5.14:8082/SonyTVHD/index.m3u8
 #EXTINF:0 group-title=”Drama”,Sony HD
 
-#EXTINF:0 group-title=”Drama”,Sony Pal
-http://144.217.70.181:9587/hin2/SONYPAL/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title=”Drama”,Colors
+http://15.1.5.10:8082/colorsindia/index.m3u8
 #EXTINF:0 group-title=”Drama”,Colors HD
-
+http://stream.amrbd.com:8082/colorsindia/index.m3u8
 
 
 
@@ -220,11 +220,11 @@ http://144.217.70.181:9587/hin2/SONYPAL/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:0 group-title=”Kids”,Nick
-http://103.55.144.46/hls/nick.m3u8
+http://10.252.253.254/hls/nick.m3u8
 #EXTINF:-1 tvg-logo=https://i.imgur.com/Qkvo1BH.png group-title=”Kids”,Nick jr
-
+http://15.1.5.14:8082/nick-jr/index.m3u8
 #EXTINF:-1 tvg-logo=https://i.imgur.com/4rEFCPQ.jpg group-title=”Kids”,Sony Yay
-
+http://10.252.253.254/hls/dis-kid.m3u8
 #EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png group-title=”Kids”,Discovery Kids
 
 #EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png group-title=”Kids”,Sonic
@@ -232,7 +232,7 @@ http://103.55.144.46/hls/nick.m3u8
 #EXTINF:0 group-title=”Kids”,Disney
 http://103.179.246.243:8000/play/a01y
 #EXTINF:0 group-title=”Kids”,Disney
-http://103.151.43.102:8000/play/a03l/index.m3u8
+
 #EXTINF:0 group-title=”Kids”,Disney jr
 
 #EXTINF:0 group-title=”Kids”,Disney
@@ -240,11 +240,11 @@ http://103.151.43.102:8000/play/a03l/index.m3u8
 #EXTINF:0 group-title=”Kids”,Hungama
 
 #EXTINF:0 group-title=”Kids”,Cartoon Network
-http://103.55.144.46/hls/cn.m3u8
+http://10.252.253.254/hls/cn.m3u8
 #EXTINF:0 group-title=”Kids”,Cartoon Network HD
-http://bdiptv.net:8082/Cartoon-Network/index.m3u8
+
 #EXTINF:0 group-title=”Kids”,Pogo
-http://103.55.144.46/hls/pogo.m3u8
+http://10.252.253.254/hls/pogo.m3u8
 
 
 
@@ -259,24 +259,23 @@ http://103.55.144.46/hls/pogo.m3u8
 
 
 #EXTINF:0 group-title=”Documentary”,Discovery
-http://stream.amrbd.com:8082/Discovery-Tv/tracks-v1a1/mono.m3u8
+http://10.100.100.140:8081/dugdugi/discovery/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/8GG7Ny9.png group-title=”Documentary”,Discovery HD
-http://bdiptv.net:8082/DISCOVERY/index.m3u8
+http://stream.amrbd.com:8082/Discovery-Tv/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/m7Cl2M9.png group-title=”Documentary”,Discovery Science
-http://103.55.144.46/hls/dis-science.m3u8
-http://bdiptv.net:8082/DISCOVERY-SCIENCE/index.m3u8
+http://15.1.5.14:8082/Discovery-Science/index.m3u8
 #EXTINF:0 group-title=”Documentary”,National Geographic HD
-http://bdiptv.net:8082/NAT-Geo/index.m3u8
+http://stream.amrbd.com:8082/Nat-Geo/index.m3u8
 #EXTINF:0 group-title=”Documentary”,NatGeo Wild
-http://103.55.144.46/hls/wild.m3u8
+http://10.252.253.254/hls/wild.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/KLBorkM.png group-title=”Documentary”,Travel XP HD
-http://103.55.144.46/hls/travelxp.m3u8
+http://10.252.253.254/hls/travelxp.m3u8
 #EXTINF:0 group-title=”Documentary”,Animal Planet HD
-http://103.55.144.46/hls/animalplanent.m3u8
+http://10.252.253.254/hls/animalplanent.m3u8
 #EXTINF:0 group-title=”Documentary”,TLC HD
-http://103.55.144.46/hls/tlc.m3u8
+http://10.252.253.254/hls/tlc.m3u8
 #EXTINF:0 group-title=”Documentary”,Sony BBC Earth HD
-http://103.55.144.46/hls/bbcearth.m3u8
+http://10.252.253.254/hls/bbcearth.m3u8
 #EXTINF:0 group-title=”Documentary”,TravelXP
 
 
@@ -292,23 +291,25 @@ http://103.55.144.46/hls/bbcearth.m3u8
 
 
 #EXTINF:0 group-title=”Movies”,Goldmine
-http://103.55.144.46/hls/dhin.m3u8
+http://15.1.5.10:8082/Dhinchaak/index.m3u8
+#EXTINF:0 group-title=”Movies”,Zee Cinema
+http://10.252.253.254/hls/zeecinemahd.m3u8
 #EXTINF:0 group-title=”Movies”,Zee Cinema HD
-http://103.55.144.46/hls/zeecinemahd.m3u8
+http://15.1.5.14:8082/ZeeCinemaHD/index.m3u8
 #EXTINF:0 group-title=”Movies”,Sony Set Max
-http://30.30.30.30/live/skyfeed2005/index.m3u8
+
 #EXTINF:0 group-title=”Movies”,Sony Max HD
-http://stream.amrbd.com:8082/Sony-Max/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title=”Movies”,Sony WAH
-
+http://stream.amrbd.com:8082/Sony-Max/index.m3u8
+#EXTINF:0 group-title=”Movies”,Sony Max 2
+http://15.1.5.10:8082/sony-max2/index.m3u8
 #EXTINF:0 group-title=”Movies”,& Picture
-http://103.55.144.46/hls/andpictures.m3u8
+http://10.100.100.140:8081/dugdugi/andpic/chunks.m3u8
 #EXTINF:0 group-title=”Movies”,Colors Cineplex HD
-http://103.55.144.46/hls/colorscineplex.m3u8
-#EXTINF:0 group-title=”Movies”,Zee Cinema Me
-
+http://15.1.5.14:8082/colorscineplex/index.m3u8
+#EXTINF:0 group-title=”Movies”,Rishtey Cineplex HD
+http://10.100.100.140:8081/dugdugi/rishteycineplex/chunks.m3u8
 #EXTINF:0 group-title=”Movies”,Zee Action
-http://30.30.30.30:8081/live/hindi8/chunks.m3u8
+
 #EXTINF:0 group-title=”Movies”,Zee Anmol Cinema
 
 #EXTINF:0 group-title=”Movies”,Star Gold Select HD
@@ -318,9 +319,9 @@ http://30.30.30.30:8081/live/hindi8/chunks.m3u8
 #EXTINF:0 group-title=”Movies”,Zing
 
 #EXTINF:0 group-title=”Movies”,Star Gold HD
-http://103.55.144.46/hls/stargold.m3u8
+http://15.1.5.14:8082/star-gold/index.m3u8
 #EXTINF:0 group-title=”Movies”,Star Gold 2
-http://103.55.144.46/hls/stargold2hd.m3u8
+http://10.252.253.254/hls/stargold2hd.m3u8
 #EXTINF:0 group-title=”Movies”,Sony Set Max
 
 #EXTINF:0 group-title=”Movies”,Sony Max HD
@@ -328,22 +329,22 @@ http://103.55.144.46/hls/stargold2hd.m3u8
 #EXTINF:0 group-title=”Movies”,Sony Max 2
 
 #EXTINF:0 group-title=”Movies”,Sony Wah
-http://dangguli.live:8080/SonyWah/index.m3u8
+
 #EXTINF:0 group-title=”Movies”,UTV Action
-http://103.55.144.46/hls/utvaction.m3u8
+http://10.252.253.254/hls/utvaction.m3u8
 #EXTINF:0 group-title=”Movies”,UTV Action
 
 #EXTINF:0 group-title=”Movies”,UTV Movies
-http://103.55.144.46/hls/utv.m3u8
+http://10.252.253.254/hls/utv.m3u8
 #EXTINF:0 group-title=”Movies”,B4U Kadak
-http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+
 
 #EXTINF:0 group-title=”Movies”,BflixMovies
-http://103.159.4.38:8080/MOVIE-3/tracks-v1a1/mono.m3u8
+
 #EXTINF:0 group-title=”Movies”,Box Cinema
-https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in.m3u8
+
 #EXTINF:0 group-title=”Movies”,Maha Movie
-https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
+
 #EXTINF:0 group-title=”Movies”,Miniplex
 
 
@@ -356,21 +357,21 @@ https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
 
 
 #EXTINF:0 group-title=”Entertainment”,Sony Pix HD
-http://103.55.144.46/hls/sonypixhd.m3u8
+http://10.252.253.254/hls/sonypixhd.m3u8
 #EXTINF:0 group-title=”Movies”,And Flix HD
-
+http://15.1.5.14:8082/AND-FLIX/index.m3u8
 #EXTINF:0 group-title=”Movies”,&Prive HD
 
 #EXTINF:0 group-title=”Movies”,Star Movies HD
-http://103.55.144.46/hls/starmovies.m3u8
+http://15.1.5.14:8082/star-movies-hd/index.m3u8
 #EXTINF:0 group-title=”Movies”,Movies Now
-http://103.55.144.46/hls/movies-now.m3u8
+http://10.252.253.254/hls/movies-now.m3u8
 #EXTINF:0 group-title=”Movies”,MN+ HD
-http://103.55.144.46/hls/mn+.m3u8
+http://10.252.253.254/hls/mn+.m3u8
 #EXTINF:0 group-title=”Movies”,MNX HD
-http://103.55.144.46/hls/mnx-hd.m3u8
-#EXTINF:0 group-title=”Movies”,Zee Café HD
-
+http://10.252.253.254/hls/mnx-hd.m3u8
+#EXTINF:0 group-title=”Movies”,HBO
+http://10.100.100.140:8081/dugdugi/hbo/chunks.m3u8
 
 
 
@@ -384,33 +385,33 @@ http://103.55.144.46/hls/mnx-hd.m3u8
 
 
 #EXTINF:0 group-title=”Sports”,A Sports
-http://15.1.5.14:8082/A-SPORTS/index.m3u8
+
 #EXTINF:0 group-title=”Sports”,Willow HD
-http://15.1.5.14:8082/WILLOW-CRICKET-HD/index.m3u8
+
 #EXTINF:0 group-title=”Sports”,Sky Sports Cricket
-http://bdiptv.net:8082/SKY-SPORTS-CRICKET/index.m3u8
+
 #EXTINF:0 group-title=”Sports”,Sky Sports Football
-http://bdiptv.net:8082/SKY-SPORTS-FOOTBALL/index.m3u8
+
 #EXTINF:0 group-title=”Sports”,Sky Sports Mix
-http://dds.oncast.me:1934/dlive/sp10.stream/playlist.m3u8?|Referer=http://dds.oncast.me/
+
 #EXTINF:0 group-title=”Sports”,Super Sports Cricket
-http://bdiptv.net:8082/SUPERSPORT-CRICKET/index.m3u8
+
 #EXTINF:0 group-title=”Sports”,Super Sports Laliga
-http://bdiptv.net:8082/SUPERSPORTS-LALIGA/index.m3u8
+
 #EXTINF:0 group-title=”Sports”,Super Sports Football
-http://bdiptv.net:8082/SUPERSPORTS-FOOTBALL/index.m3u8
+
 #EXTINF:0 group-title=”Sports”,BT Sport 1
-http://bdiptv.net:8082/BT-SPORTS-1-UK/index.m3u8
+
 #EXTINF:0 group-title=”Sports”,BT Sport 2
-http://bdiptv.net:8082/BT-SPORTS-2-UK/index.m3u8
+
 #EXTINF:0 group-title=”Sports”,BT Sports 3
-http://bdiptv.net:8082/BT-SPORTS-3-UK/index.m3u8
+
 #EXTINF:0 group-title=”Sports”,Bein Sports 1
-http://bdiptv.net:8082/BEIN-SPORTS-1-HD/index.m3u8
+
 #EXTINF:0 group-title=”Sports”,Bein Sports 2
-http://bdiptv.net:8082/BEIN-SPORTS-2-HD/index.m3u8
+
 #EXTINF:0 group-title=”Sports”,Bein Sports 3
-http://bdiptv.net:8082/BEIN-SPORTS-3-HD/index.m3u8
+
 #EXTINF:0 group-title=”Sports”,Bein Sports 4
 http://bdiptv.net:8082/BEIN-SPORTS-4/index.m3u8
 #EXTINF:0 group-title=”Sports”,Bein Sports Premium 1
