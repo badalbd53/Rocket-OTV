@@ -374,7 +374,10 @@ http://10.252.253.254/hls/mn+.m3u8
 http://10.252.253.254/hls/mnx-hd.m3u8
 #EXTINF:0 group-title=”Movies”,HBO
 http://10.100.100.140:8081/dugdugi/hbo/chunks.m3u8
-
+#EXTINF:0 group-title=”Movies”,Lotus Macau
+http://10.252.253.254/hls/lotus.m3u8
+#EXTINF:0 group-title=”Movies”,AXN
+http://10.252.253.254/hls/axn.m3u8
 
 
 
@@ -421,27 +424,27 @@ http://10.100.100.140:8081/dugdugi/hbo/chunks.m3u8
 #EXTINF:0 group-title=”Sports”,Bein Sports Premium
 
 #EXTINF:0 group-title="TATA SKY",Sony SIX
-
+http://15.1.5.10:8082/sony-six-hd/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony TEN 1
 http://15.1.5.10:8082/ten1-hd/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony TEN 2
-
+http://15.1.5.10:8082/sony-ten2/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony TEN 3
-
+http://stream.amrbd.com:8082/Ten3/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports 1
-
+http://15.1.5.14:8082/STAR-SPORTS-1/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports 2
-
+http://15.1.5.14:8082/STAR-SPORTS-2/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports 3
-
+http://10.252.253.254/hls/starsports3.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports SELECT 1
 http://15.1.5.14:8082/Star_Sport_Select1HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports SELECT 2
-
+http://stream.amrbd.com:8082/Star-Select-2/index.m3u8
 #EXTINF:0 group-title=”Sports”,Red Bull TV HD
 
 #EXTINF:0 group-title=”Sports”,Ten Sports 
-
+http://10.252.253.254/hls/ten.m3u8
 #EXTINF:0 group-title=”Sports”,PTV Sports
-
+http://10.252.253.254/hls/ptv.m3u8
 
