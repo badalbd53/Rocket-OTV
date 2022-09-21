@@ -270,6 +270,8 @@ http://stream.amrbd.com:8082/Nat-Geo/index.m3u8
 http://10.252.253.254/hls/wild.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/KLBorkM.png group-title=”Documentary”,Travel XP HD
 http://10.252.253.254/hls/travelxp.m3u8
+#EXTINF:0 group-title=”Documentary”,Animal Planet
+http://15.1.5.10:8082/animalplanent/index.m3u8
 #EXTINF:0 group-title=”Documentary”,Animal Planet HD
 http://10.252.253.254/hls/animalplanent.m3u8
 #EXTINF:0 group-title=”Documentary”,TLC HD
@@ -290,7 +292,7 @@ http://10.252.253.254/hls/bbcearth.m3u8
 
 
 
-#EXTINF:0 group-title=”Movies”,Goldmine
+#EXTINF:0 group-title=”Movies”,Dhinchaak
 http://15.1.5.10:8082/Dhinchaak/index.m3u8
 #EXTINF:0 group-title=”Movies”,Zee Cinema
 http://10.252.253.254/hls/zeecinemahd.m3u8
@@ -310,8 +312,8 @@ http://15.1.5.14:8082/colorscineplex/index.m3u8
 http://10.100.100.140:8081/dugdugi/rishteycineplex/chunks.m3u8
 #EXTINF:0 group-title=”Movies”,Zee Action
 
-#EXTINF:0 group-title=”Movies”,Zee Anmol Cinema
-
+#EXTINF:0 group-title=”Movies”,Zee Classic
+http://10.100.100.140:8081/dugdugi/zeeclassic/chunks.m3u8
 #EXTINF:0 group-title=”Movies”,Star Gold Select HD
 
 #EXTINF:0 group-title=”Movies”,Star Gold
@@ -361,7 +363,7 @@ http://10.252.253.254/hls/sonypixhd.m3u8
 #EXTINF:0 group-title=”Movies”,And Flix HD
 http://15.1.5.14:8082/AND-FLIX/index.m3u8
 #EXTINF:0 group-title=”Movies”,&Prive HD
-
+http://10.100.100.140:8081/dugdugi/andprive/chunks.m3u8
 #EXTINF:0 group-title=”Movies”,Star Movies HD
 http://15.1.5.14:8082/star-movies-hd/index.m3u8
 #EXTINF:0 group-title=”Movies”,Movies Now
@@ -413,33 +415,33 @@ http://10.100.100.140:8081/dugdugi/hbo/chunks.m3u8
 #EXTINF:0 group-title=”Sports”,Bein Sports 3
 
 #EXTINF:0 group-title=”Sports”,Bein Sports 4
-http://bdiptv.net:8082/BEIN-SPORTS-4/index.m3u8
+
 #EXTINF:0 group-title=”Sports”,Bein Sports Premium 1
-http://15.1.5.14:8082/BEIN-SPORTS-PREMIUM-1/index.m3u8
+
 #EXTINF:0 group-title=”Sports”,Bein Sports Premium
-http://15.1.5.14:8082/BEIN-SPORTS-PREMIUM-2/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony SIX
-http://103.179.128.252:8080/SonySix/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony TEN.1
-http://dangguli.live:8080/SonyTen1/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony TEN.2
-http://dangguli.live:8080/SonyTen2/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony TEN.3
-http://dangguli.live:8080/SonyTen3/index.m3u8
+
+#EXTINF:0 group-title="TATA SKY",Sony SIX
+
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony TEN 1
+http://15.1.5.10:8082/ten1-hd/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony TEN 2
+
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony TEN 3
+
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports 1
-http://dangguli.live:8080/StarSports1HD/index.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports 2
-http://dangguli.live:8080/StarSports2HD/index.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports 3
-http://bdiptv.net:8082/STAR-SPORTS-3HD/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports SELECT.1
+
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports SELECT 1
 http://15.1.5.14:8082/Star_Sport_Select1HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports SELECT.2
-http://dangguli.live:8080/StarSportsSelect2/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports SELECT 2
+
 #EXTINF:0 group-title=”Sports”,Red Bull TV HD
-http://dangguli.live:8080/RedBullTVHD/index.m3u8
+
 #EXTINF:0 group-title=”Sports”,Ten Sports 
-http://dangguli.live:8080/TenSports/index.m3u8
+
 #EXTINF:0 group-title=”Sports”,PTV Sports
-http://dangguli.live:8080/PTVSports/index.m3u8
+
 
