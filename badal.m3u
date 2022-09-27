@@ -311,7 +311,7 @@ http://15.1.5.14:8082/colorscineplex/index.m3u8
 #EXTINF:0 group-title=”Movies”,Rishtey Cineplex HD
 http://10.100.100.140:8081/dugdugi/rishteycineplex/chunks.m3u8
 #EXTINF:0 group-title=”Movies”,Zee Action
-
+http://15.1.5.14:8082/zeeaction/index.m3u8
 #EXTINF:0 group-title=”Movies”,Zee Classic
 http://10.100.100.140:8081/dugdugi/zeeclassic/chunks.m3u8
 #EXTINF:0 group-title=”Movies”,Star Gold Select HD
