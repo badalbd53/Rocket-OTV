@@ -299,7 +299,7 @@ http://10.252.253.254/hls/zeecinemahd.m3u8
 #EXTINF:0 group-title=”Movies”,Zee Cinema HD
 http://15.1.5.14:8082/ZeeCinemaHD/index.m3u8
 #EXTINF:0 group-title=”Movies”,Sony Set Max
-
+http://30.30.30.30/live/skyfeed2005/index.m3u8
 #EXTINF:0 group-title=”Movies”,Sony Max HD
 http://stream.amrbd.com:8082/Sony-Max/index.m3u8
 #EXTINF:0 group-title=”Movies”,Sony Max 2
