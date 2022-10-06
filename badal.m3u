@@ -296,6 +296,8 @@ http://10.252.253.254/hls/bbcearth.m3u8
 http://15.1.5.10:8082/Dhinchaak/index.m3u8
 #EXTINF:0 group-title=”Movies”,Zee Cinema
 http://10.252.253.254/hls/zeecinemahd.m3u8
+#EXTINF:0 group-title=”Movies”,Zee Cinema
+http://208.115.215.42/ZEE_CInema_HD/index.m3u8
 #EXTINF:0 group-title=”Movies”,Zee Cinema HD
 http://15.1.5.14:8082/ZeeCinemaHD/index.m3u8
 #EXTINF:0 group-title=”Movies”,Sony Set Max
