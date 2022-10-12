@@ -414,7 +414,7 @@ http://10.252.253.254/hls/axn.m3u8
 #EXTINF:0 group-title=”Sports”,BT Sports 3
 
 #EXTINF:0 group-title=”Sports”,Bein Sports 1
-
+http://bdiptv.net:8282/en1-p2/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title=”Sports”,Bein Sports 2
 
 #EXTINF:0 group-title=”Sports”,Bein Sports 3
@@ -423,8 +423,8 @@ http://10.252.253.254/hls/axn.m3u8
 
 #EXTINF:0 group-title=”Sports”,Bein Sports Premium 1
 
-#EXTINF:0 group-title=”Sports”,Bein Sports Premium
-
+#EXTINF:0 group-title=”Sports”,Sony Liv
+http://15.1.5.14:8082/sony-live/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="TATA SKY",Sony SIX
 http://15.1.5.10:8082/sony-six-hd/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony TEN 1
