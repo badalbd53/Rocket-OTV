@@ -232,7 +232,7 @@ http://103.162.136.235:4500/play/a01k/index.m3u8
 #EXTINF:0 group-title=”Kids”,Disney
 http://103.179.246.243:8000/play/a01y
 #EXTINF:0 group-title=”Kids”,Disney
-http://103.162.136.235:4500/play/a01g/index.m3u8
+http://103.151.43.102:8800/play/a03l/index.m3u8
 #EXTINF:0 group-title=”Kids”,Disney jr
 
 #EXTINF:0 group-title=”Kids”,Disney
@@ -449,7 +449,10 @@ http://stream.amrbd.com:8082/Star-Select-2/index.m3u8
 http://10.252.253.254/hls/ten.m3u8
 #EXTINF:0 group-title=”Sports”,PTV Sports
 http://10.252.253.254/hls/ptv.m3u8
-
+#EXTINF:0 group-title=”Sports”,RMC Sports 1
+http://51.178.65.238:80/RMC1/index.m3u8
+#EXTINF:0 group-title=”Sports”,RMC Sports 2
+http://51.178.65.238:80/RMC2/index.m3u8
 
 
 
