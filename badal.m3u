@@ -414,9 +414,9 @@ http://10.252.253.254/hls/axn.m3u8
 #EXTINF:0 group-title=”Sports”,BT Sports 3
 
 #EXTINF:0 group-title=”Sports”,Bein Sports 1
-http://bdiptv.net:8282/en1-p2/tracks-v1a1/mono.m3u8
+http://50.7.237.4:8080/BEIN1/index.m3u8
 #EXTINF:0 group-title=”Sports”,Bein Sports 2
-
+http://50.7.237.4:8080/BEIN2/index.m3u8
 #EXTINF:0 group-title=”Sports”,Bein Sports 3
 
 #EXTINF:0 group-title=”Sports”,Bein Sports 4
