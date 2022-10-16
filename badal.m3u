@@ -301,21 +301,25 @@ http://208.115.215.42/ZEE_CInema_HD/index.m3u8
 #EXTINF:0 group-title=”Movies”,Zee Cinema HD
 http://15.1.5.14:8082/ZeeCinemaHD/index.m3u8
 #EXTINF:0 group-title=”Movies”,Sony Set Max
-http://30.30.30.30/live/skyfeed2005/index.m3u8
+http://50.7.237.4:8080/SETMAX/index.m3u8
+#EXTINF:0 group-title=”Movies”,Sony Max
+http://50.7.237.4:8080/SONYMAXHD/index.m3u8
 #EXTINF:0 group-title=”Movies”,Sony Max HD
-http://stream.amrbd.com:8082/Sony-Max/index.m3u8
+http://15.1.5.10:8082/Sony-Max/index.m3u8
 #EXTINF:0 group-title=”Movies”,Sony Max 2
 http://15.1.5.10:8082/sony-max2/index.m3u8
+#EXTINF:0 group-title=”Movies”,Sony Wah
+http://50.7.237.4:8080/SONYWAH/index.m3u8
 #EXTINF:0 group-title=”Movies”,& Picture
-http://10.100.100.140:8081/dugdugi/andpic/chunks.m3u8
+http://10.252.253.254/hls/andpictures.m3u8
 #EXTINF:0 group-title=”Movies”,Colors Cineplex HD
 http://15.1.5.14:8082/colorscineplex/index.m3u8
 #EXTINF:0 group-title=”Movies”,Rishtey Cineplex HD
-http://10.100.100.140:8081/dugdugi/rishteycineplex/chunks.m3u8
+
 #EXTINF:0 group-title=”Movies”,Zee Action
 http://15.1.5.14:8082/zeeaction/index.m3u8
 #EXTINF:0 group-title=”Movies”,Zee Classic
-http://10.100.100.140:8081/dugdugi/zeeclassic/chunks.m3u8
+http://10.252.253.254/hls/andpictures.m3u8
 #EXTINF:0 group-title=”Movies”,Star Gold Select HD
 
 #EXTINF:0 group-title=”Movies”,Star Gold
@@ -344,7 +348,7 @@ http://10.252.253.254/hls/utv.m3u8
 
 
 #EXTINF:0 group-title=”Movies”,BflixMovies
-http://10.100.100.140:8081/dugdugi/moviesok/chunks.m3u8
+
 #EXTINF:0 group-title=”Movies”,Box Cinema
 
 #EXTINF:0 group-title=”Movies”,Maha Movie
@@ -365,7 +369,7 @@ http://10.252.253.254/hls/sonypixhd.m3u8
 #EXTINF:0 group-title=”Movies”,And Flix HD
 http://15.1.5.14:8082/AND-FLIX/index.m3u8
 #EXTINF:0 group-title=”Movies”,&Prive HD
-http://10.100.100.140:8081/dugdugi/andprive/chunks.m3u8
+
 #EXTINF:0 group-title=”Movies”,Star Movies HD
 http://15.1.5.14:8082/star-movies-hd/index.m3u8
 #EXTINF:0 group-title=”Movies”,Movies Now
