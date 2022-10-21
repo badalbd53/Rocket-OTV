@@ -398,7 +398,7 @@ http://10.252.253.254/hls/axn.m3u8
 #EXTINF:0 group-title=”Sports”,A Sports
 
 #EXTINF:0 group-title=”Sports”,Willow HD
-
+http://31.172.87.20:2200/R-EX/WILLOW_CRICKET_HD-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
 #EXTINF:0 group-title=”Sports”,Sky Sports Cricket
 
 #EXTINF:0 group-title=”Sports”,Sky Sports Football
