@@ -32,9 +32,9 @@ http://stream.amrbd.com:8082/Gazi-Tv/index.m3u8
 #EXTINF:0 group-title=”Bangla”,Asia Cup
 
 #EXTINF:0 group-title=”Bangla”,Tri Nation Cup
-https://mprod-cdn.toffeelive.com/live-event-1/master_1500.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
-http://iptv.hplink.com.bd:8080/hls/sports.m3u8
+https://fs.nowhdtime.com.bd/tsportshd/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
 http://15.1.5.14:8082/TSPORTS-HD/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
@@ -309,7 +309,7 @@ http://15.1.5.10:8082/Sony-Max/index.m3u8
 #EXTINF:0 group-title=”Movies”,Sony Max 2
 http://15.1.5.10:8082/sony-max2/index.m3u8
 #EXTINF:0 group-title=”Movies”,Sony Wah
-http://50.7.237.4:8080/SONYWAH/index.m3u8
+https://fs.nowhdtime.com.bd/SonyWah/index.m3u8
 #EXTINF:0 group-title=”Movies”,& Picture
 http://10.252.253.254/hls/andpictures.m3u8
 #EXTINF:0 group-title=”Movies”,Colors Cineplex HD
@@ -446,7 +446,7 @@ http://10.252.253.254/hls/starsports3.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports SELECT 1
 http://15.1.5.14:8082/Star_Sport_Select1HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports SELECT 2
-http://stream.amrbd.com:8082/Star-Select-2/index.m3u8
+http://172.16.50.2:8082/Star-Select-2/index.m3u8
 #EXTINF:0 group-title=”Sports”,Red Bull TV HD
 
 #EXTINF:0 group-title=”Sports”,Ten Sports 
