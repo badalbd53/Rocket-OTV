@@ -230,9 +230,9 @@ http://10.252.253.254/hls/dis-kid.m3u8
 #EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png group-title=”Kids”,Sonic
 http://103.162.136.235:4500/play/a01k/index.m3u8
 #EXTINF:0 group-title=”Kids”,Disney
-http://103.179.246.243:8000/play/a01y
+http://31.172.87.20:2200/R-EX/KIDS_Disney_TV-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
 #EXTINF:0 group-title=”Kids”,Disney
-http://103.151.43.102:8800/play/a03l/index.m3u8
+
 #EXTINF:0 group-title=”Kids”,Disney jr
 
 #EXTINF:0 group-title=”Kids”,Disney
