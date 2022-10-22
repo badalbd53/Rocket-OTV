@@ -203,7 +203,7 @@ http://172.16.50.2:8082/Zee-Hd/index.m3u8
 http://15.1.5.14:8082/star-plus/index.m3u8
 
 #EXTINF:0 group-title=”Drama”,Sony HD
-http://172.16.50.2:8082/SonyTVHD/index.m3u8
+http://bdiptv.net:8282/SonyTVHD/index.m3u8
 #EXTINF:0 group-title=”Drama”,Sony TV
 http://15.1.5.14:8082/SonyTVHD/index.m3u8
 #EXTINF:0 group-title=”Drama”,Sony HD
