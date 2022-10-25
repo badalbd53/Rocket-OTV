@@ -184,9 +184,9 @@ http://10.252.253.254/hls/zee-bangla-cinema.m3u8
 #EXTINF:0 group-title=”Movies”,Enterr10 Bangla
 http://10.252.253.254/hls/enterr10.m3u8
 #EXTINF:0 group-title=”Drama”,Sony AATH
-http://10.252.253.254/hls/Sony_Aath.m3u8
+http://15.1.5.10:8082/Sonyaath/index.m3u8
 #EXTINF:0 group-title=”Drama”,Sony AATH
-http://15.1.5.14:8082/Sonyaath/index m3u8
+http://15.1.5.14:8082/Sonyaath/index.m3u8
 #EXTINF:0 group-title=”Drama”,Rongeen TV
 
 
