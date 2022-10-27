@@ -29,8 +29,8 @@ http://15.1.5.14:8082/GAZI-TV-HD/index.m3u8
 http://172.16.50.2:8082/Gazi-Tv/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv
 
-#EXTINF:0 group-title=”Bangla”,Asia Cup
-
+#EXTINF:0 group-title=”Bangla”, World Cup
+http://15.1.5.10:8082/en3-34/index.m3u8
 #EXTINF:0 group-title=”Bangla”,Tri Nation Cup
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
