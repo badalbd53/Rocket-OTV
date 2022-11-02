@@ -34,7 +34,7 @@ http://15.1.5.10:8082/en3-34/index.m3u8
 #EXTINF:0 group-title=”Bangla”,World Cup 3
 http://uniontvs.com:8080/Whq44844vw/IuDNBXjzSXqrwd/253670
 #EXTINF:0 group-title=”Bangla”, World Cup 4
-http://watchindia.net:8880/live/vvv/vvv/2145.m3u8
+https://d3cq7cdp2cfi92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2ff27mp9b8422-prod/hls-harvester2-1293-prod/us-east-1/cc-2ff27mp9b8422/master.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
 http://15.1.5.14:8082/TSPORTS-HD/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
