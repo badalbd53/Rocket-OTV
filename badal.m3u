@@ -33,8 +33,8 @@ http://172.16.50.2:8082/Gazi-Tv/index.m3u8
 http://15.1.5.10:8082/en3-34/index.m3u8
 #EXTINF:0 group-title=”Bangla”,Tri Nation Cup
 http://uniontvs.com:8080/Whq44844vw/IuDNBXjzSXqrwd/253670
-#EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
-https://fs.nowhdtime.com.bd/tsportshd/index.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,Willow HD
+http://watchindia.net:8880/live/vvv/vvv/2145.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
 http://15.1.5.14:8082/TSPORTS-HD/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
