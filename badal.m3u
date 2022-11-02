@@ -27,13 +27,13 @@ http://10.252.253.254/hls/Gazi-TV.m3u8
 http://15.1.5.14:8082/GAZI-TV-HD/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv HD
 http://stream.amrbd.com:8082/Gazi-Tv/index.m3u8
-#EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv
-
-#EXTINF:0 group-title=”Bangla”, World Cup
+#EXTINF:0 group-title=”Bangla”, World Cup 1
+http://172.27.27.90:8080/tv2/index.m3u8
+#EXTINF:0 group-title=”Bangla”, World Cup 2
 http://15.1.5.10:8082/en3-34/index.m3u8
-#EXTINF:0 group-title=”Bangla”,Tri Nation Cup
+#EXTINF:0 group-title=”Bangla”,World Cup 3
 http://uniontvs.com:8080/Whq44844vw/IuDNBXjzSXqrwd/253670
-#EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,Willow HD
+#EXTINF:0 group-title=”Bangla”, World Cup 4
 http://watchindia.net:8880/live/vvv/vvv/2145.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
 http://15.1.5.14:8082/TSPORTS-HD/index.m3u8
@@ -454,5 +454,3 @@ http://stream.amrbd.com:8082/Ten-Sports/index.m3u8
 #EXTINF:0 group-title=”Sports”,PTV Sports
 http://stream.amrbd.com:8082/PTV-Sports/index.m3u8
 #EXTINF:0 group-title=”Sports”,RMC Sports 1
-
-#EXTINF:0 group-title=”Sports”,RMC Sports 2
