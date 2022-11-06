@@ -22,19 +22,21 @@ http://10.252.253.254/hls/qurqntv.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/pJhdZme.png group-title=”Islamic”,AL Dawah TV
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv HD
-http://10.252.253.254/hls/Gazi-TV.m3u8
+http://172.27.27.90:8080/tv2/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv HD
 http://15.1.5.14:8082/GAZI-TV-HD/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv HD
 http://stream.amrbd.com:8082/Gazi-Tv/index.m3u8
 #EXTINF:0 group-title=”Bangla”, World Cup 1
-http://172.27.27.90:8080/tv2/index.m3u8
+https://webudi.openhd.lol/ddy1/premium368/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
 #EXTINF:0 group-title=”Bangla”, World Cup 2
-http://15.1.5.10:8082/en3-34/index.m3u8
-#EXTINF:0 group-title=”Bangla”,Sky Cricket
+https://webudi.openhd.lol/ddy1/premium598/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
+#EXTINF:0 group-title=”Bangla”, World Cup 3
 http://213.226.69.130/iptv/YYY6YBWYUNA6UM/7343/index.m3u8
 #EXTINF:0 group-title=”Bangla”, World Cup 4
-https://d3cq7cdp2cfi92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2ff27mp9b8422-prod/hls-harvester2-1293-prod/us-east-1/cc-2ff27mp9b8422/master.m3u8
+https://webudi.openhd.lol/ddy1/premium370/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
+#EXTINF:0 group-title=”Bangla”, World Cup 5
+https://webudi.openhd.lol/ddy1/premium346/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
 http://15.1.5.14:8082/TSPORTS-HD/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
