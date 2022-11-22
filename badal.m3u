@@ -410,8 +410,8 @@ https://webudi.openhd.lol/ddy1/premium65/tracks-v1a1/mono.m3u8?|Referer=https://
 https://webudi.openhd.lol/ddy1/premium370/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
 #EXTINF:0 group-title=”Sports”,Sky Sports Mix
 
-#EXTINF:0 group-title=”Sports”,Super Sports Cricket
-
+#EXTINF:0 group-title=”Sports”,Toffee
+https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_1000.m3u8
 #EXTINF:0 group-title=”Sports”, World Cup
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
 #EXTINF:0 group-title=”Sports”,TUDN
