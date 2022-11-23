@@ -410,12 +410,14 @@ https://webudi.openhd.lol/ddy1/premium65/tracks-v1a1/mono.m3u8?|Referer=https://
 https://webudi.openhd.lol/ddy1/premium370/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
 #EXTINF:0 group-title=”Sports”,Sky Sports Mix
 
-#EXTINF:0 group-title=”Sports”,Toffee
+#EXTINF:0 group-title=”Sports”,Toffee 1
 https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_1000.m3u8
-#EXTINF:0 group-title=”Sports”,World Cup
+#EXTINF:0 group-title=”Sports”,Toffee 2
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
 #EXTINF:0 group-title=”Sports”,World Cup
-http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/index.m3u8
+http://rtv-murcia-live.globalmest.com/stream/abr/k1.m3u8
+#EXTINF:0 group-title=”Sports”,FS1
+https://webudi.openhd.lol/ddy1/premium39/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
 #EXTINF:0 group-title=”Sports”,TUDN
 https://linear-347.frequency.stream/dist/vix/347/hls/master/playlist.m3u8
 #EXTINF:0 group-title=”Sports”,Sport TV 1
@@ -428,8 +430,6 @@ https://webudi.openhd.lol/lb/premium111/index.m3u8?|Referer=https://widevine.lic
 https://webudi.openhd.lol/ddy1/premium61/index.m3u8|Referer=https://streamservicehd.click/&e=.m3u8
 #EXTINF:0 group-title=”Sports”,Bein Sports 1
 https://webudi.openhd.lol/ddy1/premium62/index.m3u8|Referer=https://streamservicehd.click/&e=.m3u8
-#EXTINF:0 group-title=”Sports”,FS1
-https://webudi.openhd.lol/ddy1/premium39/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
 #EXTINF:0 group-title=”Sports”,Bein Sports 1
 https://webudi.openhd.lol/ddy1/premium116/index.m3u8|Referer=https://streamservicehd.click/&e=.m3u8
 #EXTINF:0 group-title=”Sports”,Bein Sports Premium 1
