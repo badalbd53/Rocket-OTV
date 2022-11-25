@@ -24,7 +24,7 @@ http://172.16.29.250/hls/qurqntv.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv HD
 http://172.16.29.250/hls/Gazi-TV.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv HD
-http://15.1.5.14:8082/GAZI-TV-HD/index.m3u8
+http://172.27.27.90:8080/tv4/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv HD
 http://12.1.1.1:8082/Gazi-Tv/index.m3u8
 
@@ -39,7 +39,7 @@ http://12.1.1.1:8082/Gazi-Tv/index.m3u8
 #EXTINF:0 group-title=”Bangla”, World Cup 5
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
-http://15.1.5.14:8082/TSPORTS-HD/index.m3u8
+http://172.27.27.90:8080/tv3/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
 http://12.1.1.1:8082/T-Sports/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
