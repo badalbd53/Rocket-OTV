@@ -412,9 +412,10 @@ https://webudi.openhd.lol/ddy1/premium370/tracks-v1a1/mono.m3u8?|Referer=https:/
 #EXTINF:0 group-title=”Sports”,Sky Sports Mix
 
 #EXTINF:0 group-title=”Sports”,Toffee 1
-https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_1000.m3u8
-#EXTINF:0 group-title=”Sports”,Toffee 2
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
+
+#EXTINF:0 group-title=”Sports”,Toffee 2
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-2/master_1000.m3u8
 #EXTINF:0 group-title=”Sports”,World Cup
 http://rtv-murcia-live.globalmest.com/stream/abr/k1.m3u8
 #EXTINF:0 group-title=”Sports”,FS1
