@@ -29,9 +29,9 @@ http://172.27.27.90:8080/tv4/index.m3u8
 http://12.1.1.1:8082/Gazi-Tv/index.m3u8
 
 #EXTINF:0 group-title=”Bangla”, BPL
-http://tv.basnetbd.com:8080/roarzone/59/index.m3u8
+http://172.16.50.2:8082/Live-2/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title=”Bangla”, BPL
-http://172.27.27.90:8080/tv1/index.m3u8
+http://tv.basnetbd.com:8080/roarzone/37/index.m3u8
 #EXTINF:0 group-title=”Bangla”, World Cup 3
 
 #EXTINF:0 group-title=”Bangla”, World Cup 4
