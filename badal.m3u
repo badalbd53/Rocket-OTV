@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:0 tvg-logo=https://i.imgur.com/H9qgGSc.png group-title=”Bangla”,BTV
-http://103.106.2.152:13456/btv.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/H9qgGSc.png group-title=”Bangla”,BTV HD
+http://tv.basnetbd.com:8080/roarzone/53/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/RR0Iv6V.png group-title=”Bangla”,BTV World
-http://103.106.2.152:13456/btv_world.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg group-title=”Bangla”,Songsad TV
-http://103.106.2.152:13456/sangsad.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/ESWXan9.png group-title=”Islamic”,ATN Islamic TV
 http://iptvbd.jagobd.com:1931/live-orgin/atnislamictv.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/J4JNrkH.png group-title=”Islamic”,Peace TV Bangla
@@ -22,14 +22,14 @@ http://172.16.29.250/hls/qurqntv.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/pJhdZme.png group-title=”Islamic”,AL Dawah TV
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv HD
-http://172.16.29.250/hls/Gazi-TV.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv HD
-http://172.27.27.90:8080/tv4/index.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv HD
 http://12.1.1.1:8082/Gazi-Tv/index.m3u8
 
 #EXTINF:0 group-title=”Bangla”, BPL
-http://172.16.50.2:8082/Live-2/tracks-v1a1/mono.m3u8
+http://172.16.50.2:8082/Live-2/index.m3u8
 #EXTINF:0 group-title=”Bangla”, BPL
 http://tv.basnetbd.com:8080/roarzone/37/index.m3u8
 #EXTINF:0 group-title=”Bangla”, World Cup 3
@@ -39,13 +39,13 @@ http://tv.basnetbd.com:8080/roarzone/37/index.m3u8
 #EXTINF:0 group-title=”Bangla”, World Cup 5
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
-http://172.27.27.90:8080/tv3/index.m3u8
+http://172.16.50.2:8082/T-Sports/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
-http://10.10.10.2/live/fnffeed1004/index.m3u8
+http://tv.basnetbd.com:8080/roarzone/102/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/7ftu2Rt.jpg group-title=”Bangla”,Maasranga
-http://15.1.5.10:8082/maasranga/index.m3u8
+http://tv.basnetbd.com:8080/roarzone/51/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/PK9Gm5g.png group-title=”Bangla”,Duronto TV
 http://172.16.29.250/hls/duranta.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/4imblNY.jpg group-title=”Bangla”,Mohona
