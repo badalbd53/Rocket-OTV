@@ -236,9 +236,9 @@ http://tv.basnetbd.com:8080/roarzone/55/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png group-title=”Kids”,Sonic
 
 #EXTINF:0 group-title=”Kids”,Disney
-
+http://robsrewards.xyz:8880/play/live.php?mac=00:1A:79:49:B5:0D&stream=862661&extension=m3u8&play_token=ND9P5tjmoe
 #EXTINF:0 group-title=”Kids”,Disney
-
+http://208.86.19.13:81/14.stream/index.m3u8
 #EXTINF:0 group-title=”Kids”,Disney jr
 
 #EXTINF:0 group-title=”Kids”,Disney
