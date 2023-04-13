@@ -404,112 +404,61 @@ http://tv.dugdugilive.com:8080/0ne$ky23/HBO/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:0 group-title=”Sports”,Super Cricket
-https://webudi.openhd.lol/ddy1/premium368/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
+
 #EXTINF:0 group-title=”Sports”,Willow Xtra
-https://webudi.openhd.lol/ddy1/premium598/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
+
 #EXTINF:0 group-title=”Sports”,Willow HD
-https://webudi.openhd.lol/ddy1/premium346/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
+
 
 #EXTINF:0 group-title=”Sports”,Sky Sports Cricket
-https://webudi.openhd.lol/ddy1/premium65/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
+
 #EXTINF:0 group-title=”Sports”,Astro Cricket
-https://webudi.openhd.lol/ddy1/premium370/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
+
 #EXTINF:0 group-title=”Sports”,Sky Sports Mix
 
-#EXTINF:0 group-title=”Sports”,Toffee 1
-https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_850.m3u8
+#EXTINF:0 group-title=”Sports”,Sport 18 HD
+http://tv.basnetbd.com:8080/roarzone/37/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 group-title=”Sports”,Toffee 2
-https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
+#EXTINF:0 group-title=”Sports”,Sony
+
 #EXTINF:0 group-title=”Sports”,World Cup
-https://live-ali4.tv360.vn/manifest/vtv2/playlist_720p.m3u8
+
 #EXTINF:0 group-title=”Sports”,World Cup 2
-https://pull.55hgo.cn/armenia/419050518.m3u8?auth_key=1671391981-0-0-e539904d20da7adae14732cc2a0c4d6f
+
 
 #EXTINF:0 group-title=”Sports”,Sport TV 1
-https://webudi.openhd.lol/lb/premium49/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
+
 #EXTINF:0 group-title=”Sports”,Sport TV
 
 #EXTINF:0 group-title=”Sports”,FS1
-https://webudi.openhd.lol/ddy1/premium39/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
 
-#EXTINF:0 group-title=”Sports”,TSN 1
-https://webudi.openhd.lol/lb/premium111/index.m3u8?|Referer=https://widevine.licenses4.me/&e=.m3u8
-#EXTINF:0 group-title=”Sports”,Bein Sports 1
-https://webudi.openhd.lol/ddy1/premium61/index.m3u8|Referer=https://streamservicehd.click/&e=.m3u8
-#EXTINF:0 group-title=”Sports”,Bein Sports 1
-https://webudi.openhd.lol/ddy1/premium62/index.m3u8|Referer=https://streamservicehd.click/&e=.m3u8
-#EXTINF:0 group-title=”Sports”,Bein Sports 1
-https://webudi.openhd.lol/ddy1/premium116/index.m3u8|Referer=https://streamservicehd.click/&e=.m3u8
-#EXTINF:0 group-title=”Sports”,Bein Sports Premium 1
-https://webudi.openhd.lol/ddy1/premium117/index.m3u8|Referer=https://streamservicehd.click/&e=.m3u8
-#EXTINF:0 group-title=”Sports”,Bein Sports
-https://webudi.openhd.lol/ddy1/premium118/index.m3u8|Referer=https://streamservicehd.click/&e=.m3u8
-#EXTINF:1,BEIN SPORTS 1 FR
-https://ad20171.openhd.lol/cdn/myfeed1/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
-#EXTINF:1,BEIN SPORTS 2 FR
-https://ad20171.openhd.lol/cdn/myfeed2/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
-#EXTINF:1,BEIN SPORTS 3 FR
-https://ad20171.openhd.lol/cdn/myfeed3/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
-#EXTINF:1,RMC SPORTS 1 FR
-https://ad20171.openhd.lol/cdn/myfeed4/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
-#EXTINF:1,CANAL+ FR
-https://ad20171.openhd.lol/cdn/myfeed5/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
-#EXTINF:1,CANAL+SPORT FR
-https://ad20171.openhd.lol/cdn/myfeed6/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
-#EXTINF:1,EUROSPORT 1 FR
-https://ad20171.openhd.lol/cdn/myfeed7/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
-#EXTINF:1,EUROSPORT 2 FR
-https://ad20171.openhd.lol/cdn/myfeed8/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
-#EXTINF:1,RMC SPORTS 2 FR
-https://ad20171.openhd.lol/cdn/myfeed9/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
-#EXTINF:1,BEIN SPORTS MAX 4 FR
-https://ad20171.openhd.lol/cdn/myfeed10/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
-#EXTINF:1,BEIN SPORTS MAX 5 FR
-https://ad20171.openhd.lol/cdn/myfeed11/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
-#EXTINF:1,BEIN SPORTS MAX 6 FR
-https://ad20171.openhd.lol/cdn/myfeed12/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
-#EXTINF:1,BEIN SPORTS MAX 7 FR
-https://ad20171.openhd.lol/cdn/myfeed13/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
-#EXTINF:1,BEIN SPORTS MAX 8 FR
-https://ad20171.openhd.lol/cdn/myfeed14/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
-#EXTINF:1,BEIN SPORTS MAX 9 FR
-https://ad20171.openhd.lol/cdn/myfeed15/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
-#EXTINF:1,BEIN SPORTS MAX 10 FR
-https://ad20171.openhd.lol/cdn/myfeed16/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
-#EXTINF:1,CANAL+ FOOT FR
-https://ad20171.openhd.lol/cdn/myfeed17/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
-#EXTINF:1,EQUIPE FR
-https://ad20171.openhd.lol/cdn/myfeed18/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
-#EXTINF:1,AUTOMOTO FR
-https://ad20171.openhd.lol/cdn/myfeed19/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
-#EXTINF:1,CANAL+SPORT 360 FR
-https://ad20171.openhd.lol/cdn/myfeed37/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
-#EXTINF:1,TF1 FR
-https://ad20171.openhd.lol/cdn/myfeed29/index.m3u8?|Referer=https://leetcdn.cc/&e=.m3u8
+
 #EXTINF:0 group-title="TATA SKY",Sony SIX
-http://15.1.5.10:8082/sony-six-hd/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony TEN 1
-http://15.1.5.10:8082/ten1-hd/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony TEN 2
-http://15.1.5.10:8082/sony-ten2/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony TEN 3
-http://12.1.1.1:8082/Ten3/index.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony Sports 1
+http://tv.basnetbd.com:8080/roarzone/20/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony Sports 2
+http://tv.basnetbd.com:8080/roarzone/21/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony Sports 3
+http://tv.basnetbd.com:8080/roarzone/22/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony Sports 5
+http://tv.basnetbd.com:8080/roarzone/24/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports 1
-http://15.1.5.14:8082/STAR-SPORTS-1/index.m3u8
+http://tv.basnetbd.com:8080/roarzone/25/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports 2
-http://15.1.5.14:8082/STAR-SPORTS-2/index.m3u8
+http://tv.basnetbd.com:8080/roarzone/26/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports 3
-http://172.16.29.250/hls/starsports3.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports SELECT 1
-http://15.1.5.14:8082/Star_Sport_Select1HD/tracks-v1a1/mono.m3u8
+http://tv.basnetbd.com:8080/roarzone/27/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports SELECT 2
-http://12.1.1.1:8082/Star-Select-2/index.m3u8
-#EXTINF:0 group-title=”Sports”,Red Bull TV HD
+http://tv.basnetbd.com:8080/roarzone/28/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title=”Sports”,Sony Sports 5 HD
 
 #EXTINF:0 group-title=”Sports”,Ten Sports 
-http://12.1.1.1:8082/Ten-Sports/index.m3u8
+
 #EXTINF:0 group-title=”Sports”,PTV Sports
-http://12.1.1.1:8082/PTV-Sports/index.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/PTV/tracks-v1/mono.m3u8
 #EXTINF:0 group-title=”Sports”,RMC Sports 1
 
