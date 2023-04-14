@@ -268,8 +268,8 @@ http://tv.dugdugilive.com:8080/0ne$ky23/Cartoon/index.m3u8
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/8GG7Ny9.png group-title=”Documentary”,Discovery HD
 http://tv.dugdugilive.com:8080/0ne$ky23/Discovery/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo=https://i.imgur.com/m7Cl2M9.png group-title=”Documentary”,Discovery Science
-
+#EXTINF:0 tvg-logo=https://i.imgur.com/m7Cl2M9.png group-title=”Documentary”,Discovery Bangla
+https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Discovery_Bangla.m3u8
 #EXTINF:0 group-title=”Documentary”,National Geographic HD
 
 #EXTINF:0 group-title=”Documentary”,NatGeo Wild
@@ -403,19 +403,21 @@ http://tv.dugdugilive.com:8080/0ne$ky23/HBO/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:0 group-title=”Sports”,Super Cricket
-
-#EXTINF:0 group-title=”Sports”,Willow Xtra
-
+#EXTINF:0 group-title=”Sports”,Fox Sports 505
+https://daddy.yurendtv.biz.id/https://ddy1.onlinewebtv.lol/ddy1/premium823/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title=”Sports”,Fox Sports 501
+https://ddh2.onlinewebtv.lol/ddh2/premium369/tracks-v1a1/mono.m3u8?|referer=https://olacast.live/&e.m3u8
 #EXTINF:0 group-title=”Sports”,Willow HD
-
+https://ddy1.onlinewebtv.lol:443/ddy1/premium598/tracks-v1a1/mono.m3u8?|referer=https://olacast.live/&e.m3u8
+#EXTINF:0 group-title=”Sports”,Willow Xtra
+https://ddy1.onlinewebtv.lol:443/ddy1/premium346/tracks-v1a1/mono.m3u8?|referer=https://olacast.live/&e.m3u8
 
 #EXTINF:0 group-title=”Sports”,Sky Sports Cricket
-
+https://ddy1.onlinewebtv.lol:443/ddy1/premium65/tracks-v1a1/mono.m3u8?|referer=https://olacast.live/&e.m3u8
 #EXTINF:0 group-title=”Sports”,Astro Cricket
-
-#EXTINF:0 group-title=”Sports”,Sky Sports Mix
-
+https://ddy1.onlinewebtv.lol/ddy1/premium370/tracks-v1a1/mono.m3u8?|referer=https://olacast.live/&e.m3u8
+#EXTINF:0 group-title=”Sports”, Super Cricket 
+https://ddy1.onlinewebtv.lol:443/ddy1/premium368/tracks-v1a1/mono.m3u8?|referer=https://olacast.live/&e.m3u8
 #EXTINF:0 group-title=”Sports”,Sport 18 HD
 http://tv.basnetbd.com:8080/roarzone/37/tracks-v1a1/mono.m3u8
 
