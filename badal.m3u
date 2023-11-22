@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTINF:0 tvg-logo=https://i.imgur.com/H9qgGSc.png group-title=”Bangla”,BTV HD
-http://tv.basnetbd.com:8080/roarzone/53/tracks-v1a1/mono.m3u8
+http://100.64.64.11/BTV_National/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/RR0Iv6V.png group-title=”Bangla”,BTV World
-http://tv.basnetbd.com:8080/roarzone/84/tracks-v1a1/mono.m3u8
+http://100.64.64.11/BTV_World_SD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg group-title=”Bangla”,Songsad TV
-http://tv.basnetbd.com:8080/roarzone/88/tracks-v1a1/mono.m3u8
+http://100.64.64.11/Sangshad_TV_SD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/ESWXan9.png group-title=”Islamic”,ATN Islamic TV
 http://iptvbd.jagobd.com:1931/live-orgin/atnislamictv.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/J4JNrkH.png group-title=”Islamic”,Peace TV Bangla
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/vr3EWTI.jpg group-title=”Islamic”,Makkah TV
-http://tv.basnetbd.com:8080/roarzone/83/tracks-v1a1/mono.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/QSrvJLt.jpeg group-title=”Islamic”,Panvision TV
 
 #EXTINF:0 group-title=”Islamic”,Azan TV
@@ -22,70 +22,59 @@ http://iptvbd.jagobd.com:1931/live-orgin/makkah.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/pJhdZme.png group-title=”Islamic”,AL Dawah TV
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv
-http://tv.basnetbd.com:8080/roarzone/1/tracks-v1a1/mono.m3u8
+http://103.141.2.37:25461/live/web/web/592.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv HD
-
+http://100.64.64.11/Gazitvtowkaiinternal_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv HD
-http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 group-title=”Bangla”, BPL
-
-#EXTINF:0 group-title=”Bangla”, BPL
-
-#EXTINF:0 group-title=”Bangla”, World Cup 3
-https://sportsleading.online/live/stream_e1.m3u8
-#EXTINF:0 group-title=”Bangla”, World Cup 4
-https://sportsleading.online/live/stream_e3.m3u8
-#EXTINF:0 group-title=”Bangla”, World Cup 5
-
+http://otv.ftpbd.net:8082/Gazi-Tv-HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
-http://tv.basnetbd.com:8080/roarzone/102/tracks-v1a1/mono.m3u8
+http://103.141.2.37:25461/live/web/web/586.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
-http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/tracks-v1a1/mono.m3u8
+http://100.64.64.11/tsportstowkaiinternal_HD/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
-
+http://otv.ftpbd.net:8082/T-Sports-HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/7ftu2Rt.jpg group-title=”Bangla”,Maasranga
-http://tv.basnetbd.com:8080/roarzone/51/tracks-v1a1/mono.m3u8
+http://100.64.64.11/Masranga_TV_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/PK9Gm5g.png group-title=”Bangla”,Duronto TV
-http://tv.basnetbd.com:8080/roarzone/10/tracks-v1a1/mono.m3u8
+http://100.64.64.11/Duronto_TV_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/4imblNY.jpg group-title=”Bangla”,Mohona
-http://tv.dugdugilive.com:8080/0ne$ky23/Mohona/tracks-v1a1/mono.m3u8
+http://100.64.64.11/Mohona_Tv/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/fxq0pV2.png group-title=”Bangla”,Asian TV
 http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/5PsRkPd.png group-title=”Bangla”,ATN Bangla
-http://tv.basnetbd.com:8080/roarzone/2/tracks-v1a1/mono.m3u8
+http://103.141.2.37:25461/live/web/web/612.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/HX8SSDA.png group-title=”Bangla”,Banglavision TV
-http://tv.dugdugilive.com:8080/0ne$ky23/BanglaVision/tracks-v1a1/mono.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/pTJSGtj.png group-title=”Bangla”,Boishakhi TV
-http://tv.basnetbd.com:8080/roarzone/61/tracks-v1a1/mono.m3u8
+http://100.64.64.11/Boishakhi_TV_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title=”Bangla”,Boishakhi TV Plus
 http://iptvbd.jagobd.com:1931/live-orgin/boishakhiplus.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/fj8nxOw.png group-title=”Bangla”,Channel 9 HD
-
+http://100.64.64.11/Channel_9_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/p0I5dr0.png group-title=”Bangla”,Channel I
-http://tv.basnetbd.com:8080/roarzone/4/tracks-v1a1/mono.m3u8
+http://103.141.2.37:25461/live/web/web/595.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/tPZKfLr.png group-title=”Bangla”,Deepto TV
-http://tv.basnetbd.com:8080/roarzone/8/tracks-v1a1/mono.m3u8
+http://100.64.64.11/Deepto_TV_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/JgkIH3w.png group-title=”Bangla”,Desh TV
-http://tv.basnetbd.com:8080/roarzone/9/tracks-v1a1/mono.m3u8
+http://100.64.64.11/Desh_TV_SD/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title=”Bangla”,Nexus TV
-
+http://100.64.64.11/Nexus_TV_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/v9PqrCG.png group-title=”News”,ATN News
-http://tv.basnetbd.com:8080/roarzone/49/tracks-v1a1/mono.m3u8
+http://100.64.64.11/ATN_News_SD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/i8T9qQs.png group-title=”News”,Ekattor TV
-http://tv.basnetbd.com:8080/roarzone/11/tracks-v1a1/mono.m3u8
+http://100.64.64.11/Ekattor_TV_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/kviJN1i.png group-title=”News”,Independent TV
-http://tv.dugdugilive.com:8080/0ne$ky23/Independent/tracks-v1a1/mono.m3u8
+http://103.141.2.37:25461/live/web/web/590.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/Z2QvpTn.png group-title=”News”,Somoy News
-http://tv.dugdugilive.com:8080/0ne$ky23/SomoyTV/tracks-v1a1/mono.m3u8
+http://103.141.2.37:25461/live/web/web/597.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/FxsW4XI.png group-title=”News”,News 24
-http://tv.dugdugilive.com:8080/0ne$ky23/News24/tracks-v1a1/mono.m3u8
+http://100.64.64.11/News_24_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/djAX8Rc.png group-title=”News”,DBC News
-http://tv.dugdugilive.com:8080/0ne$ky23/DBC/tracks-v1a1/mono.m3u8
+http://100.64.64.11/News_24_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/MmhxR5E.png group-title=”Bangla”,Channel 24
-http://tv.dugdugilive.com:8080/0ne$ky23/Channel24/tracks-v1a1/mono.m3u8
+http://100.64.64.11:80/Channel_24_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/ds3aThu.jpg group-title=”Bangla”,Jamuna TV
-http://tv.dugdugilive.com:8080/0ne$ky23/JamunaTV/tracks-v1a1/mono.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:0 group-title=”Bangla”,Jagonews 24
 http://iptvbd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
 #EXTINF:0 group-title=”Bangla”,Green TV
@@ -95,23 +84,23 @@ http://iptvbd.jagobd.com:1931/live-orgin/greentv.stream/chunks.m3u8
 
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/kFqOMtx.png group-title=”Bangla”,Ekushey ETV
-http://tv.dugdugilive.com:8080/0ne$ky23/EkusheyTV/tracks-v1a1/mono.m3u8
+http://100.64.64.11/Ekushey_Tv_SD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/3usnOla.png group-title=”Bangla”,NTV
-http://tv.basnetbd.com:8080/roarzone/54/tracks-v1a1/mono.m3u8
+http://100.64.64.11/NTV_SD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/2cpHJKq.png group-title=”Bangla”,Nagorik TV
-http://tv.dugdugilive.com:8080/0ne$ky23/Nagorik/tracks-v1a1/mono.m3u8
+http://100.64.64.11/Nagorik_TV_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/yi5p51T.png group-title=”Bangla”,RTV
-http://tv.dugdugilive.com:8080/0ne$ky23/RTV/tracks-v1a1/mono.m3u8
+http://100.64.64.11/RTV_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/fraEjzm.png group-title=”Bangla”,SA TV HD
-http://tv.basnetbd.com:8080/roarzone/15/tracks-v1a1/mono.m3u8
+http://100.64.64.11/SA_TV_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/K43LsMQ.png group-title=”Bangla”,Bangla TV HD
-http://tv.dugdugilive.com:8080/0ne$ky23/BanglaTV/tracks-v1a1/mono.m3u8
+http://100.64.64.11/Bangla_TV_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/kDmkexe.png group-title=”Bangla”,Bijoy Tv
 http://iptvbd.jagobd.com:1931/live-orgin/bijoy00.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/bahWhBG.png group-title=”Bangla”,MyTV
-http://tv.basnetbd.com:8080/roarzone/56/tracks-v1a1/mono.m3u8
+http://100.64.64.11/My_Tv/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/h5FhOWT.png group-title=”Bangla”,Ananda TV
-http://tv.basnetbd.com:8080/roarzone/16/tracks-v1a1/mono.m3u8
+http://100.64.64.11/Ananda_TV_SD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/IYGU8Km.png group-title=”Movies”,Movie Bangla
 http://iptvbd.jagobd.com:1931/live-orgin/moviebanglalink2.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/IYGU8Km.png group-title=”Movies”,My Cinema
