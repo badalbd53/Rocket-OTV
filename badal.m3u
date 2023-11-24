@@ -145,13 +145,9 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/0rFA2Cx.png group-title=”Music”,Mastiii
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/3mkjuTk.png group-title=”Music”,E24
-
+https://ch.bdtubelive.xyz/ayna.m3u8?id=174
 #EXTINF:0 tvg-logo=https://i.imgur.com/wg3N1VT.png group-title=”Music”,8XM
-
 #EXTINF:0 tvg-logo=https://i.imgur.com/wRc0YAb.png group-title=”Music”,Bindass
-
-#EXTINF:0 tvg-logo=https://i.imgur.com/chHDUsi.png group-title=”Movies”,ZING
-
 #EXTINF:0 tvg-logo=https://i.imgur.com/stZqDcA.png group-title=”Movies”,B4U Music
 https://sanjibweb.me/jiaa/jio.m3u8/?id=183&e=m3u8
 
@@ -296,7 +292,7 @@ https://ch.bdtubelive.xyz/ayna.m3u8?id=56
 
 
 #EXTINF:0 group-title=”Movies”,Dhinchaak
-
+https://ch.bdtubelive.xyz/ayna.m3u8?id=152
 #EXTINF:0 group-title=”Movies”,Zee Cinema
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema/default/index.m3u8
 #EXTINF:0 group-title=”Movies”,Zee Cinema
@@ -317,14 +313,18 @@ https://ch.bdtubelive.xyz/ayna.m3u8?id=77
 http://otv.ftpbd.net:8082/And-Pictures-HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title=”Movies”,& Picture HD
 
+#EXTINF:0 tvg-logo=https://i.imgur.com/chHDUsi.png group-title=”Movies”,ZING
+https://ch.bdtubelive.xyz/ayna.m3u8?id=98
 #EXTINF:0 group-title=”Movies”,Colors Cineplex HD
-http://tv.dugdugilive.com:8080/0ne$ky23/CinePlex/tracks-v1a1/mono.m3u8
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/index.m3u8
+#EXTINF:0 group-title=”Movies”,Colors Cineplex Bollywood
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8
 #EXTINF:0 group-title=”Movies”,Rishtey Cineplex HD
-
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/index.m3u8
 #EXTINF:0 group-title=”Movies”,Zee Action
-http://tv.basnetbd.com:8080/roarzone/90/tracks-v1a1/mono.m3u8
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/index.m3u8
 #EXTINF:0 group-title=”Movies”,Zee Classic
-http://tv.basnetbd.com:8080/roarzone/94/tracks-v1a1/mono.m3u8
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebollywood/default/index.m3u8
 #EXTINF:0 group-title=”Movies”,Star Gold Select HD
 
 #EXTINF:0 group-title=”Movies”,Star Gold
@@ -333,17 +333,26 @@ http://tv.basnetbd.com:8080/roarzone/94/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 group-title=”Movies”,Star Gold HD
 http://otv.ftpbd.net:8082/And-Prive-HD/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title=”Movies”,Star Gold 2
+#EXTINF:0 group-title=”Movies”,Star Gold Select
+http://otv.ftpbd.net:8082/And-Xplore-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="LTWS HINDI MOVIES",GOLDMINES
+https://ch.bdtubelive.xyz/ayna.m3u8?id=153
+#EXTINF:-1 group-title="LTWS HINDI MOVIES",GOLDMINES BOLLYWOOD
+https://ch.bdtubelive.xyz/ayna.m3u8?id=154
+#EXTINF:-1 group-title="LTWS HINDI MOVIES",GOLDMINES MOVIES
+https://ch.bdtubelive.xyz/ayna.m3u8?id=155
+#EXTINF:-1 group-title="LTWS HINDI MOVIES",MANORANJAN MOVIES
+https://ch.bdtubelive.xyz/ayna.m3u8?id=138
+#EXTINF:-1 group-title="LTWS HINDI MOVIES",B4U KADAK
+https://ch.bdtubelive.xyz/ayna.m3u8?id=148
+#EXTINF:-1 group-title="LTWS HINDI MOVIES",B4U HITZ
+https://ch.bdtubelive.xyz/ayna.m3u8?id=193
+#EXTINF:-1 group-title="LTWS HINDI MOVIES",DHAMAKA MOVIES
+https://ch.bdtubelive.xyz/ayna.m3u8?id=194
+#EXTINF:-1 group-title="LTWS HINDI MOVIES",B4U MOVIES
+https://ch.bdtubelive.xyz/ayna.m3u8?id=189]
 
-#EXTINF:0 group-title=”Movies”,B4U Movies
-http://tv.dugdugilive.com:8080/0ne$ky23/B4Umovies/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title=”Movies”,Sony Max HD
 
-#EXTINF:0 group-title=”Movies”,Sony Max 2
-
-#EXTINF:0 group-title=”Movies”,Sony Wah
-
-#EXTINF:0 group-title=”Movies”,UTV Action
 
 #EXTINF:0 group-title=”Movies”,UTV Action
 
@@ -370,21 +379,23 @@ http://tv.dugdugilive.com:8080/0ne$ky23/B4Umovies/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:0 group-title=”Entertainment”,Sony Pix HD
-http://tv.basnetbd.com:8080/roarzone/41/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title=”Movies”,And Flix HD
-http://tv.dugdugilive.com:8080/0ne$ky23/AndFlix/tracks-v1a1/mono.m3u8
+http://otv.ftpbd.net:8082/Hbo-HD/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title=”Movies”,Sony Pix HD
+https://ch.bdtubelive.xyz/ayna.m3u8?id=73
 #EXTINF:0 group-title=”Movies”,&Prive HD
-http://tv.dugdugilive.com:8080/0ne$ky23/AndPrive/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title=”Movies”,Star Movies HD
-http://tv.dugdugilive.com:8080/0ne$ky23/StarMovies/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title=”Movies”,Movies Now
-http://tv.basnetbd.com:8080/roarzone/45/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title=”Movies”,MN+ HD
 
+#EXTINF:0 group-title=”Movies”,Star Movies HD
+http://otv.ftpbd.net:8082/Star-Movies-Select-HD/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title=”Movies”,Star Movies Select
+http://otv.ftpbd.net:8082/History-18-HD/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title=”Movies”,Fox Action Movies
+http://otv.ftpbd.net:8082/Fox-Cartoon-HD/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title=”Movies”,Cinema World
+http://otv.ftpbd.net:8082/Star-Gold-Select-HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title=”Movies”,MNX HD
-http://tv.basnetbd.com:8080/roarzone/39/tracks-v1a1/mono.m3u8
+
 #EXTINF:0 group-title=”Movies”,HBO
-http://tv.dugdugilive.com:8080/0ne$ky23/HBO/tracks-v1a1/mono.m3u8
+
 #EXTINF:0 group-title=”Movies”,Lotus Macau
 
 #EXTINF:0 group-title=”Movies”,AXN
@@ -401,22 +412,22 @@ http://tv.dugdugilive.com:8080/0ne$ky23/HBO/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:0 group-title=”Sports”,Fox Sports 505
-https://ddy1.salamus1.lol/ddy1/premium823/tracks-v1a1/mono.m3u8?|referer=https://olacast.live/&e.m3u8
+
 #EXTINF:0 group-title=”Sports”,Fox Sports 501
-https://ddy1.salamus1.lol/ddy1/premium369/tracks-v1a1/mono.m3u8?|referer=https://olacast.live/&e.m3u8
+
 #EXTINF:0 group-title=”Sports”,Willow Xtra
-https://webudit.salamus1.lol/lb/premium598/index.m3u8?|referer=https://olacast.live/&e.m3u8
+
 #EXTINF:0 group-title=”Sports”,Willow HD
-https://webudit.salamus1.lol/lb/premium346/index.m3u8?|referer=https://olacast.live/&e.m3u8
+
 
 #EXTINF:0 group-title=”Sports”,Sky Sports Cricket
-https://webudit.salamus1.lol/lb/premium65/index.m3u8?|referer=https://olacast.live/&e.m3u8
+
 #EXTINF:0 group-title=”Sports”,Astro Cricket
-https://webudit.salamus1.lol/lb/premium370/index.m3u8?|referer=https://olacast.live/&e.m3u8
+
 #EXTINF:0 group-title=”Sports”, Super Cricket 
-https://webudit.salamus1.lol/lb/premium368/index.m3u8?|referer=https://olacast.live/&e.m3u8
+
 #EXTINF:0 group-title=”Sports”,Sport 18 HD
-http://tv.basnetbd.com:8080/roarzone/37/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:0 group-title=”Sports”,Sony
 
@@ -435,29 +446,54 @@ http://tv.basnetbd.com:8080/roarzone/37/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="TATA SKY",Sony SIX
 
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony Sports 1
-http://tv.basnetbd.com:8080/roarzone/20/tracks-v1a1/mono.m3u8
+http://otv.ftpbd.net:8082/SONY-TEN-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony Sports 2
-http://tv.basnetbd.com:8080/roarzone/21/tracks-v1a1/mono.m3u8
+http://otv.ftpbd.net:8082/Sony-Ten-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony Sports 3
-http://tv.basnetbd.com:8080/roarzone/22/tracks-v1a1/mono.m3u8
+https://ch.bdtubelive.xyz/ayna.m3u8?id=78
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony Sports 5
-http://tv.basnetbd.com:8080/roarzone/24/tracks-v1a1/mono.m3u8
+https://ch.bdtubelive.xyz/ayna.m3u8?id=90
 
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports 1
-http://tv.basnetbd.com:8080/roarzone/25/tracks-v1a1/mono.m3u8
+http://otv.ftpbd.net:8082/Star-Sports-1-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports 2
-http://tv.basnetbd.com:8080/roarzone/26/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports 3
 
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports SELECT 1
-http://tv.basnetbd.com:8080/roarzone/27/tracks-v1a1/mono.m3u8
+http://otv.ftpbd.net:8082/Star-Select-1-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports SELECT 2
-http://tv.basnetbd.com:8080/roarzone/28/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title=”Sports”,Sony Sports 5 HD
-
+http://otv.ftpbd.net:8082/Star-Select-2-HD/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title=”Sports”,Super Sports
+http://otv.ftpbd.net:8082/SS-Ceicket-HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title=”Sports”,Ten Sports 
 
 #EXTINF:0 group-title=”Sports”,PTV Sports
-http://tv.dugdugilive.com:8080/0ne$ky23/PTV/tracks-v1/mono.m3u8
-#EXTINF:0 group-title=”Sports”,RMC Sports 1
 
+#EXTINF:0 group-title=”Sports”,RMC Sports 1
+#EXTINF:-1 group-title="LTWS SPORTS",GEO SUPER
+https://ch.bdtubelive.xyz/ayna.m3u8?id=50
+#EXTINF:-1 group-title="LTWS SPORTS",A SPORTS HD
+https://ch.bdtubelive.xyz/ayna.m3u8?id=67
+#EXTINF:-1 group-title="LTWS SPORTS",SPORTS 18
+https://ch.bdtubelive.xyz/ayna.m3u8?id=44
+#EXTINF:-1 group-title="LTWS SPORTS",DD SPORTS HD
+https://ch.bdtubelive.xyz/ayna.m3u8?id=45
+#EXTINF:-1 group-title="LTWS SPORTS",PTV SPORTS
+https://ch.bdtubelive.xyz/ayna.m3u8?id=46
+#EXTINF:-1 group-title="LTWS SPORTS",WILLOW HD
+https://ch.bdtubelive.xyz/ayna.m3u8?id=114
+#EXTINF:-1 group-title="LTWS SPORTS",ESPN
+https://ch.bdtubelive.xyz/ayna.m3u8?id=115
+#EXTINF:-1 group-title="LTWS SPORTS",TSN 1
+https://ch.bdtubelive.xyz/ayna.m3u8?id=116
+#EXTINF:-1 group-title="LTWS SPORTS",TSN 2
+https://ch.bdtubelive.xyz/ayna.m3u8?id=117
+#EXTINF:-1 group-title="LTWS SPORTS",TSN 3
+https://ch.bdtubelive.xyz/ayna.m3u8?id=118
+#EXTINF:-1 group-title="LTWS SPORTS",TNT SPORTS 1
+https://ch.bdtubelive.xyz/ayna.m3u8?id=119
+#EXTINF:-1 group-title="LTWS SPORTS",TNT SPORTS 2
+https://ch.bdtubelive.xyz/ayna.m3u8?id=120
+#EXTINF:-1 group-title="LTWS SPORTS",BEIN SPORTS
+https://ch.bdtubelive.xyz/ayna.m3u8?id=109
