@@ -323,6 +323,8 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/index.m3u8
 #EXTINF:0 group-title=”Movies”,Zee Action
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/index.m3u8
+#EXTINF:0 group-title=”Movies”,Zee Anmol Cinema
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmolcinema/default/index.m3u8
 #EXTINF:0 group-title=”Movies”,Zee Classic
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebollywood/default/index.m3u8
 #EXTINF:0 group-title=”Movies”,Star Gold Select HD
@@ -382,8 +384,8 @@ https://ch.bdtubelive.xyz/ayna.m3u8?id=189]
 http://otv.ftpbd.net:8082/Hbo-HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title=”Movies”,Sony Pix HD
 https://ch.bdtubelive.xyz/ayna.m3u8?id=73
-#EXTINF:0 group-title=”Movies”,&Prive HD
-
+#EXTINF:0 group-title=”Movies”,Zee Cafe HD
+https://ch.bdtubelive.xyz/ayna.m3u8?id=95
 #EXTINF:0 group-title=”Movies”,Star Movies HD
 http://otv.ftpbd.net:8082/Star-Movies-Select-HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title=”Movies”,Star Movies Select
