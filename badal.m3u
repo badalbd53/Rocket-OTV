@@ -187,7 +187,7 @@ https://ch.bdtubelive.xyz/ayna.m3u8?id=105
 #EXTINF:0 group-title=”Drama”,Sony AATH
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 #EXTINF:0 group-title=”Drama”,Sony AATH
-https://ch.bdtubelive.xyz/ayna.m3u8?id=85
+https://cdn.sajeeb.online/Sony-Aath/tracks-v1a1/mono.m3u8?token=helpline
 #EXTINF:0 group-title=”Drama”,Rongeen TV
 
 
@@ -197,7 +197,7 @@ https://ch.bdtubelive.xyz/ayna.m3u8?id=85
 
 
 #EXTINF:0 group-title=”Drama”,Sony Sab HD
-http://otv.ftpbd.net:8082/Sony-Sab-HD/tracks-v1a1/mono.m3u8
+https://cdn.sajeeb.online/Sony-SAB/tracks-v1a1/mono.m3u8?token=helpline
 #EXTINF:0 group-title=”Drama”,Zee Tv HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd/default/index.m3u8
 #EXTINF:0 group-title=”Drama”,Star Plus HD
