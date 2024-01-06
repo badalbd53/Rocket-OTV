@@ -12,7 +12,7 @@ http://tv.elaach.com/hls/4029.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/vr3EWTI.jpg group-title=”Islamic”,Makkah TV
 http://tv.elaach.com/hls/4112.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/QSrvJLt.jpeg group-title=”Islamic”,Madina TV
-https://nayeem-ayna1.000webhostapp.com/aynax.php?id=133&e=.m3u8|User-Agent=MXPlayer/1.74.5 (Linux; Android 11; en-US; RMX3261 Build/RMX3261_11_A.115)
+
 #EXTINF:0 group-title=”Islamic”,Azan TV
 
 #EXTINF:0 group-title=”Islamic”,Makkah Live
@@ -24,9 +24,9 @@ https://nayeem-ayna1.000webhostapp.com/aynax.php?id=133&e=.m3u8|User-Agent=MXPla
 #EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv HD
-
+http://tv.elaach.com/hls/5008.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv HD
-
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=19&e=.m3u8|User-Agent=bdsajib
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
