@@ -8,15 +8,15 @@ http://100.64.64.11/Sangshad_TV_SD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/ESWXan9.png group-title=”Islamic”,ATN Islamic TV
 https://livess.jagobd.com.bd/live-orgin/atnislamictv.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/J4JNrkH.png group-title=”Islamic”,Peace TV Bangla
-
+http://tv.elaach.com/hls/4029.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/vr3EWTI.jpg group-title=”Islamic”,Makkah TV
-
-#EXTINF:0 tvg-logo=https://i.imgur.com/QSrvJLt.jpeg group-title=”Islamic”,Panvision TV
-
+http://tv.elaach.com/hls/4112.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/QSrvJLt.jpeg group-title=”Islamic”,Madina TV
+https://nayeem-ayna1.000webhostapp.com/aynax.php?id=133&e=.m3u8|User-Agent=nayeemxyz1
 #EXTINF:0 group-title=”Islamic”,Azan TV
 
 #EXTINF:0 group-title=”Islamic”,Makkah Live
-http://tv.elaach.com/hls/Quraan-Tvv.m3u8
+
 #EXTINF:0 group-title=”Islamic”,Madina Live
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/pJhdZme.png group-title=”Islamic”,AL Dawah TV
