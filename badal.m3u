@@ -7,7 +7,7 @@ http://100.64.64.11/BTV_World_SD/tracks-v1a1/mono.m3u8
 http://100.64.64.11/Sangshad_TV_SD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/ESWXan9.png group-title=”Islamic”,ATN Islamic TV
 https://livess.jagobd.com.bd/live-orgin/atnislamictv.stream/chunks.m3u8
-#EXTINF:0 tvg-logo=https://i.imgur.com/J4JNrkH.png group-title=”Islamic”,Peace TV Bangla
+#EXTINF:0 tvg-logo=https://i.imgur.com/J4JNrkH.png group-title=”Islamic”,Madani TV
 http://tv.elaach.com/hls/4029.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/vr3EWTI.jpg group-title=”Islamic”,Makkah TV
 http://tv.elaach.com/hls/4112.m3u8
