@@ -66,7 +66,7 @@ http://100.64.64.11/Ekattor_TV_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/kviJN1i.png group-title=”News”,Independent TV
 http://10.200.1.142/hls/4008.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/Z2QvpTn.png group-title=”News”,Somoy News
-http://100.64.64.11/Somoy_TV_HD/tracks-v1a1/mono.m3u8
+http://10.200.1.142/hls/4010.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/FxsW4XI.png group-title=”News”,News 24
 http://100.64.64.11/News_24_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/djAX8Rc.png group-title=”News”,DBC News
