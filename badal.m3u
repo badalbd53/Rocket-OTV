@@ -10,33 +10,33 @@ https://livess.jagobd.com.bd/live-orgin/atnislamictv.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/J4JNrkH.png group-title=”Islamic”,Madani TV
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/vr3EWTI.jpg group-title=”Islamic”,Makkah TV
-https://raw.githubusercontent.com/badalbd53/rocket-otv.github.io/master/live_tv/Makkah_Live.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/QSrvJLt.jpeg group-title=”Islamic”,Madina TV
-https://raw.githubusercontent.com/badalbd53/rocket-otv.github.io/master/live_tv/Madina_Live.m3u8
+
 #EXTINF:0 group-title=”Islamic”,Azan TV
 
 #EXTINF:0 group-title=”Islamic”,Makkah Live
-
+https://raw.githubusercontent.com/badalbd53/rocket-otv.github.io/master/live_tv/Makkah_Live.m3u8
 #EXTINF:0 group-title=”Islamic”,Madina Live
-
+https://raw.githubusercontent.com/badalbd53/rocket-otv.github.io/master/live_tv/Madina_Live.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/pJhdZme.png group-title=”Islamic”,AL Dawah TV
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv
 http://103.109.56.116/live/skyfeed1006/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv HD
-http://10.20.30.40:8088/1103/tracks-v1a1/mono.m3u8?token=
+http://10.20.30.40:8088/1103/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv HD
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
-http://10.20.30.40:8088/1102/tracks-v1a1/mono.m3u8
+http://10.20.30.40:8088/1102/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
-
+http://103.109.56.116/live/skyfeed1005/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
-http://tgaadi-web.tech/api/Play.php?tv=23937&e=.m3u8
+https://tv5.hoichoi24.com/1101/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/7ftu2Rt.jpg group-title=”Bangla”,Maasranga
-http://100.64.64.11/Masranga_TV_HD/tracks-v1a1/mono.m3u8
+http://10.20.30.40:8088/1213/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/PK9Gm5g.png group-title=”Bangla”,Duronto TV
-http://100.64.64.11/Duronto_TV_HD/tracks-v1a1/mono.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/4imblNY.jpg group-title=”Bangla”,Mohona
 http://100.64.64.11/Mohona_Tv/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/fxq0pV2.png group-title=”Bangla”,Asian TV
