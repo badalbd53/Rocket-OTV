@@ -16,9 +16,9 @@ https://livess.jagobd.com.bd/live-orgin/atnislamictv.stream/chunks.m3u8
 #EXTINF:0 group-title=”Islamic”,Azan TV
 
 #EXTINF:0 group-title=”Islamic”,Makkah Live
-https://raw.githubusercontent.com/badalbd53/rocket-otv.github.io/master/live_tv/Makkah_Live.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1711728810/ei/SpQGZoT1Ae-Ci9oPkea3yAk/ip/92.205.15.128/id/moQtMet7F7w.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51121562/txs/51121559%2C51121560%2C51121561%2C51121562%2C51121563%2C51121564/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_UHKLMJpKBmhY1TMwOpvX78nMwstKjflLiSicCnrxs/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/51141542/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKl_MJKF6I_4LBVJGlgng4EpZED7_P493svyw_SzTKDtAiEAnKDnmpC3WrQ8bF99oIOe0wvrATup1G7WO70HO3ZFuXA%3D/file/index.m3u8
 #EXTINF:0 group-title=”Islamic”,Madina Live
-https://raw.githubusercontent.com/badalbd53/rocket-otv.github.io/master/live_tv/Madina_Live.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1711727858/ei/kpAGZsHqI7Gz6dsP28GX8As/ip/92.205.15.128/id/-mr6TD6YxR8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f3WiySzMIh9ti9eMww3aocrx9JFCoA80iQztQSeddVc/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/51141541/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgeF7p5zWC3ZOTVjseKvk1M502Y6qW1uKIXKyxvBRg0ygCIFIJaQZsuIct6KXaQ3PnbMqw47gmyFfAG9idAzKrNQXt/file/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/pJhdZme.png group-title=”Islamic”,AL Dawah TV
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv
