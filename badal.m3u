@@ -6,7 +6,7 @@ https://bongohub.pw/bioscope.php?cc=btv-world&e=.m3u8
 #EXTINF:0 tvg-logo=https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg group-title=”Bangla”,Songsad TV
 https://bongohub.pw/bioscope.php?cc=sangsad-tv&e=.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/ESWXan9.png group-title=”Islamic”,ATN Islamic TV
-https://livess.jagobd.com.bd/live-orgin/atnislamictv.stream/chunks.m3u8
+https://livess.ncare.live/live-orgin/atnislamictv.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/J4JNrkH.png group-title=”Islamic”,Madani TV
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/vr3EWTI.jpg group-title=”Islamic”,Makkah TV
@@ -20,6 +20,7 @@ https://livess.jagobd.com.bd/live-orgin/atnislamictv.stream/chunks.m3u8
 #EXTINF:0 group-title=”Islamic”,Madina Live
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/pJhdZme.png group-title=”Islamic”,AL Dawah TV
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv HD
@@ -39,7 +40,7 @@ http://10.20.30.40:8088/1213/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/4imblNY.jpg group-title=”Bangla”,Mohona
 http://10.20.30.40:8088/1218/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/fxq0pV2.png group-title=”Bangla”,Asian TV
-https://livess.jagobd.com.bd/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
+https://livess.ncare.live/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/5PsRkPd.png group-title=”Bangla”,ATN Bangla
 http://10.20.30.40:8088/1208/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/HX8SSDA.png group-title=”Bangla”,Banglavision TV
@@ -71,13 +72,13 @@ http://100.64.64.11/News24HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/djAX8Rc.png group-title=”News”,DBC News
 http://10.20.30.40:8088/1204/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/MmhxR5E.png group-title=”Bangla”,Channel 24
-https://livess.jagobd.com.bd/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
+https://livess.ncare.live/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:0 group-title=”Bangla”,Ekhon Tv
 http://100.64.64.11/Ekhon_Tv/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/ds3aThu.jpg group-title=”Bangla”,Jamuna TV
 http://100.64.64.11/Jamuna_TV_SD/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title=”Bangla”,Jagonews 24
-https://livess.jagobd.com.bd/live-orgin/jagonews24.stream/chunks.m3u8
+https://livess.ncare.live/live-orgin/jagonews24.stream/chunks.m3u8
 #EXTINF:0 group-title=”Bangla”,Green TV
 http://10.200.1.142/hls/4055.m3u8
 #EXTINF:0 group-title=”Bangla”,Global Tv
@@ -116,7 +117,7 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/Jo7wzmn.png group-title=”Music”,Gaan Bangla
 http://100.64.64.11/Gaan_Bangla_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/OTzS5Fc.png group-title=”Music”,ATN MUSIC
-https://livess.jagobd.com.bd/live-orgin/atnmusic.stream/chunks.m3u8
+https://livess.ncare.live/live-orgin/atnmusic.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/PmXZNaK.png group-title=”Music”,RTV MUSIC
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/PmXZNaK.png group-title=”Music”,MUSIC CIPL
@@ -504,6 +505,3 @@ https://ch.bdtubelive.xyz/ayna.m3u8?id=120
 https://ch.bdtubelive.xyz/ayna.m3u8?id=109
 
 #EXTINF:-1 group-title="LTWS SPORTS",Movie
-http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282024%29/Hanu%20Man%20%282024%29%201080p%20%28Hindi%20Dubbed%29/Hanuman%20%282024%29%20Hindi%20Dubbed%201080p%20JC%20WEBRip%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv
-#EXTINF:-1 group-title="LTWS SPORTS",Movie
-http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282024%29/Fighter%20%282024%29%201080p/Fighter%20%282024%29%20Hindi%201080p%20NF%20WEBRip%20x265%20HEVC%2010bit%20DD5.1%20ESub%20-%20mkvCinemas.mkv
