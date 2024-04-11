@@ -1,10 +1,12 @@
 #EXTM3U
 #EXTINF:0 tvg-logo=https://i.imgur.com/H9qgGSc.png group-title=”Bangla”,BTV HD
-https://bongohub.pw/bioscope.php?cc=btv-hd&e=.m3u8
+http://cdn01.palki.tv:80/live/BTV-M/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/RR0Iv6V.png group-title=”Bangla”,BTV World
-https://bongohub.pw/bioscope.php?cc=btv-world&e=.m3u8
+http://cdn01.palki.tv:80/live/BTVWorld-M/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title=”Bangla”,BTV Chattogram
+http://cdn01.palki.tv:80/live/BTVChattogram-M/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg group-title=”Bangla”,Songsad TV
-https://bongohub.pw/bioscope.php?cc=sangsad-tv&e=.m3u8
+http://cdn01.palki.tv/live/SangsadTV-M/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/ESWXan9.png group-title=”Islamic”,ATN Islamic TV
 https://livess.ncare.live/live-orgin/atnislamictv.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/J4JNrkH.png group-title=”Islamic”,Madani TV
@@ -26,15 +28,15 @@ https://livess.ncare.live/live-orgin/atnislamictv.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv HD
 http://103.107.79.87:8080/CH8106HD01/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv HD
-
+http://10.200.1.142/hls/5008.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
-http://10.20.30.40:8088/1102/index.m3u8
-#EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
-http://103.109.56.116/live/skyfeed1005/index.m3u8
-#EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
-https://tv5.hoichoi24.com/1101/index.m3u8
+http://10.20.30.41:8082/GI/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports
+https://live-cdn.tsports.com/live-01/index.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports
+https://live-cdn.tsports.com/live-02/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/7ftu2Rt.jpg group-title=”Bangla”,Maasranga
-http://10.20.30.40:8088/1213/index.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/PK9Gm5g.png group-title=”Bangla”,Duronto TV
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/4imblNY.jpg group-title=”Bangla”,Mohona
