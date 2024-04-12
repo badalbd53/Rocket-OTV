@@ -57,15 +57,15 @@ http://cdn01.palki.tv/live/Channel9-M/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/p0I5dr0.png group-title=”Bangla”,Channel I
 https://himel-op.top/api/ytop.m3u8?id=eqFbPey0Ohw&e=.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/tPZKfLr.png group-title=”Bangla”,Deepto TV
-http://100.64.64.11:80/DeeptoHD/index.m3u8
+https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/JgkIH3w.png group-title=”Bangla”,Desh TV
-http://100.64.64.11/DeshSD/tracks-v1a1/mono.m3u8
+https://himel-op.top/api/ytop.m3u8?id=OgCIkZZluNw&e=.m3u8
 #EXTINF:0 group-title=”Bangla”,Nexus TV
-http://100.64.64.11/NexustvHD/tracks-v1a1/mono.m3u8
+https://himel-op.top/api/ytop.m3u8?id=UrW37VnWfy0&e=.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/v9PqrCG.png group-title=”News”,ATN News
-http://10.20.30.40:8088/1209/tracks-v1a1/mono.m3u8
+https://himel-op.top/api/ytop.m3u8?id=XhxR6cd4NWw&e=.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/i8T9qQs.png group-title=”News”,Ekattor TV
-http://100.64.64.11/EkattorHD/tracks-v1a1/mono.m3u8
+https://himel-op.top/api/ytop.m3u8?id=12U9AhqNL04&e=.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/kviJN1i.png group-title=”News”,Independent TV
 http://10.20.30.40:8088/1205/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/Z2QvpTn.png group-title=”News”,Somoy News
