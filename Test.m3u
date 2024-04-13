@@ -2,34 +2,34 @@
 https://himel-op.top/api/ytop.m3u8?id=eqFbPey0Ohw&e=.m3u8
 https://himel-op.top/api/ytop.m3u8?id=moQtMet7F7w&e=.m3u8
 https://iv.melmac.space/watch?v=moQtMet7F7w
-#EXTINF:-1,ATN Bangla
-http://tv.basnetbd.com:8080/roarzone/2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Bangla Vision
-http://tv.basnetbd.com:8080/roarzone/3/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Channel 9
-http://tv.basnetbd.com:8080/roarzone/4/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Channel 24
-http://tv.basnetbd.com:8080/roarzone/5/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Channel I HD
-http://tv.basnetbd.com:8080/roarzone/6/tracks-v1a1/mono.m3u8
-#EXTINF:-1,DBC News
-http://tv.basnetbd.com:8080/roarzone/7/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Deepto TV
-http://tv.basnetbd.com:8080/roarzone/8/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Desh TV
-http://tv.basnetbd.com:8080/roarzone/9/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Duronto TV
-http://tv.basnetbd.com:8080/roarzone/10/tracks-v1a1/mono.m3u8
-#EXTINF:-1
-http://tv.basnetbd.com:8080/roarzone/11/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Independent TV
-http://tv.basnetbd.com:8080/roarzone/12/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Jamuna TV
-http://tv.basnetbd.com:8080/roarzone/13/tracks-v1a1/mono.m3u8
-#EXTINF:-1
-http://tv.basnetbd.com:8080/roarzone/14/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SATV
-http://tv.basnetbd.com:8080/roarzone/15/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Duronta
+http://103.107.79.87:8080/CH8108HD01/tracks-v1a1/mono.m3u8
+#EXTINF:-1,GTV
+
+#EXTINF:-1, Sony Sports 1
+http://103.107.79.87:8080/CH8106HD03/tracks-v1a1/mono.m3u8
+#EXTINF:-1, No Signal 🚦 
+http://103.107.79.87:8080/CH8107HD01/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Sony Sports 3
+http://103.107.79.87:8080/CH8107HD02/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Sony Sports 5
+http://103.107.79.87:8080/CH8107HD03/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Star Sports Select 1 HD
+http://103.107.79.87:8080/CH8107HD04/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Star Sports Select 2 HD
+http://103.107.79.87:8080/CH8107HD05/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Star Sports 2 HD
+http://103.107.79.87:8080/CH8107HD06/tracks-v1a1/mono.m3u8
+#EXTINF:-1, PTV Sports HD
+http://103.107.79.87:8080/CH8107HD07/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Enter10 Bangla 
+http://103.107.79.87:8080/CH8107HD08/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Blank
+http://103.107.79.87:8080/CH8108HD02/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Star Plus HD
+http://103.107.79.87:8080/CH8108HD03/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Sony HD
+http://103.107.79.87:8080/CH8108HD04/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Anondo TV
 http://tv.basnetbd.com:8080/roarzone/16/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Somoy TV
