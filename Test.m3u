@@ -30,48 +30,48 @@ http://103.107.79.87:8080/CH8108HD02/tracks-v1a1/mono.m3u8
 http://103.107.79.87:8080/CH8108HD03/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Sony HD
 http://103.107.79.87:8080/CH8108HD04/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Anondo TV
-http://tv.basnetbd.com:8080/roarzone/16/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Somoy TV
-http://tv.basnetbd.com:8080/roarzone/17/tracks-v1a1/mono.m3u8
-#EXTINF:-1
-http://tv.basnetbd.com:8080/roarzone/18/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Bangla TV
-http://tv.basnetbd.com:8080/roarzone/19/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SONY Sports 1
-http://tv.basnetbd.com:8080/roarzone/20/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Sony Sports 2
-http://tv.basnetbd.com:8080/roarzone/21/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Sony Sports 3 
-http://tv.basnetbd.com:8080/roarzone/22/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ESPN
-http://tv.basnetbd.com:8080/roarzone/23/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Sony Sports 5 
-http://tv.basnetbd.com:8080/roarzone/24/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Star Sports 1
-http://tv.basnetbd.com:8080/roarzone/25/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Star Sports 2
-http://tv.basnetbd.com:8080/roarzone/26/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Star Sports Select 1
-http://tv.basnetbd.com:8080/roarzone/27/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Star Sports Select 2
-http://tv.basnetbd.com:8080/roarzone/28/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Zee Bangla Cinema
-http://tv.basnetbd.com:8080/roarzone/29/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Star Jalaha HD
-http://tv.basnetbd.com:8080/roarzone/30/tracks-v1a1/mono.m3u8
-#EXTINF:-1
-http://tv.basnetbd.com:8080/roarzone/31/tracks-v1a1/mono.m3u8
-#EXTINF:-1
-http://tv.basnetbd.com:8080/roarzone/32/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Cbeebies BBC
-http://tv.basnetbd.com:8080/roarzone/33/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Zee Bangla
-http://tv.basnetbd.com:8080/roarzone/34/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Wild
-http://tv.basnetbd.com:8080/roarzone/35/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Blank
+http://103.107.79.87:8080/CH8108HD05/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Colors
+http://103.107.79.87:8080/CH8108HD06/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Zee TV HD
+http://103.107.79.87:8080/CH8108HD07/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Sony Max HD
+http://103.107.79.87:8080/CH8108HD08/tracks-v1a1/mono.m3u8
+#EXTINF:-1, UTV Cinema HD
+http://103.107.79.87:8080/CH8109HD01/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Zee Cinema HD 
+http://103.107.79.87:8080/CH8109HD02/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Blank
+http://103.107.79.87:8080/CH8109HD03/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Blank
+http://103.107.79.87:8080/CH8109HD04/tracks-v1a1/mono.m3u8
+#EXTINF:-1, UTV Movies HD
+http://103.107.79.87:8080/CH8109HD05/tracks-v1a1/mono.m3u8
+#EXTINF:-1, AXN
+http://103.107.79.87:8080/CH8109HD06/tracks-v1a1/mono.m3u8
+#EXTINF:-1, No Signal 🚦 
+http://103.107.79.87:8080/CH8109HD07/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Hollywood HD
+http://103.107.79.87:8080/CH8109HD08/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Star Jalsha HD
+http://103.107.79.87:8080/CH8110HD01/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Jalsha Movies HD
+http://103.107.79.87:8080/CH8110HD02/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Zee Bangla HD
+http://103.107.79.87:8080/CH8110HD03/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Sun Bangla HD
+http://103.107.79.87:8080/CH8110HD04/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Colors Bangla HD
+http://103.107.79.87:8080/CH8110HD05/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Sony Aath
+http://103.107.79.87:8080/CH8110HD06/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Nat Geo HD
+http://103.107.79.87:8080/CH8110HD07/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Discovery HD
+http://103.107.79.87:8080/CH8110HD08/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony Sab
-http://tv.basnetbd.com:8080/roarzone/36/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, Sports 18
 http://tv.basnetbd.com:8080/roarzone/37/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony
