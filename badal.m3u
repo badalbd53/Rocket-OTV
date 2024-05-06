@@ -66,9 +66,9 @@ https://livess.ncare.live/live-orgin/nexustv.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/v9PqrCG.png group-title=”News”,ATN News
 https://himel-op.top/api/ytop.m3u8?id=hjg7_QU6kEE&e=.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/i8T9qQs.png group-title=”News”,Ekattor TV
-https://himel-op.top/api/ytop.m3u8?id=1aGBaNNtAhQ&e=.m3u8
+http://cdn01.palki.tv:80/live/EkattorTV-M/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/kviJN1i.png group-title=”News”,Independent TV
-https://himel-op.top/api/ytop.m3u8?id=b7j6_dqGIng&e=.m3u8
+http://cdn01.palki.tv/live/Independent-M/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/Z2QvpTn.png group-title=”News”,Somoy News
 https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/FxsW4XI.png group-title=”News”,News 24
