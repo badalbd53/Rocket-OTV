@@ -29,8 +29,8 @@ https://himel-op.top/api/ytop.m3u8?id=-mr6TD6YxR8&e=.m3u8
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv HD
 
-#EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv HD
-
+#EXTINF:0 group-title=”Bangla”,Toffee Live
+https://its-nayeemparvez.xyz/toffee/live.php?id=match-1&e=.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
 http://10.20.30.41:8082/GI/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports
@@ -56,37 +56,37 @@ https://livess.ncare.live/live-orgin/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/fj8nxOw.png group-title=”Bangla”,Channel 9 HD
 http://cdn01.palki.tv/live/Channel9-M/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/p0I5dr0.png group-title=”Bangla”,Channel I
-https://himel-op.top/api/ytop.m3u8?id=eqFbPey0Ohw&e=.m3u8
+https://livess.ncare.live/live-orgin/channeli-8-org.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/tPZKfLr.png group-title=”Bangla”,Deepto TV
 https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/JgkIH3w.png group-title=”Bangla”,Desh TV
-https://himel-op.top/api/ytop.m3u8?id=kbrDUJO_nRw&e=.m3u8
+https://himel-op.top/api/ytop.m3u8?id=wSrUTmQeJ24&e=.m3u8
 #EXTINF:0 group-title=”Bangla”,Nexus TV
-https://himel-op.top/api/ytop.m3u8?id=UrW37VnWfy0&e=.m3u8
+https://livess.ncare.live/live-orgin/nexustv.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/v9PqrCG.png group-title=”News”,ATN News
-https://himel-op.top/api/ytop.m3u8?id=XhxR6cd4NWw&e=.m3u8
+https://himel-op.top/api/ytop.m3u8?id=hjg7_QU6kEE&e=.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/i8T9qQs.png group-title=”News”,Ekattor TV
-https://himel-op.top/api/ytop.m3u8?id=geuJyJZutAU&e=.m3u8
+https://himel-op.top/api/ytop.m3u8?id=1aGBaNNtAhQ&e=.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/kviJN1i.png group-title=”News”,Independent TV
-https://himel-op.top/api/ytop.m3u8?id=suSPQSFq8S4&e=.m3u8
+https://himel-op.top/api/ytop.m3u8?id=b7j6_dqGIng&e=.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/Z2QvpTn.png group-title=”News”,Somoy News
 https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/FxsW4XI.png group-title=”News”,News 24
-http://100.64.64.11/News24HD/tracks-v1a1/mono.m3u8
+https://himel-op.top/api/ytop.m3u8?id=59ivQqWW6fM&e=.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/djAX8Rc.png group-title=”News”,DBC News
-http://10.20.30.40:8088/1204/tracks-v1a1/mono.m3u8
+https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/MmhxR5E.png group-title=”Bangla”,Channel 24
 https://livess.ncare.live/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:0 group-title=”Bangla”,Ekhon Tv
-http://100.64.64.11/Ekhon_Tv/tracks-v1a1/mono.m3u8
+https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/ds3aThu.jpg group-title=”Bangla”,Jamuna TV
-http://100.64.64.11/Jamuna_TV_SD/tracks-v1a1/mono.m3u8
+https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:0 group-title=”Bangla”,Jagonews 24
 https://livess.ncare.live/live-orgin/jagonews24.stream/chunks.m3u8
 #EXTINF:0 group-title=”Bangla”,Green TV
-http://10.200.1.142/hls/4055.m3u8
+https://livess.ncare.live/live-orgin/greentv.stream/chunks.m3u8
 #EXTINF:0 group-title=”Bangla”,Global Tv
-http://100.64.64.11/Global_Tv/tracks-v1a1/mono.m3u8
+http://cdn01.palki.tv/live/GlobalTV-M/index.m3u8
 #EXTINF:0 group-title=”Bangla”,Comilla 24
 http://103.149.142.133/0.m3u8
 
@@ -94,23 +94,23 @@ http://103.149.142.133/0.m3u8
 
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/kFqOMtx.png group-title=”Bangla”,Ekushey ETV
-http://100.64.64.11/Ekushey_Tv_SD/tracks-v1a1/mono.m3u8
+http://cdn01.palki.tv/live/EkusheyTV-M/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/3usnOla.png group-title=”Bangla”,NTV
-http://100.64.64.11/NTV_SD/tracks-v1a1/mono.m3u8
+https://himel-op.top/api/ytop.m3u8?id=FvFb4InohVY&e=.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/2cpHJKq.png group-title=”Bangla”,Nagorik TV
-https://its-nayeemparvez.xyz/jadoo/master.m3u8?id=nagorik_tv
+https://its-nayeemparvez.xyz/jadoo/master.m3u8?id=nagorik_tv&e=.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/yi5p51T.png group-title=”Bangla”,RTV
-http://100.64.64.11/RTV_HD/tracks-v1a1/mono.m3u8
+https://livess.ncare.live/live-orgin/rtv-sg.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/fraEjzm.png group-title=”Bangla”,SA TV HD
-http://100.64.64.11/SA_TV_HD/tracks-v1a1/mono.m3u8
+https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/K43LsMQ.png group-title=”Bangla”,Bangla TV HD
-http://100.64.64.11/Bangla_TV_HD/tracks-v1a1/mono.m3u8
+https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/kDmkexe.png group-title=”Bangla”,Bijoy Tv
-http://100.64.64.11/Bijoy_TV_HD/tracks-v1a1/mono.m3u8
+http://cdn01.palki.tv/live/BijoyTV-M/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/bahWhBG.png group-title=”Bangla”,MyTV
-http://100.64.64.11/My_Tv/tracks-v1a1/mono.m3u8
+https://myflixbd.com/0.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/h5FhOWT.png group-title=”Bangla”,Ananda TV
-http://100.64.64.11/Ananda_TV_SD/tracks-v1a1/mono.m3u8
+http://cdn01.palki.tv/live/AnandaTV-M/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/IYGU8Km.png group-title=”Movies”,Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/IYGU8Km.png group-title=”Movies”,My Cinema
@@ -119,7 +119,7 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/Jo7wzmn.png group-title=”Music”,Gaan Bangla
-http://100.64.64.11/Gaan_Bangla_HD/tracks-v1a1/mono.m3u8
+http://cdn01.palki.tv/live/GaanBangla-M/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/OTzS5Fc.png group-title=”Music”,ATN MUSIC
 https://livess.ncare.live/live-orgin/atnmusic.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/PmXZNaK.png group-title=”Music”,RTV MUSIC
@@ -140,7 +140,6 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/DKVLQ7m.png group-title=”Music”,Dhoom
 
 #EXTINF:0 group-title=”Music”,MTV Beats
-https://nayeem-parvez.pw/api/bioscope.m3u8?id=mtv-beats&e=.m3u8|User-Agent=nayeemx
 
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/LZ7W3Yc.png group-title=”Music”,Music India
