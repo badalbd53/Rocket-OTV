@@ -53,15 +53,15 @@ https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=nagorik_tv&e=.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
 https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=t_sports&e.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=t_sports_hd&e.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/7ftu2Rt.jpg group-title=”Bangla”,Maasranga
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/PK9Gm5g.png group-title=”Bangla”,Duronto TV
-http://cdn01.palki.tv/live/Duronto-M/index.m3u8
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=duronto_tv&e.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/4imblNY.jpg group-title=”Bangla”,Mohona
-http://cdn01.palki.tv/live/MohonaTV-M/index.m3u8
+https://livess.ncare.live/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/fxq0pV2.png group-title=”Bangla”,Asian TV
 https://mtlivestream.site/asian/ytlive/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/5PsRkPd.png group-title=”Bangla”,ATN Bangla
@@ -73,25 +73,25 @@ https://livess.ncare.live/live-orgin/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:0 group-title=”Bangla”,Boishakhi TV Plus
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/fj8nxOw.png group-title=”Bangla”,Channel 9 HD
-http://cdn01.palki.tv/live/Channel9-M/index.m3u8
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=channel_9&e=.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/p0I5dr0.png group-title=”Bangla”,Channel I
-https://livess.ncare.live/live-orgin/channeli-8-org.stream/chunks.m3u8
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=channel_i&e=.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/tPZKfLr.png group-title=”Bangla”,Deepto TV
 https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/JgkIH3w.png group-title=”Bangla”,Desh TV
-https://himel-op.top/api/ytop.m3u8?id=wSrUTmQeJ24&e=.m3u8
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=desh_tv&e=.m3u8
 #EXTINF:0 group-title=”Bangla”,Nexus TV
 https://livess.ncare.live/live-orgin/nexustv.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/v9PqrCG.png group-title=”News”,ATN News
-https://himel-op.top/api/ytop.m3u8?id=hjg7_QU6kEE&e=.m3u8
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=atn_news&e=.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/i8T9qQs.png group-title=”News”,Ekattor TV
-http://cdn01.palki.tv:80/live/EkattorTV-M/index.m3u8
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=ekattor_tv&e=.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/kviJN1i.png group-title=”News”,Independent TV
-http://cdn01.palki.tv/live/Independent-M/index.m3u8
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=independent_tv&e=.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/Z2QvpTn.png group-title=”News”,Somoy News
 https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/FxsW4XI.png group-title=”News”,News 24
-https://himel-op.top/api/ytop.m3u8?id=59ivQqWW6fM&e=.m3u8
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=news_24_hd&e=.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/djAX8Rc.png group-title=”News”,DBC News
 https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/MmhxR5E.png group-title=”Bangla”,Channel 24
@@ -105,7 +105,7 @@ https://livess.ncare.live/live-orgin/jagonews24.stream/chunks.m3u8
 #EXTINF:0 group-title=”Bangla”,Green TV
 https://livess.ncare.live/live-orgin/greentv.stream/chunks.m3u8
 #EXTINF:0 group-title=”Bangla”,Global Tv
-http://cdn01.palki.tv/live/GlobalTV-M/index.m3u8
+
 #EXTINF:0 group-title=”Bangla”,Comilla 24
 http://103.149.142.133/0.m3u8
 
@@ -113,11 +113,11 @@ http://103.149.142.133/0.m3u8
 
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/kFqOMtx.png group-title=”Bangla”,Ekushey ETV
-http://cdn01.palki.tv/live/EkusheyTV-M/index.m3u8
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=ekushey_tv&e=.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/3usnOla.png group-title=”Bangla”,NTV
-https://himel-op.top/api/ytop.m3u8?id=FvFb4InohVY&e=.m3u8
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=ntv&e=.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/2cpHJKq.png group-title=”Bangla”,Nagorik TV
-https://its-nayeemparvez.xyz/jadoo/master.m3u8?id=nagorik_tv&e=.m3u8
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=nagorik_tv&e=.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/yi5p51T.png group-title=”Bangla”,RTV
 https://livess.ncare.live/live-orgin/rtv-sg.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/fraEjzm.png group-title=”Bangla”,SA TV HD
@@ -125,11 +125,11 @@ https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/K43LsMQ.png group-title=”Bangla”,Bangla TV HD
 https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/kDmkexe.png group-title=”Bangla”,Bijoy Tv
-http://cdn01.palki.tv/live/BijoyTV-M/index.m3u8
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=bijoy_tv&e=.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/bahWhBG.png group-title=”Bangla”,MyTV
 https://myflixbd.com/0.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/h5FhOWT.png group-title=”Bangla”,Ananda TV
-http://cdn01.palki.tv/live/AnandaTV-M/index.m3u8
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=ananda_tv&e=.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/IYGU8Km.png group-title=”Movies”,Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/IYGU8Km.png group-title=”Movies”,My Cinema
@@ -138,7 +138,7 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/Jo7wzmn.png group-title=”Music”,Gaan Bangla
-http://cdn01.palki.tv/live/GaanBangla-M/index.m3u8
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=gaan_bangla&e=.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/OTzS5Fc.png group-title=”Music”,ATN MUSIC
 https://livess.ncare.live/live-orgin/atnmusic.stream/chunks.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/PmXZNaK.png group-title=”Music”,RTV MUSIC
