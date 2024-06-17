@@ -39,7 +39,7 @@ https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=sunnah_tv&e=.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv HD
-
+http://10.20.30.40:8088/106/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv HD
 https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=gazi_tv_hd
 #EXTINF:0 group-title=”Bangla”,Toffee Live
@@ -50,10 +50,10 @@ https://retosbd.com/toffe/toffe.php?id=match-2&e=.meu8
 https://retosbd.com/toffe/toffe.php?id=match-3&e=.meu8
 #EXTINF:0 group-title=”Bangla”,Nagorok TV
 https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=nagorik_tv&e=.m3u8
-#EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=t_sports&e.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports
-
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=t_sports&e.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
+http://10.20.30.40:8088/102/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/7ftu2Rt.jpg group-title=”Bangla”,Maasranga
