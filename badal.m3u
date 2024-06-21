@@ -49,7 +49,7 @@ https://retosbd.com/toffe/toffe.php?id=match-2&e=.meu8
 #EXTINF:0 group-title=”Bangla”,Toffee Live
 https://retosbd.com/toffe/toffe.php?id=match-3&e=.meu8
 #EXTINF:0 group-title=”Bangla”,Euro Cup 2024
-https://a2uy.short.gy/SCO-V-SWI/Join-@HimelOP_Official/Zubayer_Op.m3u8
+https://a2uy.short.gy/FRA-V-NED-EN/Join-@HimelOP_Official/Zubayer_Op.m3u8
 #EXTINF:0 group-title=”Bangla”,Nagorok TV
 https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=nagorik_tv&e=.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports
@@ -246,19 +246,19 @@ https://bdsatv24.000webhostapp.com/api/Toffe.php?id=sony_entertainmnt_hd
 
 
 #EXTINF:0 group-title=”Kids”,Nick
-http://10.200.1.142/hls/5063.m3u8
+
 #EXTINF:-1 tvg-logo=https://i.imgur.com/Qkvo1BH.png group-title=”Kids”,Nick jr
 
 #EXTINF:-1 tvg-logo=https://i.imgur.com/4rEFCPQ.jpg group-title=”Kids”,Sony Yay
-http://10.200.1.142/hls/5061.m3u8
+
 #EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png group-title=”Kids”,Discovery Kids
 
 #EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png group-title=”Kids”,Sonic
-http://10.200.1.142/hls/5009.m3u8
-#EXTINF:0 group-title=”Kids”,Disney
 
+#EXTINF:0 group-title=”Kids”,Disney HD
+https://jbe.nayeemparvez.tech/api/play.m3u8?id=1097
 #EXTINF:0 group-title=”Kids”,Disney
-
+https://spicetv.nayeemparvez.tech/api/play.m3u8?id=864
 #EXTINF:0 group-title=”Kids”,Disney jr
 
 #EXTINF:0 group-title=”Kids”,Disney
