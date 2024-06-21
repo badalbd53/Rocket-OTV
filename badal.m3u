@@ -256,9 +256,9 @@ https://bdsatv24.000webhostapp.com/api/Toffe.php?id=sony_entertainmnt_hd
 #EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png group-title=”Kids”,Sonic
 
 #EXTINF:0 group-title=”Kids”,Disney HD
-https://jbe.nayeemparvez.tech/api/play.m3u8?id=1097
+https://jbe.nayeemparvez.tech/api/play.m3u8?id=1097&e=.m3u8
 #EXTINF:0 group-title=”Kids”,Disney
-https://spicetv.nayeemparvez.tech/api/play.m3u8?id=864
+https://spicetv.nayeemparvez.tech/api/play.m3u8?id=864&e=.m3u8
 #EXTINF:0 group-title=”Kids”,Disney jr
 
 #EXTINF:0 group-title=”Kids”,Disney
