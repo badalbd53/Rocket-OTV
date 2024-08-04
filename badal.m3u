@@ -115,23 +115,23 @@ http://103.149.142.133/0.m3u8
 
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/kFqOMtx.png group-title=”Bangla”,Ekushey ETV
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=ekushey_tv&e=.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/3usnOla.png group-title=”Bangla”,NTV
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=ntv&e=.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/2cpHJKq.png group-title=”Bangla”,Nagorik TV
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=nagorik_tv&e=.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/yi5p51T.png group-title=”Bangla”,RTV
-https://livess.ncare.live/live-orgin/rtv-sg.stream/chunks.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/fraEjzm.png group-title=”Bangla”,SA TV HD
-https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/K43LsMQ.png group-title=”Bangla”,Bangla TV HD
 https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/kDmkexe.png group-title=”Bangla”,Bijoy Tv
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=bijoy_tv&e=.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/bahWhBG.png group-title=”Bangla”,MyTV
-https://myflixbd.com/0.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/h5FhOWT.png group-title=”Bangla”,Ananda TV
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=ananda_tv&e=.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/IYGU8Km.png group-title=”Movies”,Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/IYGU8Km.png group-title=”Movies”,My Cinema
@@ -140,9 +140,9 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/Jo7wzmn.png group-title=”Music”,Gaan Bangla
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=gaan_bangla&e=.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/OTzS5Fc.png group-title=”Music”,ATN MUSIC
-https://livess.ncare.live/live-orgin/atnmusic.stream/chunks.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/PmXZNaK.png group-title=”Music”,RTV MUSIC
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/PmXZNaK.png group-title=”Music”,MUSIC CIPL
@@ -168,7 +168,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/0rFA2Cx.png group-title=”Music”,9XM Music
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/0rFA2Cx.png group-title=”Music”,Mastiii
-http://10.200.1.142/hls/4124.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/3mkjuTk.png group-title=”Music”,E24
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/wg3N1VT.png group-title=”Music”,8XM
@@ -187,32 +187,30 @@ http://10.200.1.142/hls/4124.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/ppJO2Ep.png group-title=”Drama”,Star Jalsha
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/9d1xXjN.png group-title=”Drama”,Star Jalsha HD
-http://103.107.79.87:8080/CH8110HD01/tracks-v1a1/mono.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/e5Ldh7e.png group-title=”Drama”,Zee Bangla
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/e5Ldh7e.png group-title=”Drama”,Zee Bangla HD
-http://103.107.79.87:8080/CH8110HD03/tracks-v1a1/mono.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/e5Ldh7e.png group-title=”Drama”,Akash AATH
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/PW9hRDa.png group-title=”Drama”,Sun Bangla
-http://10.200.1.142/hls/5051.m3u8http://103.107.79.87:8080/CH8110HD04/tracks-v1a1/mono.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/HVZHZGl.png group-title=”Drama”,Colors Bangla HD
-http://103.107.79.87:8080/CH8110HD05/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/2PQfcOh.png group-title=”Movies”,Sony Cinema
-http://10.200.1.142/hls/5040.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/2PQfcOh.png group-title=”Movies”,Jalsha Movies HD
-http://103.107.79.87:8080/CH8110HD02/tracks-v1a1/mono.m3u8
+
 #EXTINF:0 group-title=”Drama”,Colors Bangla Cinema
-http://10.200.1.142/hls/5033.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/M6GyIvI.png group-title=”Movies”,Zee Bangla Cinema
-http://10.200.1.142/hls/5050.m3u8
+
 #EXTINF:0 group-title=”Movies”,Enterr10 Bangla
-http://10.200.1.142/hls/4036.m3u8
+
 #EXTINF:0 group-title=”Drama”,Sony AATH
-http://195.26.87.217/live.ts?channelId=44150&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:0 group-title=”Drama”,Sony AATH
-http://103.107.79.87:8080/CH8110HD06/tracks-v1a1/mono.m3u8
+
 #EXTINF:0 group-title=”Drama”,Rongeen TV
 
 
@@ -224,16 +222,16 @@ http://103.107.79.87:8080/CH8110HD06/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title=”Drama”,Sony Sab HD
 
 #EXTINF:0 group-title=”Drama”,Zee Tv HD
-http://103.107.79.87:8080/CH8108HD07/tracks-v1a1/mono.m3u8
+
 #EXTINF:0 group-title=”Drama”,Star Plus HD
 
 #EXTINF:0 group-title=”Drama”,Sony HD
-http://103.107.79.87:8080/CH8108HD04/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:0 group-title=”Drama”,Sony Pal
-https://bdsatv24.000webhostapp.com/api/Toffe.php?id=sony_pal
+
 #EXTINF:0 group-title=”Drama”,Sony HD
-https://bdsatv24.000webhostapp.com/api/Toffe.php?id=sony_entertainmnt_hd
+
 #EXTINF:0 group-title=”Drama”,Colors
 
 #EXTINF:0 group-title=”Drama”,Colors HD
@@ -256,9 +254,9 @@ https://bdsatv24.000webhostapp.com/api/Toffe.php?id=sony_entertainmnt_hd
 #EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png group-title=”Kids”,Sonic
 
 #EXTINF:0 group-title=”Kids”,Disney HD
-https://jbe.nayeemparvez.tech/api/play.m3u8?id=1097&e=.m3u8
+
 #EXTINF:0 group-title=”Kids”,Disney
-https://spicetv.nayeemparvez.tech/api/play.m3u8?id=864&e=.m3u8
+
 #EXTINF:0 group-title=”Kids”,Disney jr
 
 #EXTINF:0 group-title=”Kids”,Disney
@@ -268,7 +266,7 @@ https://spicetv.nayeemparvez.tech/api/play.m3u8?id=864&e=.m3u8
 #EXTINF:0 group-title=”Kids”,Cartoon Network
 
 #EXTINF:0 group-title=”Kids”,Cartoon Network HD
-http://10.200.1.142/hls/5012.m3u8
+
 #EXTINF:0 group-title=”Kids”,Pogo
 
 
@@ -287,25 +285,25 @@ http://10.200.1.142/hls/5012.m3u8
 #EXTINF:0 group-title=”Documentary”,Discovery
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/8GG7Ny9.png group-title=”Documentary”,Discovery HD
-http://103.107.79.87:8080/CH8110HD08/tracks-v1a1/mono.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/m7Cl2M9.png group-title=”Documentary”,Discovery Bangla
-https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Discovery_Bangla.m3u8
+
 #EXTINF:0 group-title=”Documentary”,National Geographic HD
-http://10.200.1.142/hls/5036.m3u8
+
 #EXTINF:0 group-title=”Documentary”,NatGeo Wild
-http://103.107.79.87:8080/CH8110HD07/tracks-v1a1/mono.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/KLBorkM.png group-title=”Documentary”,Travel XP HD
-http://10.200.1.142/hls/5046.m3u8
+
 #EXTINF:0 group-title=”Documentary”,Animal Planet
 
 #EXTINF:0 group-title=”Documentary”,Animal Planet HD
-http://10.200.1.142/hls/5025.m3u8
+
 #EXTINF:0 group-title=”Documentary”,Sony BBC Earth HD
-http://10.200.1.142/hls/5038.m3u8
+
 #EXTINF:0 group-title=”Documentary”,Sky Nature 
 
 #EXTINF:0 group-title=”Documentary”,TLC HD
-http://10.200.1.142/hls/5027.m3u8
+
 
 
 
@@ -320,67 +318,67 @@ http://10.200.1.142/hls/5027.m3u8
 #EXTINF:0 group-title=”Movies”,Dhinchaak
 
 #EXTINF:0 group-title=”Movies”,Zee Cinema
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema/default/index.m3u8
+
 #EXTINF:0 group-title=”Movies”,Zee Cinema
-http://10.200.1.142/hls/5032.m3u8
+
 #EXTINF:0 group-title=”Movies”,Zee Cinema HD
-http://103.107.79.87:8080/CH8109HD02/tracks-v1a1/mono.m3u8
+
 #EXTINF:0 group-title=”Movies”,Sony Set Max
 
 #EXTINF:0 group-title=”Movies”,Sony Max
-https://ch.bdtubelive.xyz/ayna.m3u8?id=89
+
 #EXTINF:0 group-title=”Movies”,Sony Max HD
-http://103.107.79.87:8080/CH8108HD08/tracks-v1a1/mono.m3u8
+
 #EXTINF:0 group-title=”Movies”,Sony Max 2
-https://ch.bdtubelive.xyz/ayna.m3u8?id=81
+
 #EXTINF:0 group-title=”Movies”,Sony Wah
-https://ch.bdtubelive.xyz/ayna.m3u8?id=77
+
 #EXTINF:0 group-title=”Movies”,& Picture
-http://otv.ftpbd.net:8082/And-Pictures-HD/tracks-v1a1/mono.m3u8
+
 #EXTINF:0 group-title=”Movies”,& Picture HD
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/chHDUsi.png group-title=”Movies”,ZING
-https://ch.bdtubelive.xyz/ayna.m3u8?id=98
+
 #EXTINF:0 group-title=”Movies”,Colors Cineplex HD
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/index.m3u8
+
 #EXTINF:0 group-title=”Movies”,Colors Cineplex Bollywood
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8
+
 #EXTINF:0 group-title=”Movies”,Rishtey Cineplex HD
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/index.m3u8
+
 #EXTINF:0 group-title=”Movies”,Zee Action
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/index.m3u8
+
 #EXTINF:0 group-title=”Movies”,Zee Anmol Cinema
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmolcinema/default/index.m3u8
+
 #EXTINF:0 group-title=”Movies”,Zee Classic
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebollywood/default/index.m3u8
+
 #EXTINF:0 group-title=”Movies”,Star Gold Select HD
 
 #EXTINF:0 group-title=”Movies”,Star Gold
 
 #EXTINF:0 group-title=”Movies”,UTV Cinema HD
-http://103.107.79.87:8080/CH8109HD01/tracks-v1a1/mono.m3u8
+
 #EXTINF:0 group-title=”Movies”,UTV Movies HD
-http://103.107.79.87:8080/CH8109HD05/tracks-v1a1/mono.m3u8
+
 #EXTINF:0 group-title=”Movies”,Star Gold HD
-http://otv.ftpbd.net:8082/And-Prive-HD/tracks-v1a1/mono.m3u8
+
 #EXTINF:0 group-title=”Movies”,Star Gold Select
-http://otv.ftpbd.net:8082/And-Xplore-HD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="LTWS HINDI MOVIES",GOLDMINES
-https://ch.bdtubelive.xyz/ayna.m3u8?id=153
+
 #EXTINF:-1 group-title="LTWS HINDI MOVIES",GOLDMINES BOLLYWOOD
-https://ch.bdtubelive.xyz/ayna.m3u8?id=154
+
 #EXTINF:-1 group-title="LTWS HINDI MOVIES",GOLDMINES MOVIES
-https://ch.bdtubelive.xyz/ayna.m3u8?id=155
+
 #EXTINF:-1 group-title="LTWS HINDI MOVIES",MANORANJAN MOVIES
-https://ch.bdtubelive.xyz/ayna.m3u8?id=138
+
 #EXTINF:-1 group-title="LTWS HINDI MOVIES",B4U KADAK
-https://ch.bdtubelive.xyz/ayna.m3u8?id=148
+
 #EXTINF:-1 group-title="LTWS HINDI MOVIES",B4U HITZ
-https://ch.bdtubelive.xyz/ayna.m3u8?id=193
+
 #EXTINF:-1 group-title="LTWS HINDI MOVIES",DHAMAKA MOVIES
-https://ch.bdtubelive.xyz/ayna.m3u8?id=194
+
 #EXTINF:-1 group-title="LTWS HINDI MOVIES",B4U MOVIES
-https://ch.bdtubelive.xyz/ayna.m3u8?id=189]
+]
 
 
 
@@ -409,19 +407,19 @@ https://ch.bdtubelive.xyz/ayna.m3u8?id=189]
 
 
 #EXTINF:0 group-title=”Entertainment”,Sony Pix HD
-http://otv.ftpbd.net:8082/Hbo-HD/tracks-v1a1/mono.m3u8
+
 #EXTINF:0 group-title=”Movies”,Sony Pix HD
-https://ch.bdtubelive.xyz/ayna.m3u8?id=73
+
 #EXTINF:0 group-title=”Movies”,Zee Cafe HD
-https://ch.bdtubelive.xyz/ayna.m3u8?id=95
+
 #EXTINF:0 group-title=”Movies”,Star Movies HD
-http://otv.ftpbd.net:8082/Star-Movies-Select-HD/tracks-v1a1/mono.m3u8
+
 #EXTINF:0 group-title=”Movies”,Star Movies Select
-http://otv.ftpbd.net:8082/History-18-HD/tracks-v1a1/mono.m3u8
+
 #EXTINF:0 group-title=”Movies”,Fox Action Movies
-http://otv.ftpbd.net:8082/Fox-Cartoon-HD/tracks-v1a1/mono.m3u8
+
 #EXTINF:0 group-title=”Movies”, Hollywood HD
-http://103.107.79.87:8080/CH8109HD08/tracks-v1a1/mono.m3u8
+
 #EXTINF:0 group-title=”Movies”,MNX HD
 
 #EXTINF:0 group-title=”Movies”,HBO
@@ -429,7 +427,7 @@ http://103.107.79.87:8080/CH8109HD08/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title=”Movies”,Lotus Macau
 
 #EXTINF:0 group-title=”Movies”,AXN
-http://103.107.79.87:8080/CH8109HD06/tracks-v1a1/mono.m3u8
+
 
 
 
@@ -476,57 +474,58 @@ http://103.107.79.87:8080/CH8109HD06/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="TATA SKY",Sony SIX
 
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony Sports 1
-http://otv.ftpbd.net:8082/SONY-TEN-1/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony Sports 2
-http://otv.ftpbd.net:8082/Sony-Ten-2/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony Sports 3
-https://ch.bdtubelive.xyz/ayna.m3u8?id=78
+
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony Sports 5
-https://ch.bdtubelive.xyz/ayna.m3u8?id=90
+
 
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports 1
-http://otv.ftpbd.net:8082/Star-Sports-1-HD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports 2
 
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports 3
 
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports SELECT 1
-http://otv.ftpbd.net:8082/Star-Select-1-HD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports SELECT 2
-http://otv.ftpbd.net:8082/Star-Select-2-HD/tracks-v1a1/mono.m3u8
+
 #EXTINF:0 group-title=”Sports”,Super Sports
-http://otv.ftpbd.net:8082/SS-Ceicket-HD/tracks-v1a1/mono.m3u8
+
 #EXTINF:0 group-title=”Sports”,Ten Sports 
 
 #EXTINF:0 group-title=”Sports”,PTV Sports
 
 #EXTINF:0 group-title=”Sports”,RMC Sports 1
+
 #EXTINF:-1 group-title="LTWS SPORTS",GEO SUPER
-https://ch.bdtubelive.xyz/ayna.m3u8?id=50
+
 #EXTINF:-1 group-title="LTWS SPORTS",A SPORTS HD
-https://ch.bdtubelive.xyz/ayna.m3u8?id=67
+
 #EXTINF:-1 group-title="LTWS SPORTS",SPORTS 18
-https://ch.bdtubelive.xyz/ayna.m3u8?id=44
+
 #EXTINF:-1 group-title="LTWS SPORTS",DD SPORTS HD
-https://ch.bdtubelive.xyz/ayna.m3u8?id=45
+
 #EXTINF:-1 group-title="LTWS SPORTS",PTV SPORTS
-https://ch.bdtubelive.xyz/ayna.m3u8?id=46
+
 #EXTINF:-1 group-title="LTWS SPORTS",WILLOW HD
-https://himel-op.top/portal/cooltvopp.m3u8?id=24438&e=.m3u8
+
 #EXTINF:-1 group-title="LTWS SPORTS",ESPN
-https://ch.bdtubelive.xyz/ayna.m3u8?id=115
+
 #EXTINF:-1 group-title="LTWS SPORTS",TSN 1
-https://ch.bdtubelive.xyz/ayna.m3u8?id=116
+
 #EXTINF:-1 group-title="LTWS SPORTS",TSN 2
-https://ch.bdtubelive.xyz/ayna.m3u8?id=117
+
 #EXTINF:-1 group-title="LTWS SPORTS",TSN 3
-https://ch.bdtubelive.xyz/ayna.m3u8?id=118
+
 #EXTINF:-1 group-title="LTWS SPORTS",TNT SPORTS 1
-https://ch.bdtubelive.xyz/ayna.m3u8?id=119
+
 #EXTINF:-1 group-title="LTWS SPORTS",TNT SPORTS 2
-https://ch.bdtubelive.xyz/ayna.m3u8?id=120
+
 #EXTINF:-1 group-title="LTWS SPORTS",BEIN SPORTS
-https://ch.bdtubelive.xyz/ayna.m3u8?id=109
+
 
 #EXTINF:-1 group-title="LTWS SPORTS",Movie
-http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282024%29/Hanu%20Man%20%282024%29%201080p%20%28Hindi%20Dubbed%29/Hanuman%20%282024%29%20Hindi%20Dubbed%201080p%20JC%20WEBRip%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv
+
