@@ -2,25 +2,25 @@
 #EXTINF:0 tvg-logo=https://i.imgur.com/H9qgGSc.png group-title=”Bangla”,BTV HD
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/RR0Iv6V.png group-title=”Bangla”,BTV World
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=btv_world&e=.m3u8
+
 #EXTINF:0 group-title=”Bangla”,BTV Chattogram
 
 #EXTINF:0 tvg-logo=https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg group-title=”Bangla”,Songsad TV
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=sangsad_tv&e=.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/ESWXan9.png group-title=”Islamic”,ATN Islamic TV
-https://livess.ncare.live/live-orgin/atnislamictv.stream/chunks.m3u8
+
 #EXTINF:-1 group-title="JAGOBD  CHANNELS" tvg-logo="https://i.postimg.cc/j2d5bG7T/download-11.png",Al Sunnah Al Nabawiyah TV 
-https://livess.ncare.live/live-orgin/madina.stream/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TPdPzcn/IMG-20240126-102629.jpg"group-title="JAGOBD  CHANNELS",ATN Islamic TV 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GprTxvx/IMG-20240126-102504.jpg"group-title="JAGOBD  CHANNELS",DEEN TVUK 
-https://livess.ncare.live/live-orgin/deentv.stream/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sbyq79V/IMG-20240126-102440.jpg" group-title="JAGOBD  CHANNELS", IQRA BANGLA
-https://livess.ncare.live/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8
+
 #EXTINF:-1 group-title="JAGOBD  CHANNELS" tvg-logo="https://i.ibb.co/YdZR2jZ/IMG-20240129-062846.jpg",ISLAM Tv
-https://livess.ncare.live/live-orgin/islamtv.stream/chunks.m3u8
+
 #EXTINF:-1 group-title="JAGOBD  CHANNELS" tvg-logo="https://i.ibb.co/Jj9wy2q/IMG-20240129-062807.jpg",MAKKAH Tv
-https://livess.ncare.live/live-orgin/makkahtv.stream/chunks.m3u8
+
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/J4JNrkH.png group-title=”Islamic”,Madani TV
 
@@ -31,81 +31,81 @@ https://livess.ncare.live/live-orgin/makkahtv.stream/chunks.m3u8
 #EXTINF:0 group-title=”Islamic”,Azan TV
 
 #EXTINF:0 group-title=”Islamic”,Makkah Live
-https://himel-op.top/api/ytop.m3u8?id=moQtMet7F7w&e=.m3u8
+
 #EXTINF:0 group-title=”Islamic”,Madina Live
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=sunnah_tv&e=.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/pJhdZme.png group-title=”Islamic”,AL Dawah TV
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv HD
-http://10.20.30.40:8088/106/index.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv HD
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=gazi_tv_hd
+
 #EXTINF:0 group-title=”Bangla”,Toffee Live
-https://retosbd.com/toffe/toffe.php?id=match-1&e=.m3u8
+
 #EXTINF:0 group-title=”Bangla”,Toffee Live
-https://retosbd.com/toffe/toffe.php?id=match-2&e=.meu8
+
 #EXTINF:0 group-title=”Bangla”,Toffee Live
-https://retosbd.com/toffe/toffe.php?id=match-3&e=.meu8
+
 #EXTINF:0 group-title=”Bangla”,Euro Cup 2024
-https://a2uy.short.gy/FRA-V-NED-EN/Join-@HimelOP_Official/Zubayer_Op.m3u8
+
 #EXTINF:0 group-title=”Bangla”,Nagorok TV
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=nagorik_tv&e=.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=t_sports&e.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
-http://10.20.30.40:8088/102/index.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/7ftu2Rt.jpg group-title=”Bangla”,Maasranga
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/PK9Gm5g.png group-title=”Bangla”,Duronto TV
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=duronto_tv&e.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/4imblNY.jpg group-title=”Bangla”,Mohona
-https://livess.ncare.live/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/fxq0pV2.png group-title=”Bangla”,Asian TV
-https://mtlivestream.site/asian/ytlive/index.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/5PsRkPd.png group-title=”Bangla”,ATN Bangla
-https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/HX8SSDA.png group-title=”Bangla”,Banglavision TV
-https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/pTJSGtj.png group-title=”Bangla”,Boishakhi TV
-https://livess.ncare.live/live-orgin/boishakhitv-org.stream/chunks.m3u8
+
 #EXTINF:0 group-title=”Bangla”,Boishakhi TV Plus
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/fj8nxOw.png group-title=”Bangla”,Channel 9 HD
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=channel_9&e=.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/p0I5dr0.png group-title=”Bangla”,Channel I
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=channel_i&e=.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/tPZKfLr.png group-title=”Bangla”,Deepto TV
-https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/JgkIH3w.png group-title=”Bangla”,Desh TV
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=desh_tv&e=.m3u8
+
 #EXTINF:0 group-title=”Bangla”,Nexus TV
-https://livess.ncare.live/live-orgin/nexustv.stream/chunks.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/v9PqrCG.png group-title=”News”,ATN News
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=atn_news&e=.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/i8T9qQs.png group-title=”News”,Ekattor TV
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=ekattor_tv&e=.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/kviJN1i.png group-title=”News”,Independent TV
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=independent_tv&e=.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/Z2QvpTn.png group-title=”News”,Somoy News
-https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/FxsW4XI.png group-title=”News”,News 24
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=news_24_hd&e=.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/djAX8Rc.png group-title=”News”,DBC News
-https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/MmhxR5E.png group-title=”Bangla”,Channel 24
-https://livess.ncare.live/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
+
 #EXTINF:0 group-title=”Bangla”,Ekhon Tv
-https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/ds3aThu.jpg group-title=”Bangla”,Jamuna TV
-https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
+
 #EXTINF:0 group-title=”Bangla”,Jagonews 24
-https://livess.ncare.live/live-orgin/jagonews24.stream/chunks.m3u8
+
 #EXTINF:0 group-title=”Bangla”,Green TV
-https://livess.ncare.live/live-orgin/greentv.stream/chunks.m3u8
+
 #EXTINF:0 group-title=”Bangla”,Global Tv
 
 #EXTINF:0 group-title=”Bangla”,Comilla 24
