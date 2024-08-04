@@ -3,3 +3,5 @@
 http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:0,Jamuna YouTube 
 https://himel-op.top/api/ytop.m3u8?id=sXEn7_KKnN0&e=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n0MjdgkrP1eId4ysNshsCnnnlzd2j1xHYecd9XqbVRDhs=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Jamuna TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1722813399/ei/d7evZpC6HcHzsfIP1KC6sAQ/ip/13.91.68.82/id/sXEn7_KKnN0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAVNmKBhv3eihyfQElFuqc-slhp4m6MHrXKSlc4FEjf8ivhkb7v-qnNBS5Fo/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgXwu6Ncw7aa_VmE5Avgu8KZruMdx81vz_OQk6jTnLBmwCIQDdkDadsc1CmPEamkb77KDDPwU9ooMuf13UJ3NGMhxl7Q%3D%3D/file/index.m3u8
