@@ -65,9 +65,9 @@ https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/4imblNY.jpg group-title=”Bangla”,Mohona
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/fxq0pV2.png group-title=”Bangla”,Asian TV
-
+http://172.19.178.59:18190/SN-ST-TV-30/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/5PsRkPd.png group-title=”Bangla”,ATN Bangla
-
+http://172.19.178.59:18190/SN-ST-TV-29/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/HX8SSDA.png group-title=”Bangla”,Banglavision TV
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/pTJSGtj.png group-title=”Bangla”,Boishakhi TV
@@ -77,21 +77,21 @@ https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/fj8nxOw.png group-title=”Bangla”,Channel 9 HD
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/p0I5dr0.png group-title=”Bangla”,Channel I
-
+http://172.19.178.39:18190/JS-TV-07/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/tPZKfLr.png group-title=”Bangla”,Deepto TV
 http://172.19.178.19:18190/IX-TV-01/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/JgkIH3w.png group-title=”Bangla”,Desh TV
-
+http://172.19.178.49:18190/SN-ST-TV-06/index.m3u8
 #EXTINF:0 group-title=”Bangla”,Nexus TV
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/v9PqrCG.png group-title=”News”,ATN News
-
+http://172.19.178.59:18190/SN-ST-TV-20/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/i8T9qQs.png group-title=”News”,Ekattor TV
-
+http://172.19.178.59:18190/SN-ST-TV-31/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/kviJN1i.png group-title=”News”,Independent TV
-
+http://172.19.178.59:18190/SN-ST-TV-25/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/Z2QvpTn.png group-title=”News”,Somoy News
-
+http://172.19.178.39:18190/JS-TV-05/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/FxsW4XI.png group-title=”News”,News 24
 http://172.19.178.59:18190/SN-ST-TV-39/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/djAX8Rc.png group-title=”News”,DBC News
@@ -115,11 +115,11 @@ http://103.149.142.133/0.m3u8
 
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/kFqOMtx.png group-title=”Bangla”,Ekushey ETV
-
+http://172.19.178.59:18190/SN-ST-TV-26/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/3usnOla.png group-title=”Bangla”,NTV
-
+http://172.19.178.59:18190/SN-ST-TV-33/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/2cpHJKq.png group-title=”Bangla”,Nagorik TV
-
+http://172.19.178.59:18190/SN-ST-TV-24/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/yi5p51T.png group-title=”Bangla”,RTV
 http://172.19.178.59:18190/SN-ST-TV-38/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/fraEjzm.png group-title=”Bangla”,SA TV HD
@@ -129,7 +129,7 @@ https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/kDmkexe.png group-title=”Bangla”,Bijoy Tv
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/bahWhBG.png group-title=”Bangla”,MyTV
-
+http://172.19.178.59:18190/SN-ST-TV-32/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/h5FhOWT.png group-title=”Bangla”,Ananda TV
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/IYGU8Km.png group-title=”Movies”,Movie Bangla
@@ -187,11 +187,11 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/ppJO2Ep.png group-title=”Drama”,Star Jalsha
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/9d1xXjN.png group-title=”Drama”,Star Jalsha HD
-
+http://172.19.178.39:18190/JS-TV-08/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/e5Ldh7e.png group-title=”Drama”,Zee Bangla
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/e5Ldh7e.png group-title=”Drama”,Zee Bangla HD
-
+http://172.19.178.39:18190/JS-TV-09/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/e5Ldh7e.png group-title=”Drama”,Akash AATH
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/PW9hRDa.png group-title=”Drama”,Sun Bangla
@@ -202,7 +202,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/2PQfcOh.png group-title=”Movies”,Sony Cinema
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/2PQfcOh.png group-title=”Movies”,Jalsha Movies HD
-
+http://172.19.178.39:18190/JS-TV-06/index.m3u8
 #EXTINF:0 group-title=”Drama”,Colors Bangla Cinema
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/M6GyIvI.png group-title=”Movies”,Zee Bangla Cinema
@@ -455,7 +455,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
 #EXTINF:0 group-title=”Sports”, Super Cricket 
 
 #EXTINF:0 group-title=”Sports”,Sport 18 HD
-
+http://172.19.178.49:18190/SN-ST-TV-01/index.m3u8
 
 #EXTINF:0 group-title=”Sports”,Sony
 
@@ -480,10 +480,10 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony Sports 3
 
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony Sports 5
-
+http://172.19.178.39:18190/JS-TV-09/index.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports 1
-
+http://172.19.178.39:18190/JS-TV-04/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports 2
 
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports 3
@@ -497,7 +497,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
 #EXTINF:0 group-title=”Sports”,Ten Sports 
 
 #EXTINF:0 group-title=”Sports”,PTV Sports
-
+http://172.19.178.59:18190/SN-ST-TV-36/index.m3u8
 #EXTINF:0 group-title=”Sports”,RMC Sports 1
 
 #EXTINF:-1 group-title="LTWS SPORTS",GEO SUPER
