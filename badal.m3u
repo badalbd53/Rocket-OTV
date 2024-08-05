@@ -42,13 +42,13 @@
 http://172.19.178.39:18190/JS-TV-01/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv HD
 http://172.19.178.59:18190/SN-ST-TV-34/index.m3u8
-#EXTINF:0 group-title=”Bangla”,Jamuna Tv
+#EXTINF:0 tvg-logo=https://i.imgur.com/ds3aThu.jpg group-title=”Bangla”,Jamuna Tv
 http://172.19.178.29:18190/CLOUD-TV-02/index.m3u8
-#EXTINF:0 group-title=”Bangla”,Jamuna Tv Offline
+#EXTINF:0 tvg-logo=https://i.imgur.com/ds3aThu.jpg group-title=”Bangla”,Jamuna Tv Offline
 http://113.212.111.246:8080/hls/col12.m3u8
-#EXTINF:0 group-title=”Bangla”,Jamuna Tv
+#EXTINF:0 tvg-logo=https://i.imgur.com/ds3aThu.jpg group-title=”Bangla”,Jamuna Tv
 http://172.19.178.29:18190/CLOUD-TV-03/index.m3u8
-#EXTINF:0 group-title=”Bangla”,Jamuna
+#EXTINF:0 tvg-logo=https://i.imgur.com/ds3aThu.jpg group-title=”Bangla”,Jamuna
 http://172.19.178.39:18190/JS-TV-03/index.m3u8
 #EXTINF:0 group-title=”Bangla”,Nagorok TV
 
