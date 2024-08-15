@@ -45,7 +45,7 @@ http://172.19.178.59:18190/SN-ST-TV-34/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/ds3aThu.jpg group-title=”Bangla”,Jamuna Tv
 http://172.19.178.29:18190/CLOUD-TV-02/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/ds3aThu.jpg group-title=”Bangla”,Jamuna Tv
-http://10.20.30.40:8088/209/tracks-v1a1/mono.m3u8
+http://10.20.30.40:8088/209/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/ds3aThu.jpg group-title=”Bangla”,Jamuna Tv
 http://172.19.178.49:18190/SN-ST-TV-06/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/ds3aThu.jpg group-title=”Bangla”,Jamuna
@@ -89,7 +89,7 @@ http://172.19.178.59:18190/SN-ST-TV-20/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/i8T9qQs.png group-title=”News”,Ekattor TV
 http://172.19.178.59:18190/SN-ST-TV-31/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/kviJN1i.png group-title=”News”,Independent TV
-http://172.19.178.59:18190/SN-ST-TV-25/index.m3u8
+http://10.20.30.40:8088/201/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/Z2QvpTn.png group-title=”News”,Somoy News
 http://172.19.178.39:18190/JS-TV-05/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/FxsW4XI.png group-title=”News”,News 24
