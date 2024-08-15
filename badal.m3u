@@ -39,7 +39,7 @@
 #EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv HD
-http://172.19.178.39:18190/JS-TV-01/index.m3u8
+http://10.20.30.40:8088/106/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv HD
 http://172.19.178.59:18190/SN-ST-TV-34/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/ds3aThu.jpg group-title=”Bangla”,Jamuna Tv
@@ -85,7 +85,7 @@ http://172.19.178.59:18190/SN-ST-TV-21/index.m3u8
 #EXTINF:0 group-title=”Bangla”,Nexus TV
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/v9PqrCG.png group-title=”News”,ATN News
-http://172.19.178.59:18190/SN-ST-TV-20/index.m3u8
+http://10.20.30.40:8088/203/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/i8T9qQs.png group-title=”News”,Ekattor TV
 http://172.19.178.59:18190/SN-ST-TV-31/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/kviJN1i.png group-title=”News”,Independent TV
