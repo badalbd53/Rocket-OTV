@@ -42,20 +42,24 @@
 http://10.20.30.40:8088/106/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv HD
 http://172.19.178.59:18190/SN-ST-TV-34/index.m3u8
-#EXTINF:0 tvg-logo=https://i.imgur.com/ds3aThu.jpg group-title=”Bangla”,Jamuna Tv
+#EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
 http://172.19.178.29:18190/CLOUD-TV-02/index.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
+http://172.19.178.39:18190/U-TV-01/index.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
+http://10.20.30.40:8088/102/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/ds3aThu.jpg group-title=”Bangla”,Jamuna Tv
 http://10.20.30.40:8088/209/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/ds3aThu.jpg group-title=”Bangla”,Jamuna Tv
-http://172.19.178.49:18190/SN-ST-TV-06/index.m3u8
-#EXTINF:0 tvg-logo=https://i.imgur.com/ds3aThu.jpg group-title=”Bangla”,Jamuna
 http://172.19.178.39:18190/JS-TV-03/index.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/ds3aThu.jpg group-title=”Bangla”,Jamuna
+
 #EXTINF:0 group-title=”Bangla”,Nagorok TV
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
-http://172.19.178.49:18190/SN-ST-TV-05/index.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/7ftu2Rt.jpg group-title=”Bangla”,Maasranga
@@ -71,7 +75,7 @@ http://172.19.178.59:18190/SN-ST-TV-29/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/HX8SSDA.png group-title=”Bangla”,Banglavision TV
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/pTJSGtj.png group-title=”Bangla”,Boishakhi TV
-
+http://10.20.30.40:8088/211/index.m3u8
 #EXTINF:0 group-title=”Bangla”,Boishakhi TV Plus
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/fj8nxOw.png group-title=”Bangla”,Channel 9 HD
@@ -168,7 +172,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/0rFA2Cx.png group-title=”Music”,9XM Music
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/0rFA2Cx.png group-title=”Music”,Mastiii
-
+http://10.20.30.40:8088/703/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/3mkjuTk.png group-title=”Music”,E24
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/wg3N1VT.png group-title=”Music”,8XM
@@ -210,9 +214,9 @@ http://172.19.178.39:18190/JS-TV-06/index.m3u8
 #EXTINF:0 group-title=”Movies”,Enterr10 Bangla
 
 #EXTINF:0 group-title=”Drama”,Sony AATH
-
-#EXTINF:0 group-title=”Drama”,Rongeen TV
-
+http://10.20.30.40:8088/306/index.m3u8
+#EXTINF:0 group-title=”Drama”,Sony AATH
+http://172.19.178.49:18190/SN-ST-TV-03/index.m3u8
 
 
 
@@ -226,7 +230,7 @@ http://172.19.178.39:18190/JS-TV-06/index.m3u8
 #EXTINF:0 group-title=”Drama”,Star Plus HD
 
 #EXTINF:0 group-title=”Drama”,Sony HD
-
+http://10.20.30.40:8088/403/index.m3u8
 
 #EXTINF:0 group-title=”Drama”,Sony Pal
 
@@ -244,7 +248,7 @@ http://172.19.178.39:18190/JS-TV-06/index.m3u8
 
 
 #EXTINF:0 group-title=”Kids”,Nick
-
+http://10.20.30.40:8088/601/index.m3u8
 #EXTINF:-1 tvg-logo=https://i.imgur.com/Qkvo1BH.png group-title=”Kids”,Nick jr
 
 #EXTINF:-1 tvg-logo=https://i.imgur.com/4rEFCPQ.jpg group-title=”Kids”,Sony Yay
@@ -266,7 +270,7 @@ http://172.19.178.39:18190/JS-TV-06/index.m3u8
 #EXTINF:0 group-title=”Kids”,Cartoon Network
 
 #EXTINF:0 group-title=”Kids”,Cartoon Network HD
-
+http://10.20.30.40:8088/602/index.m3u8
 #EXTINF:0 group-title=”Kids”,Pogo
 
 
@@ -283,7 +287,7 @@ http://172.19.178.39:18190/JS-TV-06/index.m3u8
 
 
 #EXTINF:0 group-title=”Documentary”,Discovery
-
+http://10.20.30.40:8088/801/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/8GG7Ny9.png group-title=”Documentary”,Discovery HD
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/m7Cl2M9.png group-title=”Documentary”,Discovery Bangla
@@ -291,7 +295,7 @@ http://172.19.178.39:18190/JS-TV-06/index.m3u8
 #EXTINF:0 group-title=”Documentary”,National Geographic HD
 
 #EXTINF:0 group-title=”Documentary”,NatGeo Wild
-
+http://10.20.30.40:8088/802/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/KLBorkM.png group-title=”Documentary”,Travel XP HD
 
 #EXTINF:0 group-title=”Documentary”,Animal Planet
@@ -319,16 +323,16 @@ http://172.19.178.39:18190/JS-TV-06/index.m3u8
 
 #EXTINF:0 group-title=”Movies”,Zee Cinema
 
-#EXTINF:0 group-title=”Movies”,Zee Cinema
-
 #EXTINF:0 group-title=”Movies”,Zee Cinema HD
-
+http://172.19.178.59:18190/SN-ST-TV-39/index.m3u8
+#EXTINF:0 group-title=”Movies”,Zee Cinema HD
+http://10.20.30.40:8088/406/index.m3u8
 #EXTINF:0 group-title=”Movies”,Sony Set Max
 
 #EXTINF:0 group-title=”Movies”,Sony Max
 
 #EXTINF:0 group-title=”Movies”,Sony Max HD
-
+http://10.20.30.40:8088/404/index.m3u8
 #EXTINF:0 group-title=”Movies”,Sony Max 2
 
 #EXTINF:0 group-title=”Movies”,Sony Wah
@@ -336,7 +340,7 @@ http://172.19.178.39:18190/JS-TV-06/index.m3u8
 #EXTINF:0 group-title=”Movies”,& Picture
 
 #EXTINF:0 group-title=”Movies”,& Picture HD
-
+http://10.20.30.40:8088/407/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/chHDUsi.png group-title=”Movies”,ZING
 
 #EXTINF:0 group-title=”Movies”,Colors Cineplex HD
@@ -352,7 +356,7 @@ http://172.19.178.39:18190/JS-TV-06/index.m3u8
 #EXTINF:0 group-title=”Movies”,Zee Classic
 
 #EXTINF:0 group-title=”Movies”,Star Gold Select HD
-
+http://10.20.30.40:8088/402/index.m3u8
 #EXTINF:0 group-title=”Movies”,Star Gold
 
 #EXTINF:0 group-title=”Movies”,UTV Cinema HD
@@ -407,17 +411,17 @@ http://172.19.178.39:18190/JS-TV-06/index.m3u8
 
 
 #EXTINF:0 group-title=”Entertainment”,Sony Pix HD
-
+http://10.20.30.40:8088/503/index.m3u8
 #EXTINF:0 group-title=”Movies”,Sony Pix HD
 
 #EXTINF:0 group-title=”Movies”,Zee Cafe HD
 
 #EXTINF:0 group-title=”Movies”,Star Movies HD
 
-#EXTINF:0 group-title=”Movies”,Star Movies Select
-
-#EXTINF:0 group-title=”Movies”,Fox Action Movies
-
+#EXTINF:0 group-title=”Movies”,Star Movies Select HD
+http://10.20.30.40:8088/501/index.m3u8
+#EXTINF:0 group-title=”Movies”,Romedy Now
+http://10.20.30.40:8088/502/index.m3u8
 #EXTINF:0 group-title=”Movies”, Hollywood HD
 
 #EXTINF:0 group-title=”Movies”,MNX HD
@@ -474,24 +478,24 @@ http://172.19.178.49:18190/SN-ST-TV-01/index.m3u8
 #EXTINF:0 group-title="TATA SKY",Sony SIX
 
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony Sports 1
-
+http://10.20.30.40:8088/119/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony Sports 2
-
+http://10.20.30.40:8088/120/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony Sports 3
-
+http://10.20.30.40:8088/121/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony Sports 5
 http://172.19.178.39:18190/JS-TV-09/index.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports 1
-http://172.19.178.39:18190/JS-TV-04/index.m3u8
+http://10.20.30.40:8088/110/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports 2
-
+http://10.20.30.40:8088/115/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports 3
 
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports SELECT 1
-
+http://10.20.30.40:8088/123/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports SELECT 2
-
+http://10.20.30.40:8088/124/index.m3u8
 #EXTINF:0 group-title=”Sports”,Super Sports
 
 #EXTINF:0 group-title=”Sports”,Ten Sports 
@@ -503,7 +507,7 @@ http://172.19.178.59:18190/SN-ST-TV-36/index.m3u8
 #EXTINF:-1 group-title="LTWS SPORTS",GEO SUPER
 
 #EXTINF:-1 group-title="LTWS SPORTS",A SPORTS HD
-
+http://10.20.30.40:8088/128/index.m3u8
 #EXTINF:-1 group-title="LTWS SPORTS",SPORTS 18
 
 #EXTINF:-1 group-title="LTWS SPORTS",DD SPORTS HD
@@ -524,8 +528,8 @@ http://172.19.178.59:18190/SN-ST-TV-36/index.m3u8
 
 #EXTINF:-1 group-title="LTWS SPORTS",TNT SPORTS 2
 
-#EXTINF:-1 group-title="LTWS SPORTS",BEIN SPORTS
-
+#EXTINF:-1 group-title="LTWS SPORTS",Redbull TV
+http://10.20.30.40:8088/130/index.m3u8
 
 #EXTINF:-1 group-title="LTWS SPORTS",Movie
 
