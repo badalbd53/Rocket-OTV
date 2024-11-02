@@ -1,21 +1,21 @@
 #EXTM3U
 #EXTINF:0 tvg-logo=https://i.imgur.com/H9qgGSc.png group-title=”Bangla”,BTV HD
-https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/playlist.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/BTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/RR0Iv6V.png group-title=”Bangla”,BTV World
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=btv_world&e=.m3u8
+
 #EXTINF:0 group-title=”Bangla”,BTV Chattogram
 
 #EXTINF:0 tvg-logo=https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg group-title=”Bangla”,Songsad TV
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=sangsad_tv&e=.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/ESWXan9.png group-title=”Islamic”,ATN Islamic TV
-https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnislamictv.stream/playlist.m3u8
+https://app.ncare.live/live-orgin/atnislamictv.stream/playlist.m3u8
 #EXTINF:-1 group-title="JAGOBD  CHANNELS" tvg-logo="https://i.postimg.cc/j2d5bG7T/download-11.png",Al Sunnah Al Nabawiyah TV 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TPdPzcn/IMG-20240126-102629.jpg"group-title="JAGOBD  CHANNELS",ATN Islamic TV 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GprTxvx/IMG-20240126-102504.jpg"group-title="JAGOBD  CHANNELS",PeaceTV Bangla
-http://tv.cloudcdn.me/live.ts?channelId=237&uid=8164&deviceMac=00:1A:79:17:D4:A1
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sbyq79V/IMG-20240126-102440.jpg" group-title="JAGOBD  CHANNELS", IQRA BANGLA
 
@@ -33,27 +33,27 @@ http://tv.cloudcdn.me/live.ts?channelId=237&uid=8164&deviceMac=00:1A:79:17:D4:A1
 #EXTINF:0 group-title=”Islamic”,Azan TV
 
 #EXTINF:0 group-title=”Islamic”,Makkah Live
-https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8
+
 #EXTINF:0 group-title=”Islamic”,Madina Live
-https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/madina.stream/playlist.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/pJhdZme.png group-title=”Islamic”,AL Dawah TV
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv HD
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=gazi_tv_hd&e=.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv HD
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
 http://10.10.10.2/live/fnffeed1001/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
-
+http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/ds3aThu.jpg group-title=”Bangla”,Jamuna Tv
-https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/ds3aThu.jpg group-title=”Bangla”,Jamuna Tv
-https://entezeetv.fun/bdcast/hls/index.m3u8?id=89b4zb3d&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/ds3aThu.jpg group-title=”Bangla”,Jamuna YT
 https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@JamunaTVbd&e=.m3u8
 #EXTINF:0 group-title=”Bangla”,Nagorok TV
@@ -67,13 +67,13 @@ https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@JamunaTVbd
 #EXTINF:0 tvg-logo=https://i.imgur.com/7ftu2Rt.jpg group-title=”Bangla”,Maasranga
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/PK9Gm5g.png group-title=”Bangla”,Duronto TV
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=duronto_tv&e=.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/4imblNY.jpg group-title=”Bangla”,Mohona
-https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/Mohona-g.stream/playlist.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/Mohona/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/fxq0pV2.png group-title=”Bangla”,Asian TV
-https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/playlist.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/5PsRkPd.png group-title=”Bangla”,ATN Bangla
-https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8
+
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/HX8SSDA.png group-title=”Bangla”,Banglavision TV
 https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/playlist.m3u8
