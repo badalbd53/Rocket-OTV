@@ -9,7 +9,7 @@ http://tv.dugdugilive.com:8080/0ne$ky23/BTV/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg group-title=”Bangla”,Songsad TV
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/ESWXan9.png group-title=”Islamic”,ATN Islamic TV
-https://app.ncare.live/live-orgin/atnislamictv.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="JAGOBD  CHANNELS" tvg-logo="https://i.postimg.cc/j2d5bG7T/download-11.png",Al Sunnah Al Nabawiyah TV 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TPdPzcn/IMG-20240126-102629.jpg"group-title="JAGOBD  CHANNELS",ATN Islamic TV 
@@ -39,23 +39,23 @@ https://app.ncare.live/live-orgin/atnislamictv.stream/playlist.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/pJhdZme.png group-title=”Islamic”,AL Dawah TV
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv
-
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1/mono.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Live Sports
+http://tv.dugdugilive.com:8080/0ne$ky23/LiveSP/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv HD
 http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv HD
-
-#EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
-http://10.10.10.2/live/fnffeed1001/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
 http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
 
-#EXTINF:0 tvg-logo=https://i.imgur.com/ds3aThu.jpg group-title=”Bangla”,Jamuna Tv
+#EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
 
+#EXTINF:0 tvg-logo=https://i.imgur.com/ds3aThu.jpg group-title=”Bangla”,Jamuna Tv
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/ds3aThu.jpg group-title=”Bangla”,Jamuna Tv
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/ds3aThu.jpg group-title=”Bangla”,Jamuna YT
-https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@JamunaTVbd&e=.m3u8
+
 #EXTINF:0 group-title=”Bangla”,Nagorok TV
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports
@@ -65,7 +65,7 @@ https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@JamunaTVbd
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/7ftu2Rt.jpg group-title=”Bangla”,Maasranga
-https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/Massranga/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/PK9Gm5g.png group-title=”Bangla”,Duronto TV
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/4imblNY.jpg group-title=”Bangla”,Mohona
@@ -73,38 +73,40 @@ https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/fxq0pV2.png group-title=”Bangla”,Asian TV
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/5PsRkPd.png group-title=”Bangla”,ATN Bangla
-
+http://tv.dugdugilive.com:8080/0ne$ky23/AtnBangla/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/HX8SSDA.png group-title=”Bangla”,Banglavision TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/playlist.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/BanglaVision/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/pTJSGtj.png group-title=”Bangla”,Boishakhi TV
-https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/boishakhitv-org.stream/playlist.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/Boishakhi/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title=”Bangla”,Boishakhi TV Plus
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/fj8nxOw.png group-title=”Bangla”,Channel 9 HD
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=channel_9&e=.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/p0I5dr0.png group-title=”Bangla”,Channel I
-https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@ChanneliNews&e=.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/Channel-I/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/tPZKfLr.png group-title=”Bangla”,Deepto TV
-https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/Deepto/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/JgkIH3w.png group-title=”Bangla”,Desh TV
-https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@livedeshtv&e=.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/deshtv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title=”Bangla”,Nexus TV
-https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@NexusTelevisionLive&e=.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/v9PqrCG.png group-title=”News”,ATN News
-https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/bijoy00.stream/playlist.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/ATN-News/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/i8T9qQs.png group-title=”News”,Ekattor TV
-https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ekattor.stream/playlist.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/Ekattor/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/i8T9qQs.png group-title=”News”,Ekhon TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/kviJN1i.png group-title=”News”,Independent TV
-https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@IndependentTelevision&e=.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/Independent/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/Z2QvpTn.png group-title=”News”,Somoy News
-https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/playlist.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/SomoyTV/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/FxsW4XI.png group-title=”News”,News 24
-https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@news24television90&e=.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/djAX8Rc.png group-title=”News”,DBC News
-https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/playlist.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/DBC/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/MmhxR5E.png group-title=”Bangla”,Channel 24
-http://global.ncare.live/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/Channel24/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title=”Bangla”,Ekhon Tv
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/ds3aThu.jpg group-title=”Bangla”,Jamuna TV
@@ -122,25 +124,25 @@ http://global.ncare.live/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
 
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/kFqOMtx.png group-title=”Bangla”,Ekushey ETV
-
+http://tv.dugdugilive.com:8080/0ne$ky23/EkusheyTV/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/3usnOla.png group-title=”Bangla”,NTV
-
+http://tv.dugdugilive.com:8080/0ne$ky23/NTV/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/2cpHJKq.png group-title=”Bangla”,Nagorik TV
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/yi5p51T.png group-title=”Bangla”,RTV
-
+http://tv.dugdugilive.com:8080/0ne$ky23/JamunaTV/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/fraEjzm.png group-title=”Bangla”,SA TV HD
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/K43LsMQ.png group-title=”Bangla”,Bangla TV HD
-https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/BanglaTV/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/kDmkexe.png group-title=”Bangla”,Bijoy Tv
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/bahWhBG.png group-title=”Bangla”,MyTV
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/h5FhOWT.png group-title=”Bangla”,Ananda TV
-
+http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/IYGU8Km.png group-title=”Movies”,Movie Bangla
-http://alvetv.com/moviebanglatv/8080/index.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/IYGU8Km.png group-title=”Movies”,My Cinema
 
 
@@ -155,11 +157,11 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/PmXZNaK.png group-title=”Music”,MUSIC CIPL
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/g9OTeXV.png group-title=”Music”,Sangeet Bangla
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
+
 #EXTINF:0 group-title=”Music”,Bangla Talkies
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/7rnhie0.png group-title=”Music”,Zoom
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/index.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/DKVLQ7m.png group-title=”Music”,MTV HD+
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/DKVLQ7m.png group-title=”Music”,MTV
@@ -171,15 +173,17 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/index.m3u8
 
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/LZ7W3Yc.png group-title=”Music”,Music India
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/0rFA2Cx.png group-title=”Music”,9XM Music
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/0rFA2Cx.png group-title=”Music”,Mastiii
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/3mkjuTk.png group-title=”Music”,E24
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/wg3N1VT.png group-title=”Music”,8XM
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/wRc0YAb.png group-title=”Music”,Bindass
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/stZqDcA.png group-title=”Movies”,B4U Music
 
 
@@ -194,22 +198,22 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/ppJO2Ep.png group-title=”Drama”,Star Jalsha
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/9d1xXjN.png group-title=”Drama”,Star Jalsha HD
-
+http://tv.dugdugilive.com:8080/0ne$ky23/starJalsa/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/e5Ldh7e.png group-title=”Drama”,Zee Bangla
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/e5Ldh7e.png group-title=”Drama”,Zee Bangla HD
-
+http://tv.dugdugilive.com:8080/0ne$ky23/ZeeBangla/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/e5Ldh7e.png group-title=”Drama”,Akash AATH
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/PW9hRDa.png group-title=”Drama”,Sun Bangla
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/HVZHZGl.png group-title=”Drama”,Colors Bangla HD
-
+http://tv.dugdugilive.com:8080/0ne$ky23/colors-bangla/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/2PQfcOh.png group-title=”Movies”,Sony Cinema
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/2PQfcOh.png group-title=”Movies”,Jalsha Movies HD
-
+http://tv.dugdugilive.com:8080/0ne$ky23/jalshamovies/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title=”Drama”,Colors Bangla Cinema
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/M6GyIvI.png group-title=”Movies”,Zee Bangla Cinema
@@ -217,7 +221,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
 #EXTINF:0 group-title=”Movies”,Enterr10 Bangla
 
 #EXTINF:0 group-title=”Drama”,Sony AATH
-
+http://tv.dugdugilive.com:8080/0ne$ky23/Dhoom/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title=”Drama”,Sony AATH
 
 
@@ -233,7 +237,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
 #EXTINF:0 group-title=”Drama”,Star Plus HD
 
 #EXTINF:0 group-title=”Drama”,Sony HD
-
+http://tv.dugdugilive.com:8080/0ne$ky23/SonyTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 group-title=”Drama”,Sony Pal
 
@@ -294,7 +298,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/8GG7Ny9.png group-title=”Documentary”,Discovery HD
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/m7Cl2M9.png group-title=”Documentary”,Discovery Bangla
-https://cdn1-freeiptv25.vercel.app/m3u/discoverybengali.m3u8
+
 #EXTINF:0 group-title=”Documentary”,National Geographic HD
 
 #EXTINF:0 group-title=”Documentary”,NatGeo Wild
@@ -304,7 +308,7 @@ https://cdn1-freeiptv25.vercel.app/m3u/discoverybengali.m3u8
 #EXTINF:0 group-title=”Documentary”,Animal Planet
 
 #EXTINF:0 group-title=”Documentary”,Animal Planet HD
-https://cdn1-freeiptv25.vercel.app/m3u/Animal_Planet.m3u8
+
 #EXTINF:0 group-title=”Documentary”,Sony BBC Earth HD
 
 #EXTINF:0 group-title=”Documentary”,Sky Nature 
@@ -327,7 +331,7 @@ https://cdn1-freeiptv25.vercel.app/m3u/Animal_Planet.m3u8
 #EXTINF:0 group-title=”Movies”,Zee Cinema
 
 #EXTINF:0 group-title=”Movies”,Zee Cinema HD
-
+http://tv.dugdugilive.com:8080/0ne$ky23/ZeeCinema/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title=”Movies”,Zee Cinema HD
 
 #EXTINF:0 group-title=”Movies”,Sony Set Max
@@ -335,7 +339,7 @@ https://cdn1-freeiptv25.vercel.app/m3u/Animal_Planet.m3u8
 #EXTINF:0 group-title=”Movies”,Sony Max
 
 #EXTINF:0 group-title=”Movies”,Sony Max HD
-
+http://tv.dugdugilive.com:8080/0ne$ky23/SonyMax/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title=”Movies”,Sony Max 2
 
 #EXTINF:0 group-title=”Movies”,Sony Wah
@@ -343,7 +347,7 @@ https://cdn1-freeiptv25.vercel.app/m3u/Animal_Planet.m3u8
 #EXTINF:0 group-title=”Movies”,& Picture
 
 #EXTINF:0 group-title=”Movies”,& Picture HD
-
+http://tv.dugdugilive.com:8080/0ne$ky23/AndPictures/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/chHDUsi.png group-title=”Movies”,ZING
 
 #EXTINF:0 group-title=”Movies”,Colors Cineplex HD
@@ -479,18 +483,18 @@ https://cdn1-freeiptv25.vercel.app/m3u/Animal_Planet.m3u8
 
 
 #EXTINF:0 group-title="TATA SKY",Sony SIX
-
+http://tv.dugdugilive.com:8080/0ne$ky23/sonysix/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony Sports 1
 
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony Sports 2
-
+http://tv.dugdugilive.com:8080/0ne$ky23/sonyten2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony Sports 3
-
+http://tv.dugdugilive.com:8080/0ne$ky23/sonyten3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony Sports 5
 
 
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports 1
-
+http://tv.dugdugilive.com:8080/0ne$ky23/StarSports22/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports 2
 
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports 3
@@ -504,7 +508,7 @@ https://cdn1-freeiptv25.vercel.app/m3u/Animal_Planet.m3u8
 #EXTINF:0 group-title=”Sports”,Ten Sports 
 
 #EXTINF:0 group-title=”Sports”,PTV Sports
-
+http://tv.dugdugilive.com:8080/0ne$ky23/PTV/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title=”Sports”,RMC Sports 1
 
 #EXTINF:-1 group-title="LTWS SPORTS",GEO SUPER
@@ -535,8 +539,7 @@ https://cdn1-freeiptv25.vercel.app/m3u/Animal_Planet.m3u8
 http://10.20.30.40:8088/130/index.m3u8
 
 #EXTINF:-1 group-title="LTWS SPORTS",Movie
-http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282024%29/Aavesham%20%282024%29%201080p%20%5BDual%20Audio%5D/Aavesham%20%282024%29%20UNCUT%201080p%20AMZN%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BMalayalam%205.1%5D%20-mkvC.mkv
+
 #EXTINF:-1 group-title="LTWS SPORTS",Movie
-http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282024%29/The%20Goat%20Life%20%282024%29%201080p%20%5BDual%20Audio%5D/Aadujeevitham%20The%20Goat%20Life%20%282024%29%20UNCUT%201080p%20NF%20WEBRip%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BMalayalam%205.1%5D%20-HDHub.mkv
+
 #EXTINF:-1 group-title="LTWS SPORTS",Movie
-http://172.16.50.14/DHAKA-FLIX-14/Animation%20Movies/%282024%29/Despicable%20Me%204%20%282024%29%20720p%20AMZN%20%5BDual%20Audio%5D/Despicable%20Me%204%20%282024%29%20UNCUT%20720p%20AMZN-WEB%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
