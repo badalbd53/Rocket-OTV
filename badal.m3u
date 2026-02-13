@@ -134,7 +134,7 @@ http://tv.dugdugilive.com:8080/0ne$ky23/NTV/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/2cpHJKq.png group-title=”Bangla”,Nagorik TV
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/yi5p51T.png group-title=”Bangla”,RTV
-http://tv.dugdugilive.com:8080/0ne$ky23/JamunaTV/tracks-v1a1/mono.m3u8
+http://103.229.254.25:7001/play/a068/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/fraEjzm.png group-title=”Bangla”,SA TV HD
 http://103.229.254.25:7001/play/a062/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/K43LsMQ.png group-title=”Bangla”,Bangla TV HD
@@ -147,6 +147,8 @@ http://103.229.254.25:7001/play/a05z/index.m3u8
 http://103.229.254.25:7001/play/a05v/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/IYGU8Km.png group-title=”Movies”,Movie Bangla
 
+#EXTINF:-1 group-title="-",Channel S
+http://103.229.254.25:7001/play/a060/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/IYGU8Km.png group-title=”Movies”,My Cinema
 
 
@@ -200,19 +202,22 @@ http://103.229.254.25:7001/play/a02s/index.m3u8
 
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/ppJO2Ep.png group-title=”Drama”,Star Jalsha
-
+http://103.229.254.25:7001/play/a075/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/9d1xXjN.png group-title=”Drama”,Star Jalsha HD
-http://tv.dugdugilive.com:8080/0ne$ky23/starJalsa/tracks-v1a1/mono.m3u8
+http://103.229.254.25:7001/play/a0c0/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/e5Ldh7e.png group-title=”Drama”,Zee Bangla
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/e5Ldh7e.png group-title=”Drama”,Zee Bangla HD
-http://tv.dugdugilive.com:8080/0ne$ky23/ZeeBangla/tracks-v1a1/mono.m3u8
+http://103.229.254.25:7001/play/a0c3/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/e5Ldh7e.png group-title=”Drama”,Akash AATH
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/PW9hRDa.png group-title=”Drama”,Sun Bangla
-
+http://103.229.254.25:7001/play/a0cw/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/HVZHZGl.png group-title=”Drama”,Colors Bangla HD
 http://tv.dugdugilive.com:8080/0ne$ky23/colors-bangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="-",Enterr10 Bangla
+http://103.229.254.25:7001/play/a080/index.m3u8
+
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/2PQfcOh.png group-title=”Movies”,Sony Cinema
 
@@ -244,7 +249,7 @@ http://tv.dugdugilive.com:8080/0ne$ky23/Dhoom/tracks-v1a1/mono.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/SonyTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 group-title=”Drama”,Sony Pal
-
+http://103.175.73.12:8080/live/11/11_0.m3u8
 #EXTINF:0 group-title=”Drama”,Sony HD
 
 #EXTINF:0 group-title=”Drama”,Colors
@@ -279,7 +284,7 @@ https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
 #EXTINF:0 group-title=”Kids”,Hungama
 
 #EXTINF:0 group-title=”Kids”,Cartoon Network
-
+http://198.195.239.50:8095/CartoonNetwork/index.m3u8
 #EXTINF:0 group-title=”Kids”,Cartoon Network HD
 
 #EXTINF:0 group-title=”Kids”,Pogo
@@ -298,9 +303,9 @@ https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
 
 
 #EXTINF:0 group-title=”Documentary”,Discovery
-
+http://198.195.239.50:8095/Discovery/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/8GG7Ny9.png group-title=”Documentary”,Discovery HD
-
+http://103.229.254.25:7001/play/a03g/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/m7Cl2M9.png group-title=”Documentary”,Discovery Bangla
 
 #EXTINF:0 group-title=”Documentary”,National Geographic HD
@@ -310,7 +315,7 @@ https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/KLBorkM.png group-title=”Documentary”,Travel XP HD
 
 #EXTINF:0 group-title=”Documentary”,Animal Planet
-
+http://198.195.239.50:8095/AnimalPlanet/index.m3u8
 #EXTINF:0 group-title=”Documentary”,Animal Planet HD
 
 #EXTINF:0 group-title=”Documentary”,Sony BBC Earth HD
@@ -341,23 +346,23 @@ http://tv.dugdugilive.com:8080/0ne$ky23/ZeeCinema/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title=”Movies”,Sony Set Max
 
 #EXTINF:0 group-title=”Movies”,Sony Max
-
+http://103.229.254.25:7001/play/a0co/index.m3u8
 #EXTINF:0 group-title=”Movies”,Sony Max HD
 http://tv.dugdugilive.com:8080/0ne$ky23/SonyMax/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title=”Movies”,Sony Max 2
-
+http://103.175.73.12:8080/live/39/39_0.m3u8
 #EXTINF:0 group-title=”Movies”,Sony Wah
-
+http://103.175.73.12:8080/live/38/38_0.m3u8
 #EXTINF:0 group-title=”Movies”,& Picture
 
 #EXTINF:0 group-title=”Movies”,& Picture HD
 http://tv.dugdugilive.com:8080/0ne$ky23/AndPictures/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/chHDUsi.png group-title=”Movies”,ZING
 
+#EXTINF:0 group-title=”Movies”,Colors Cineplex Superhits
+http://103.175.73.12:8080/live/14/14_0.m3u8
 #EXTINF:0 group-title=”Movies”,Colors Cineplex HD
-
-#EXTINF:0 group-title=”Movies”,Colors Cineplex Bollywood
-
+http://103.175.73.12:8080/live/37/37_0.m3u8
 #EXTINF:0 group-title=”Movies”,Rishtey Cineplex HD
 
 #EXTINF:0 group-title=”Movies”,Zee Action
@@ -369,6 +374,21 @@ http://tv.dugdugilive.com:8080/0ne$ky23/AndPictures/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title=”Movies”,Star Gold Select HD
 
 #EXTINF:0 group-title=”Movies”,Star Gold
+http://103.175.73.12:8080/live/31/31_0.m3u8
+#EXTINF:0 group-title=”Movies”,Star Gold HD
+http://103.229.254.25:7001/play/a0dd/index.m3u8
+#EXTINF:-1 group-title="-",Star Gold 2
+http://103.229.254.25:7001/play/a0df/index.m3u8
+#EXTINF:-1 group-title="-",Star Gold 2 HD
+http://103.229.254.25:7001/play/a0d0/index.m3u8
+#EXTINF:-1 group-title="-",Star Gold Romance
+http://103.229.254.25:7001/play/a0ck/index.m3u8
+#EXTINF:-1 group-title="-",Star Gold Thrills
+http://103.175.73.12:8080/live/36/36_0.m3u8
+#EXTINF:-1 group-title="-",Star Gold Select
+http://103.175.73.12:8080/live/41/41_0.m3u8
+#EXTINF:-1 group-title="-",Star Gold Select HD
+http://103.229.254.25:7001/play/a032/index.m3u8
 
 #EXTINF:0 group-title=”Movies”,UTV Cinema HD
 
@@ -379,21 +399,21 @@ http://tv.dugdugilive.com:8080/0ne$ky23/AndPictures/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title=”Movies”,Star Gold Select
 
 #EXTINF:-1 group-title="LTWS HINDI MOVIES",GOLDMINES
-
+http://103.175.73.12:8080/live/53/53_0.m3u8
 #EXTINF:-1 group-title="LTWS HINDI MOVIES",GOLDMINES BOLLYWOOD
-
+http://103.229.254.25:7001/play/a07l/index.m3u8
 #EXTINF:-1 group-title="LTWS HINDI MOVIES",GOLDMINES MOVIES
-
-#EXTINF:-1 group-title="LTWS HINDI MOVIES",MANORANJAN MOVIES
-
+http://103.229.254.25:7001/play/a07k/index.m3u8
+#EXTINF:-1 group-title="LTWS HINDI MOVIES",Goldmines 2
+http://103.175.73.12:8080/live/46/46_0.m3u8
 #EXTINF:-1 group-title="LTWS HINDI MOVIES",B4U KADAK
-
+http://103.229.254.25:7001/play/a08c/index.m3u8
 #EXTINF:-1 group-title="LTWS HINDI MOVIES",B4U HITZ
 
 #EXTINF:-1 group-title="LTWS HINDI MOVIES",DHAMAKA MOVIES
 
 #EXTINF:-1 group-title="LTWS HINDI MOVIES",B4U MOVIES
-
+http://103.175.73.12:8080/live/43/43_0.m3u8
 
 
 
@@ -428,6 +448,10 @@ http://tv.dugdugilive.com:8080/0ne$ky23/AndPictures/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title=”Movies”,Zee Cafe HD
 
 #EXTINF:0 group-title=”Movies”,Star Movies HD
+#EXTINF:-1 group-title="-",STAR Movies HD - Rs 19.00
+http://103.229.254.25:7001/play/a02w/index.m3u8
+#EXTINF:-1 group-title="-",STAR Movies Select HD - Rs 19.00
+http://103.229.254.25:7001/play/a02v/index.m3u8
 
 #EXTINF:0 group-title=”Movies”,Star Movies Select HD
 
@@ -484,6 +508,11 @@ http://tv.dugdugilive.com:8080/0ne$ky23/AndPictures/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title=”Sports”,Sport TV
 
 #EXTINF:0 group-title=”Sports”,FS1
+
+#EXTINF:-1 group-title="-",Bein Sport 1
+http://103.229.254.25:7001/play/a0f0/index.m3u8
+#EXTINF:-1 group-title="-",Bein Sport 2
+http://103.229.254.25:7001/play/a0ea/index.m3u8
 
 
 #EXTINF:0 group-title="TATA SKY",Sony SIX
