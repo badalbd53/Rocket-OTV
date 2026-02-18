@@ -164,10 +164,13 @@ http://103.229.254.25:7001/play/a060/index.m3u8
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/g9OTeXV.png group-title=”Music”,Sangeet Bangla
 
-#EXTINF:0 group-title=”Music”,Bangla Talkies
+#EXTINF:0 group-title=”Music”,9XM
+http://103.175.73.12:8080/live/155/155_0.m3u8
+#EXTINF:0 group-title=”Music”,9XM Jalwa
+http://103.175.73.12:8080/live/155/161_0.m3u8
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/7rnhie0.png group-title=”Music”,Zoom
-
+http://103.175.73.12:8080/live/153/153_0.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/DKVLQ7m.png group-title=”Music”,MTV HD+
 http://103.229.254.25:7001/play/a02s/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/DKVLQ7m.png group-title=”Music”,MTV
@@ -179,19 +182,19 @@ http://103.229.254.25:7001/play/a02s/index.m3u8
 
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/LZ7W3Yc.png group-title=”Music”,Music India
-
+http://103.175.73.12:8080/live/156/158_0.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/0rFA2Cx.png group-title=”Music”,9XM Music
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/0rFA2Cx.png group-title=”Music”,Mastiii
-
+http://103.175.73.12:8080/live/156/156_0.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/3mkjuTk.png group-title=”Music”,E24
-
+http://103.175.73.12:8080/live/156/159_0.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/wg3N1VT.png group-title=”Music”,8XM
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/wRc0YAb.png group-title=”Music”,Bindass
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/stZqDcA.png group-title=”Movies”,B4U Music
-
+http://103.175.73.12:8080/live/156/157_0.m3u8
 
 
 
@@ -245,13 +248,12 @@ http://tv.dugdugilive.com:8080/0ne$ky23/Dhoom/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 group-title=”Drama”,Star Plus HD
 
-#EXTINF:0 group-title=”Drama”,Sony HD
+#EXTINF:0 group-title=”Drama”,Sony TV
 http://tv.dugdugilive.com:8080/0ne$ky23/SonyTV/tracks-v1a1/mono.m3u8
-
+#EXTINF:0 group-title=”Drama”,Sony HD
+http://103.229.254.25:7001/play/a09u/index.m3u8
 #EXTINF:0 group-title=”Drama”,Sony Pal
 http://103.175.73.12:8080/live/11/11_0.m3u8
-#EXTINF:0 group-title=”Drama”,Sony HD
-
 #EXTINF:0 group-title=”Drama”,Colors
 
 #EXTINF:0 group-title=”Drama”,Colors HD
@@ -265,30 +267,30 @@ http://103.175.73.12:8080/live/11/11_0.m3u8
 
 #EXTINF:0 group-title=”Kids”,Doreamon
 https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
-#EXTINF:-1 tvg-logo=https://i.imgur.com/Qkvo1BH.png group-title=”Kids”,Nick jr
-
-#EXTINF:-1 tvg-logo=https://i.imgur.com/4rEFCPQ.jpg group-title=”Kids”,Sony Yay
-
-#EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png group-title=”Kids”,Discovery Kids
-
-#EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png group-title=”Kids”,Sonic
+#EXTINF:-1 group-title=”Kids”,Nick
+http://103.229.254.25:7001/play/a0cq/index.m3u8
+#EXTINF:-1 group-title=”Kids”,Nick Jr
+http://103.229.254.25:7001/play/a0di/index.m3u8
+#EXTINF:-1 group-title=”Kids”,Sonic
+http://103.229.254.25:7001/play/a0dl/index.m3u8
+#EXTINF:-1 group-title=”Kids”,Sonic
 
 #EXTINF:0 group-title=”Kids”,Disney HD
-
+http://103.175.73.12:8080/live/126/126_0.m3u8
 #EXTINF:0 group-title=”Kids”,Disney
 
 #EXTINF:0 group-title=”Kids”,Disney jr
-
+http://103.175.73.12:8080/live/129/129_0.m3u8
 #EXTINF:0 group-title=”Kids”,Disney
 
-#EXTINF:0 group-title=”Kids”,Hungama
-
+#EXTINF:0 group-title=”Kids”,Super Hungama
+http://103.175.73.12:8080/live/128/128_0.m3u8
 #EXTINF:0 group-title=”Kids”,Cartoon Network
-http://198.195.239.50:8095/CartoonNetwork/index.m3u8
+http://103.229.254.25:7001/play/a0cn/index.m3u8
 #EXTINF:0 group-title=”Kids”,Cartoon Network HD
 
 #EXTINF:0 group-title=”Kids”,Pogo
-
+http://103.229.254.25:7001/play/a0dh/index.m3u8
 
 
 
@@ -303,27 +305,31 @@ http://198.195.239.50:8095/CartoonNetwork/index.m3u8
 
 
 #EXTINF:0 group-title=”Documentary”,Discovery
-http://198.195.239.50:8095/Discovery/index.m3u8
-#EXTINF:0 tvg-logo=https://i.imgur.com/8GG7Ny9.png group-title=”Documentary”,Discovery HD
+http://103.175.73.12:8080/live/136/136_0.m3u8
+#EXTINF:0 group-title=”Documentary”,Discovery HD
 http://103.229.254.25:7001/play/a03g/index.m3u8
-#EXTINF:0 tvg-logo=https://i.imgur.com/m7Cl2M9.png group-title=”Documentary”,Discovery Bangla
+#EXTINF:0 group-title=”Documentary”,Discovery Science
+http://103.229.254.25:7001/play/a03h/index.m3u8
+#EXTINF:-1 group-title="-",Investigation Discovery
+http://103.229.254.25:7001/play/a03c/index.m3u8
+
 
 #EXTINF:0 group-title=”Documentary”,National Geographic HD
-
-#EXTINF:0 group-title=”Documentary”,NatGeo Wild
-
-#EXTINF:0 tvg-logo=https://i.imgur.com/KLBorkM.png group-title=”Documentary”,Travel XP HD
-
+http://103.229.254.25:7001/play/a038/index.m3u8
+#EXTINF:0 group-title=”Documentary”,NatGeo Wild HD
+http://103.175.73.12:8080/live/133/133_0.m3u8
+#EXTINF:0 group-title=”Documentary”,Travel XP HD
+http://103.229.254.25:7001/play/a0cy/index.m3u8
 #EXTINF:0 group-title=”Documentary”,Animal Planet
-http://198.195.239.50:8095/AnimalPlanet/index.m3u8
+http://103.175.73.12:8080/live/137/137_0.m3u8
 #EXTINF:0 group-title=”Documentary”,Animal Planet HD
-
+http://103.229.254.25:7001/play/a0dr/index.m3u8
 #EXTINF:0 group-title=”Documentary”,Sony BBC Earth HD
-
+http://103.229.254.25:7001/play/a031/index.m3u8
 #EXTINF:0 group-title=”Documentary”,Sky Nature 
 
 #EXTINF:0 group-title=”Documentary”,TLC HD
-
+http://103.175.73.12:8080/live/138/138_0.m3u8
 
 
 
@@ -441,26 +447,26 @@ http://103.175.73.12:8080/live/43/43_0.m3u8
 
 
 
-#EXTINF:0 group-title=”Entertainment”,Sony Pix HD
-
+#EXTINF:0 group-title=”Entertainment”,Sony Pix
+http://103.175.73.12:8080/live/59/59_0.m3u8
 #EXTINF:0 group-title=”Movies”,Sony Pix HD
-
+http://103.229.254.25:7001/play/a02u/index.m3u8
 #EXTINF:0 group-title=”Movies”,Zee Cafe HD
 
 #EXTINF:0 group-title=”Movies”,Star Movies HD
-#EXTINF:-1 group-title="-",STAR Movies HD - Rs 19.00
+#EXTINF:-1 group-title="-",STAR Movies HD
 http://103.229.254.25:7001/play/a02w/index.m3u8
-#EXTINF:-1 group-title="-",STAR Movies Select HD - Rs 19.00
+#EXTINF:-1 group-title="-",STAR Movies Select HD
 http://103.229.254.25:7001/play/a02v/index.m3u8
 
-#EXTINF:0 group-title=”Movies”,Star Movies Select HD
-
+#EXTINF:0 group-title=”Movies”,Movies Now
+http://103.175.73.12:8080/live/61/61_0.m3u8
 #EXTINF:0 group-title=”Movies”,Romedy Now
-
+http://103.175.73.12:8080/live/63/63_0.m3u8
 #EXTINF:0 group-title=”Movies”, Hollywood HD
 
-#EXTINF:0 group-title=”Movies”,MNX HD
-
+#EXTINF:0 group-title=”Movies”,MNX 
+http://103.175.73.12:8080/live/62/62_0.m3u8
 #EXTINF:0 group-title=”Movies”,HBO
 
 #EXTINF:0 group-title=”Movies”,Lotus Macau
@@ -517,27 +523,27 @@ http://103.229.254.25:7001/play/a0ea/index.m3u8
 
 #EXTINF:0 group-title="TATA SKY",Sony SIX
 http://tv.dugdugilive.com:8080/0ne$ky23/sonysix/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony Sports 1
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony Sports 1 HD
+http://103.175.73.12:8080/live/74/74_0.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony Sports 2 HD
+http://103.229.254.25:7001/play/a0ef/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony Sports 3 HD
+http://103.175.73.12:8080/live/78/78_0.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony Sports 5 HD
+http://103.229.254.25:7001/play/a0dw/index.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony Sports 2
-http://tv.dugdugilive.com:8080/0ne$ky23/sonyten2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony Sports 3
-http://tv.dugdugilive.com:8080/0ne$ky23/sonyten3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony Sports 5
-
-
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports 1
-http://tv.dugdugilive.com:8080/0ne$ky23/StarSports22/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports 2
-
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports 1 HD
+http://103.229.254.25:7001/play/a0a0/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports 2 HD
+http://103.175.73.12:8080/live/67/67_0.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports 3
-
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports SELECT 1
-
-#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports SELECT 2
-
-#EXTINF:0 group-title=”Sports”,Super Sports
-
+http://103.175.73.12:8080/live/69/69_0.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports SELECT 1 HD
+http://103.229.254.25:7001/play/a0bz/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Star Sports SELECT 2 HD
+http://103.229.254.25:7001/play/a0c1/index.m3u8
+#EXTINF:0 group-title=”Sports”,Eurosport HD
+http://103.229.254.25:7001/play/a03b/index.m3u8
 #EXTINF:0 group-title=”Sports”,Ten Sports 
 
 #EXTINF:0 group-title=”Sports”,PTV Sports
