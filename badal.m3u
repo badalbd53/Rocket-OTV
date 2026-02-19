@@ -235,7 +235,7 @@ http://tv.dugdugilive.com:8080/0ne$ky23/jalshamovies/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title=”Drama”,Sony AATH
 http://tv.dugdugilive.com:8080/0ne$ky23/Dhoom/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title=”Drama”,Sony AATH
-
+http://103.175.73.12:8080/live/196/196_0.m3u8
 
 
 
@@ -345,16 +345,18 @@ http://103.175.73.12:8080/live/138/138_0.m3u8
 
 #EXTINF:0 group-title=”Movies”,Zee Cinema
 
+#EXTINF:0 group-title=”Movies”,Zee Cinema
+http://103.175.73.12:8080/live/265/265_0.m3u8
 #EXTINF:0 group-title=”Movies”,Zee Cinema HD
-http://tv.dugdugilive.com:8080/0ne$ky23/ZeeCinema/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title=”Movies”,Zee Cinema HD
-
+http://103.229.254.25:7001/play/a0c2/index.m3u8
 #EXTINF:0 group-title=”Movies”,Sony Set Max
 
 #EXTINF:0 group-title=”Movies”,Sony Max
 http://103.229.254.25:7001/play/a0co/index.m3u8
 #EXTINF:0 group-title=”Movies”,Sony Max HD
 http://tv.dugdugilive.com:8080/0ne$ky23/SonyMax/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title=”Movies”,Sony Max 1
+http://103.175.73.12:8080/live/164/164_0.m3u8
 #EXTINF:0 group-title=”Movies”,Sony Max 2
 http://103.175.73.12:8080/live/39/39_0.m3u8
 #EXTINF:0 group-title=”Movies”,Sony Wah
@@ -373,8 +375,8 @@ http://103.175.73.12:8080/live/37/37_0.m3u8
 
 #EXTINF:0 group-title=”Movies”,Zee Action
 
-#EXTINF:0 group-title=”Movies”,Zee Anmol Cinema
-
+#EXTINF:0 group-title=”Movies”,Zee Anmol Cinema 2
+http://103.175.73.12:8080/live/257/257_0.m3u8
 #EXTINF:0 group-title=”Movies”,Zee Classic
 
 #EXTINF:0 group-title=”Movies”,Star Gold Select HD
@@ -452,7 +454,7 @@ http://103.175.73.12:8080/live/59/59_0.m3u8
 #EXTINF:0 group-title=”Movies”,Sony Pix HD
 http://103.229.254.25:7001/play/a02u/index.m3u8
 #EXTINF:0 group-title=”Movies”,Zee Cafe HD
-
+http://103.229.254.25:7001/play/a0cx/index.m3u8
 #EXTINF:0 group-title=”Movies”,Star Movies HD
 #EXTINF:-1 group-title="-",STAR Movies HD
 http://103.229.254.25:7001/play/a02w/index.m3u8
