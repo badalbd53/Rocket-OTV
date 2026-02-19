@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-logo=https://i.imgur.com/H9qgGSc.png group-title=”Bangla”,BTV News
-http://tv.dugdugilive.com:8080/0ne$ky23/BTV/tracks-v1a1/index.m3u8
+http://103.229.254.25:7001/play/a065/index.m3u8
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/RR0Iv6V.png group-title=”Bangla”,BTV World
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
@@ -60,8 +60,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/ds3aThu.jpg group-title=”Bangla”,Jamuna YT
 
-#EXTINF:0 group-title=”Bangla”,Nagorok TV
-http://198.195.239.50:8095/nagorik/index.m3u8
+#EXTINF:0 group-title=”Bangla”,Nagorik TV
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
@@ -132,13 +132,13 @@ http://tv.dugdugilive.com:8080/0ne$ky23/EkusheyTV/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/3usnOla.png group-title=”Bangla”,NTV
 http://tv.dugdugilive.com:8080/0ne$ky23/NTV/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/2cpHJKq.png group-title=”Bangla”,Nagorik TV
-
+http://103.229.254.25:7001/play/a06q/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/yi5p51T.png group-title=”Bangla”,RTV
 http://103.229.254.25:7001/play/a068/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/fraEjzm.png group-title=”Bangla”,SA TV HD
 http://103.229.254.25:7001/play/a062/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/K43LsMQ.png group-title=”Bangla”,Bangla TV HD
-http://tv.dugdugilive.com:8080/0ne$ky23/BanglaTV/tracks-v1a1/mono.m3u8
+http://103.229.254.25:7001/play/a06c/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/kDmkexe.png group-title=”Bangla”,Bijoy Tv
 http://103.229.254.25:7001/play/a066/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/bahWhBG.png group-title=”Bangla”,MyTV
@@ -555,7 +555,7 @@ http://103.229.254.25:7001/play/a0ex/index.m3u8
 
 
 #EXTINF:0 group-title="TATA SKY",Sony SIX
-http://tv.dugdugilive.com:8080/0ne$ky23/sonysix/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony Sports 1 HD
 http://103.175.73.12:8080/live/74/74_0.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TATA SKY",Sony Sports 2 HD
