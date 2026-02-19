@@ -209,17 +209,17 @@ http://103.229.254.25:7001/play/a075/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/9d1xXjN.png group-title=”Drama”,Star Jalsha HD
 http://103.229.254.25:7001/play/a0c0/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/e5Ldh7e.png group-title=”Drama”,Zee Bangla
-
+http://103.175.73.12:8080/live/246/246_0.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/e5Ldh7e.png group-title=”Drama”,Zee Bangla HD
 http://103.229.254.25:7001/play/a0c3/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/e5Ldh7e.png group-title=”Drama”,Akash AATH
-
+http://103.175.73.12:8080/live/660/660_0.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/PW9hRDa.png group-title=”Drama”,Sun Bangla
 http://103.229.254.25:7001/play/a0cw/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/HVZHZGl.png group-title=”Drama”,Colors Bangla HD
 http://tv.dugdugilive.com:8080/0ne$ky23/colors-bangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="-",Enterr10 Bangla
-http://103.229.254.25:7001/play/a080/index.m3u8
+http://103.175.73.12:8080/live/658/658_0.m3u8
 
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/2PQfcOh.png group-title=”Movies”,Sony Cinema
@@ -233,7 +233,7 @@ http://tv.dugdugilive.com:8080/0ne$ky23/jalshamovies/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title=”Movies”,Enterr10 Bangla
 
 #EXTINF:0 group-title=”Drama”,Sony AATH
-http://tv.dugdugilive.com:8080/0ne$ky23/Dhoom/tracks-v1a1/mono.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/Dhoom/index.m3u8
 #EXTINF:0 group-title=”Drama”,Sony AATH
 http://103.175.73.12:8080/live/196/196_0.m3u8
 
@@ -254,8 +254,8 @@ http://tv.dugdugilive.com:8080/0ne$ky23/SonyTV/tracks-v1a1/mono.m3u8
 http://103.229.254.25:7001/play/a09u/index.m3u8
 #EXTINF:0 group-title=”Drama”,Sony Pal
 http://103.175.73.12:8080/live/11/11_0.m3u8
-#EXTINF:0 group-title=”Drama”,Colors
-
+#EXTINF:0 group-title=”Drama”,Shemaroo
+http://103.175.73.12:8080/live/258/258_0.m3u8
 #EXTINF:0 group-title=”Drama”,Colors HD
 
 
@@ -275,14 +275,16 @@ http://103.229.254.25:7001/play/a0di/index.m3u8
 http://103.229.254.25:7001/play/a0dl/index.m3u8
 #EXTINF:-1 group-title=”Kids”,Sonic
 
+#EXTINF:0 group-title=”Kids”,Disney
+http://103.175.73.12:8080/live/321/321_0.m3u8
 #EXTINF:0 group-title=”Kids”,Disney HD
 http://103.175.73.12:8080/live/126/126_0.m3u8
-#EXTINF:0 group-title=”Kids”,Disney
-
 #EXTINF:0 group-title=”Kids”,Disney jr
 http://103.175.73.12:8080/live/129/129_0.m3u8
 #EXTINF:0 group-title=”Kids”,Disney
 
+#EXTINF:0 group-title=”Kids”,Hungama
+http://103.175.73.12:8080/live/320/320_0.m3u8
 #EXTINF:0 group-title=”Kids”,Super Hungama
 http://103.175.73.12:8080/live/128/128_0.m3u8
 #EXTINF:0 group-title=”Kids”,Cartoon Network
@@ -330,6 +332,9 @@ http://103.229.254.25:7001/play/a031/index.m3u8
 
 #EXTINF:0 group-title=”Documentary”,TLC HD
 http://103.175.73.12:8080/live/138/138_0.m3u8
+#EXTINF:-1 group-title="-",History TV18 HD
+http://103.229.254.25:7001/play/a02z/index.m3u8
+
 
 
 
@@ -345,10 +350,7 @@ http://103.175.73.12:8080/live/138/138_0.m3u8
 
 #EXTINF:0 group-title=”Movies”,Zee Cinema
 
-#EXTINF:0 group-title=”Movies”,Zee Cinema
-http://103.175.73.12:8080/live/265/265_0.m3u8
-#EXTINF:0 group-title=”Movies”,Zee Cinema HD
-http://103.229.254.25:7001/play/a0c2/index.m3u8
+
 #EXTINF:0 group-title=”Movies”,Sony Set Max
 
 #EXTINF:0 group-title=”Movies”,Sony Max
@@ -362,24 +364,41 @@ http://103.175.73.12:8080/live/39/39_0.m3u8
 #EXTINF:0 group-title=”Movies”,Sony Wah
 http://103.175.73.12:8080/live/38/38_0.m3u8
 #EXTINF:0 group-title=”Movies”,& Picture
-
-#EXTINF:0 group-title=”Movies”,& Picture HD
 http://tv.dugdugilive.com:8080/0ne$ky23/AndPictures/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo=https://i.imgur.com/chHDUsi.png group-title=”Movies”,ZING
+#EXTINF:0 group-title=”Movies”,& Picture HD
+http://103.229.254.25:7001/play/a033/index.m3u8
+#EXTINF:-1 group-title="-",&Prive HD
+http://103.229.254.25:7001/play/a03f/index.m3u8
+#EXTINF:-1 group-title="-",&flix HD
+http://103.229.254.25:7001/play/a02x/index.m3u8
+
 
 #EXTINF:0 group-title=”Movies”,Colors Cineplex Superhits
 http://103.175.73.12:8080/live/14/14_0.m3u8
+#EXTINF:0 group-title=”Movies”,Colors Cineplex Bollywood
+http://103.175.73.12:8080/live/437/437_0.m3u8
 #EXTINF:0 group-title=”Movies”,Colors Cineplex HD
 http://103.175.73.12:8080/live/37/37_0.m3u8
 #EXTINF:0 group-title=”Movies”,Rishtey Cineplex HD
-
-#EXTINF:0 group-title=”Movies”,Zee Action
-
+#EXTINF:0 group-title=”Movies”,Zee Cinema
+http://103.175.73.12:8080/live/265/265_0.m3u8
+#EXTINF:0 group-title=”Movies”,Zee Cinema
+http://103.229.254.25:7001/play/a06s/index.m3u8
+#EXTINF:0 group-title=”Movies”,Zee Cinema HD
+http://103.229.254.25:7001/play/a0c2/index.m3u8
+#EXTINF:0 group-title=”Movies”,Zee Anmol Cinema
+http://103.229.254.25:7001/play/a035/index.m3u8
 #EXTINF:0 group-title=”Movies”,Zee Anmol Cinema 2
 http://103.175.73.12:8080/live/257/257_0.m3u8
-#EXTINF:0 group-title=”Movies”,Zee Classic
+#EXTINF:0 group-title=”Movies”,Zee Action
+http://103.175.73.12:8080/live/270/270_0.m3u8
+#EXTINF:0 group-title=”Movies”,Zee Bollywood
+http://103.229.254.25:7001/play/a033/index.m3u8
+#EXTINF:-1 group-title="-",Zee Cafe HD
+http://103.229.254.25:7001/play/a0cx/index.m3u8
+#EXTINF:-1 group-title="-",Zee Classic
+http://103.229.254.25:7001/play/a09w/index.m3u8
 
-#EXTINF:0 group-title=”Movies”,Star Gold Select HD
 
 #EXTINF:0 group-title=”Movies”,Star Gold
 http://103.175.73.12:8080/live/31/31_0.m3u8
@@ -414,10 +433,12 @@ http://103.229.254.25:7001/play/a07l/index.m3u8
 http://103.229.254.25:7001/play/a07k/index.m3u8
 #EXTINF:-1 group-title="LTWS HINDI MOVIES",Goldmines 2
 http://103.175.73.12:8080/live/46/46_0.m3u8
+
+
 #EXTINF:-1 group-title="LTWS HINDI MOVIES",B4U KADAK
 http://103.229.254.25:7001/play/a08c/index.m3u8
-#EXTINF:-1 group-title="LTWS HINDI MOVIES",B4U HITZ
-
+#EXTINF:-1 group-title="LTWS HINDI MOVIES",Bollywood Action
+http://103.229.254.25:7001/play/a0es/index.m3u8
 #EXTINF:-1 group-title="LTWS HINDI MOVIES",DHAMAKA MOVIES
 
 #EXTINF:-1 group-title="LTWS HINDI MOVIES",B4U MOVIES
@@ -475,6 +496,8 @@ http://103.175.73.12:8080/live/62/62_0.m3u8
 
 #EXTINF:0 group-title=”Movies”,AXN
 
+#EXTINF:-1 group-title="-",MAX Movies
+http://103.229.254.25:7001/play/a0et/index.m3u8
 
 
 
@@ -488,6 +511,8 @@ http://103.175.73.12:8080/live/62/62_0.m3u8
 
 #EXTINF:0 group-title=”Sports”,Fox Sports 505
 
+#EXTINF:-1 group-title="-",A SportsHD
+http://103.229.254.25:7001/play/a087/index.m3u8
 #EXTINF:0 group-title=”Sports”,Fox Sports 501
 
 #EXTINF:0 group-title=”Sports”,Willow Xtra
@@ -521,6 +546,12 @@ http://103.175.73.12:8080/live/62/62_0.m3u8
 http://103.229.254.25:7001/play/a0f0/index.m3u8
 #EXTINF:-1 group-title="-",Bein Sport 2
 http://103.229.254.25:7001/play/a0ea/index.m3u8
+#EXTINF:-1 group-title="-",Ten Cricket
+http://103.229.254.25:7001/play/a0ep/index.m3u8
+#EXTINF:-1 group-title="-",ThePapare 1
+http://103.229.254.25:7001/play/a0ew/index.m3u8
+#EXTINF:-1 group-title="-",ThePapare 2
+http://103.229.254.25:7001/play/a0ex/index.m3u8
 
 
 #EXTINF:0 group-title="TATA SKY",Sony SIX
@@ -579,8 +610,6 @@ http://tv.dugdugilive.com:8080/0ne$ky23/PTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="LTWS SPORTS",Redbull TV
 
 
-#EXTINF:-1 group-title="LTWS SPORTS",Movie
 
-#EXTINF:-1 group-title="LTWS SPORTS",Movie
 
-#EXTINF:-1 group-title="LTWS SPORTS",Movie
+
