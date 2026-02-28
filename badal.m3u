@@ -47,7 +47,7 @@ http://tv.dugdugilive.com:8080/0ne$ky23/LiveSP/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv HD
 http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv
-https://tvsen3.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/index.m3u8
+http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
 http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
@@ -290,7 +290,7 @@ http://103.175.73.12:8080/live/128/128_0.m3u8
 #EXTINF:0 group-title=”Kids”,Cartoon Network
 http://103.229.254.25:7001/play/a0cn/index.m3u8
 #EXTINF:0 group-title=”Kids”,Cartoon Network HD
-
+https://s3.ideationtec.live/Cartoon_Network/Cartoon_Network.m3u8
 #EXTINF:0 group-title=”Kids”,Pogo
 http://103.229.254.25:7001/play/a0dh/index.m3u8
 
