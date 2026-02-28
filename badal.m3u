@@ -265,8 +265,7 @@ http://103.175.73.12:8080/live/258/258_0.m3u8
 
 
 
-#EXTINF:0 group-title=”Kids”,Doreamon
-https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
+
 #EXTINF:-1 group-title=”Kids”,Nick
 http://103.229.254.25:7001/play/a0cq/index.m3u8
 #EXTINF:-1 group-title=”Kids”,Nick Jr
@@ -275,6 +274,8 @@ http://103.229.254.25:7001/play/a0di/index.m3u8
 http://103.229.254.25:7001/play/a0dl/index.m3u8
 #EXTINF:-1 group-title=”Kids”,Sonic
 
+#EXTINF:0 group-title=”Kids”,Doreamon
+https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
 #EXTINF:0 group-title=”Kids”,Disney
 http://103.175.73.12:8080/live/321/321_0.m3u8
 #EXTINF:0 group-title=”Kids”,Disney HD
@@ -608,7 +609,7 @@ http://tv.dugdugilive.com:8080/0ne$ky23/PTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="LTWS SPORTS",TNT SPORTS 2
 
 #EXTINF:-1 group-title="LTWS SPORTS",Redbull TV
-
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 
 
