@@ -101,6 +101,8 @@ http://tv.dugdugilive.com:8080/0ne$ky23/ATN-News/tracks-v1a1/mono.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/i8T9qQs.png group-title=”News”,Ekhon TV
 http://103.229.254.25:7001/play/a09k/index.m3u8
+#EXTINF:0 group-title=”News”,Star News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1773159606/ei/VvCvabunNYOH0_wPyc72mA8/ip/202.37.40.109/id/Q_1C4FSNz_g.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AVNa5-xB6sjaCRN1VhBQD-nIoaoQgf_t9R3p6JozkgeZcbSDs63r0wwpXvQF9u4Wi0mNcxvHJjI4Jql3/spc/6dlaFAHEGt8O5C61DzsKN45FZXF_TZIwttiG4xPz4A98T0dTF2wMExRUY5o11gVOCbqfbQ/vprv/1/go/1/ns/yxE0HQoRf_E9VrIKU-xr6RIT/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565682%2C51791334/dover/11/n/6T_6A0UoH4eT6yRR/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIhAJ6buzrsQGu_IVf7sdQOFhva1Cy8cvIv4xmVBVGwREuCAiAW2mcF56l6g3Z1S40s_KvkaX4_VqZw4l4wBXkAUeIKew%3D%3D/file/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/kviJN1i.png group-title=”News”,Independent TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/Z2QvpTn.png group-title=”News”,Somoy News
