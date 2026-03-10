@@ -274,6 +274,8 @@ http://103.229.254.25:7001/play/a0di/index.m3u8
 http://103.229.254.25:7001/play/a0dl/index.m3u8
 #EXTINF:-1 group-title=”Kids”,Sonic
 
+#EXTINF:-1 group-title="Kids",Tom & Jarry
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:0 group-title=”Kids”,Doreamon
 https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
 #EXTINF:0 group-title=”Kids”,Disney
