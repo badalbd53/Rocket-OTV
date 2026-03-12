@@ -280,10 +280,12 @@ http://103.229.254.25:7001/play/a0dl/index.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:0 group-title=”Kids”,Doreamon
 https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
+#EXTINF:0 group-title=”Kids”,Doreamon
+https://premimum.online:443/live/Jen12345/Jen54321/147746.m3u8
 #EXTINF:0 group-title=”Kids”,Disney
-
+https://premimum.online:443/live/Jen12345/Jen54321/19832.m3u8
 #EXTINF:0 group-title=”Kids”,Disney HD
-
+https://premimum.online:443/live/Jen12345/Jen54321/19741.m3u8
 #EXTINF:0 group-title=”Kids”,Disney jr
 
 #EXTINF:0 group-title=”Kids”,Disney
@@ -476,7 +478,7 @@ http://103.175.73.12:8080/live/43/43_0.m3u8
 
 
 #EXTINF:0 group-title=”Entertainment”,Sony Pix
-http://103.175.73.12:8080/live/59/59_0.m3u8
+
 #EXTINF:0 group-title=”Movies”,Sony Pix HD
 http://103.229.254.25:7001/play/a02u/index.m3u8
 #EXTINF:0 group-title=”Movies”,Zee Cafe HD
@@ -488,13 +490,13 @@ http://103.229.254.25:7001/play/a02w/index.m3u8
 http://103.229.254.25:7001/play/a02v/index.m3u8
 
 #EXTINF:0 group-title=”Movies”,Movies Now
-http://103.175.73.12:8080/live/61/61_0.m3u8
+
 #EXTINF:0 group-title=”Movies”,Romedy Now
-http://103.175.73.12:8080/live/63/63_0.m3u8
+
 #EXTINF:0 group-title=”Movies”, Hollywood HD
 
 #EXTINF:0 group-title=”Movies”,MNX 
-http://103.175.73.12:8080/live/62/62_0.m3u8
+
 #EXTINF:0 group-title=”Movies”,HBO
 
 #EXTINF:0 group-title=”Movies”,Lotus Macau
