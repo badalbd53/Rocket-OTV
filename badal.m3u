@@ -102,7 +102,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/i8T9qQs.png group-title=”News”,Ekhon TV
 http://103.229.254.25:7001/play/a09k/index.m3u8
 #EXTINF:0 group-title=”News”,Star News
-
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/kviJN1i.png group-title=”News”,Independent TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/Z2QvpTn.png group-title=”News”,Somoy News
@@ -617,7 +617,38 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="258468998307" tvg-name="Euro Sport HD" tvg-logo="https://images.toffeelive.com/images/program/4388/logo/240x240/mobile_logo_422191001674119624.png" group-title="Toffee Live",Euro Sport HD
+https://sm-monirul.top/Toffee/live.php?id=258468998307&e=.m3u8
+#EXTINF:-1 tvg-id="b18613696a70" tvg-name="ICC Test Championship Highlights" tvg-logo="https://assets-prod.services.toffeelive.com/f_webp,w_400,q_100/PnZefJcBcqxnFHJBoxca/posters/955ae898-8336-4936-8d78-c6b8866e35f7.png" group-title="Toffee Live",ICC Test Championship Highlights
+https://sm-monirul.top/Toffee/live.php?id=b18613696a70&e=.m3u8
+#EXTINF:-1 tvg-id="43dcec1011e7" tvg-name="SONY SPORTS TEN 1 HD" tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Toffee Live",SONY SPORTS TEN 1 HD
+https://sm-monirul.top/Toffee/live.php?id=43dcec1011e7&e=.m3u8
+#EXTINF:-1 tvg-id="abc6677968ef" tvg-name="SONY SPORTS TEN 2 HD" tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="Toffee Live",SONY SPORTS TEN 2 HD
+https://sm-monirul.top/Toffee/live.php?id=abc6677968ef&e=.m3u8
+#EXTINF:-1 tvg-id="fd6de8bd1666" tvg-name="SONY SPORTS TEN 5 HD" tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="Toffee Live",SONY SPORTS TEN 5 HD
+https://sm-monirul.top/Toffee/live.php?id=fd6de8bd1666&e=.m3u8
+#EXTINF:-1 tvg-id="f76c7eb00da0" tvg-name="SONY TEN Cricket" tvg-logo="https://images.toffeelive.com/images/program/301891/logo/240x240/mobile_logo_578686001735197654.png" group-title="Toffee Live",SONY TEN Cricket
+https://sm-monirul.top/Toffee/live.php?id=f76c7eb00da0&e=.m3u8
+#EXTINF:-1 tvg-id="bf1aced37e2b" tvg-name="EPL channel 1" tvg-logo="https://assets-prod.services.toffeelive.com/w_256,q_75,f_webp/JS1AqZgBNnOkwJLWlwg-/posters/08617b27-2af1-4035-bcc3-d054ce42ca4b.png" group-title="Toffee Live",EPL channel 1
+https://sm-monirul.top/Toffee/live.php?id=bf1aced37e2b&e=.m3u8
+#EXTINF:-1 tvg-id="5780f0b94094" tvg-name="EPL channel 2" tvg-logo="https://assets-prod.services.toffeelive.com/w_256,q_75,f_webp/Mi1QqZgBNnOkwJLWxggo/posters/3e9d4d0a-a346-4b39-92b5-13e9238ad240.png" group-title="Toffee Live",EPL channel 2
+https://sm-monirul.top/Toffee/live.php?id=5780f0b94094&e=.m3u8
+#EXTINF:-1 tvg-id="53d12ffe3d30" tvg-name="EPL channel 3" tvg-logo="https://assets-prod.services.toffeelive.com/w_256,q_75,f_webp/Pi1TqZgBNnOkwJLWVggf/posters/d0bb78b5-4690-4c12-9c7b-e785eb8d7336.png" group-title="Toffee Live",EPL channel 3
+https://sm-monirul.top/Toffee/live.php?id=53d12ffe3d30&e=.m3u8
+#EXTINF:-1 tvg-id="fe297e9de93c" tvg-name="EPL channel 4" tvg-logo="https://assets-prod.services.toffeelive.com/w_256,q_75,f_webp/OyEz-ZgBEef-9-uVnhcx/posters/f2143475-cf44-441a-b55d-58b2b5569aa5.png" group-title="Toffee Live",EPL channel 4
+https://sm-monirul.top/Toffee/live.php?id=fe297e9de93c&e=.m3u8
+#EXTINF:-1 tvg-id="f5807afe716a" tvg-name="EPL channel 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJluFppSx7qkGdkjkiIQ5QyxlqJ9zeWszpJUQibhrbSw&s=10" group-title="Toffee Live",EPL channel 5
+https://sm-monirul.top/Toffee/live.php?id=f5807afe716a&e=.m3u8
+#EXTINF:-1 tvg-id="5865ee89896f" tvg-name="EPL channel 6" tvg-logo="https://assets-prod.services.toffeelive.com/w_640,q_75,f_webp/6y_b4poBNnOkwJLWmn7X/posters/c1440521-da52-4cf7-b137-dd38d1de083a.png" group-title="Toffee Live",EPL channel 6
+https://sm-monirul.top/Toffee/live.php?id=5865ee89896f&e=.m3u8
+#EXTINF:-1 tvg-id="e755e721e480" tvg-name="BFL Live 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl6-ZPZ6UT3YhXilJF9fxtHzCqIt6mD71Dmg2_D-ZUsg&s=10" group-title="Toffee Live",BFL Live 1
+https://sm-monirul.top/Toffee/live.php?id=e755e721e480&e=.m3u8
+#EXTINF:-1 tvg-id="e858a1615d51" tvg-name="BFL Live 2" tvg-logo="https://assets-prod.services.toffeelive.com//MXnGgJkBcqxnFHJBILyR/posters/035a24dd-4d88-4fc2-99a1-275a5bc97bf5.png" group-title="Toffee Live",BFL Live 2
+https://sm-monirul.top/Toffee/live.php?id=e858a1615d51&e=.m3u8
+#EXTINF:-1 tvg-id="becf4a0f044e" tvg-name="BFL Live 3" tvg-logo="https://assets-prod.services.toffeelive.com//LnlKhJkBcqxnFHJBU8GM/posters/74e6a7bb-f850-4ec5-991f-7a882b04db37.png" group-title="Toffee Live",BFL Live 3
+https://sm-monirul.top/Toffee/live.php?id=becf4a0f044e&e=.m3u8
+#EXTINF:-1 tvg-id="ea6b05b5caa3" tvg-name="BFL Live 4" tvg-logo="https://assets-prod.services.toffeelive.com//Ey9jtJoBNnOkwJLWw06R/posters/4e83252b-223d-42a6-a56b-8598aa17e2e8.png" group-title="Toffee Live",BFL Live 4
+https://sm-monirul.top/Toffee/live.php?id=ea6b05b5caa3&e=.m3u8
 #EXTINF:-1 tvg-id="fc95d30e-5323-4c12-bb38-7a1e3f04acc2" tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="Sports",T Sports HD
 http://sm-monirul.top/AyNa/play.php?id=fc95d30e-5323-4c12-bb38-7a1e3f04acc2&e=.m3u8
 #EXTINF:-1 tvg-id="eacf6c3f-0773-4bc3-a03a-cfee09f10348" tvg-logo="https://s3.aynaott.com/storage/9d9d7cbfba5a8ceea648bbd963ad1014" group-title="Sports",PTV Sports
