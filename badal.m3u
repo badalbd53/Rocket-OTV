@@ -10,8 +10,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
 #EXTINF:0 tvg-logo=https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg group-title=”Bangla”,Songsad TV
 http://103.229.254.25:7001/play/a069/index.m3u8
-#EXTINF:0 tvg-logo=https://i.imgur.com/ESWXan9.png group-title=”Islamic”,ATN Islamic TV
-
+#EXTINF:0 group-title=”Islamic”,Islamic TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 #EXTINF:-1 group-title="JAGOBD  CHANNELS" tvg-logo="https://i.postimg.cc/j2d5bG7T/download-11.png",Al Sunnah Al Nabawiyah TV 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TPdPzcn/IMG-20240126-102629.jpg"group-title="JAGOBD  CHANNELS",ATN Islamic TV 
@@ -99,7 +99,7 @@ http://103.229.254.25:7001/play/a05m/index.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/ATN-News/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/i8T9qQs.png group-title=”News”,Ekattor TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
-#EXTINF:0 tvg-logo=https://i.imgur.com/i8T9qQs.png group-title=”News”,Ekhon TV
+#EXTINF:0 group-title=”News”,Ekhon TV
 http://103.229.254.25:7001/play/a09k/index.m3u8
 #EXTINF:0 group-title=”News”,Star News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
@@ -110,7 +110,7 @@ http://103.229.254.25:7001/play/a05l/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/FxsW4XI.png group-title=”News”,News 24
 http://103.229.254.25:7001/play/a06i/index.m3u8
 #EXTINF:0 group-title=”Bangla”,DBC News
-http://103.229.254.25:7001/play/a05x/index.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/MmhxR5E.png group-title=”Bangla”,Channel 24
 http://tv.dugdugilive.com:8080/0ne$ky23/Channel24/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title=”Bangla”,Ekhon Tv
@@ -326,7 +326,7 @@ http://103.229.254.25:7001/play/a03c/index.m3u8
 #EXTINF:0 group-title=”Documentary”,National Geographic HD
 http://103.229.254.25:7001/play/a038/index.m3u8
 #EXTINF:0 group-title=”Documentary”,NatGeo Wild HD
-
+https://premimum.online:443/live/Jen12345/Jen54321/7344.ts
 #EXTINF:0 group-title=”Documentary”,Travel XP HD
 http://103.229.254.25:7001/play/a0cy/index.m3u8
 #EXTINF:0 group-title=”Documentary”,Animal Planet
@@ -381,12 +381,13 @@ http://103.229.254.25:7001/play/a02x/index.m3u8
 
 
 #EXTINF:0 group-title=”Movies”,Colors Cineplex Superhits
-
+https://premimum.online:443/live/Jen12345/Jen54321/172368.ts
 #EXTINF:0 group-title=”Movies”,Colors Cineplex Bollywood
-
+https://premimum.online:443/live/Jen12345/Jen54321/37074.ts
 #EXTINF:0 group-title=”Movies”,Colors Cineplex HD
-
+https://premimum.online:443/live/Jen12345/Jen54321/9378.ts
 #EXTINF:0 group-title=”Movies”,Rishtey Cineplex HD
+
 #EXTINF:0 group-title=”Movies”,Zee Cinema
 
 #EXTINF:0 group-title=”Movies”,Zee Cinema
