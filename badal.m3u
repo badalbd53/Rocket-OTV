@@ -295,11 +295,13 @@ https://premimum.online:443/live/Jen12345/Jen54321/19741.ts
 #EXTINF:0 group-title=”Kids”,Super Hungama
 
 #EXTINF:0 group-title=”Kids”,Cartoon Network
-http://103.229.254.25:7001/play/a0cn/index.m3u8
-#EXTINF:0 group-title=”Kids”,Cartoon Network HD
+https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTMvY2FydG9vbi1uZXR3b3Jr&name=Cartoon+Network&format=.m3u8
+#EXTINF:0 group-title=”Kids”,Cartoon Network
 https://s3.ideationtec.live/Cartoon_Network/Cartoon_Network.m3u8
+#EXTINF:0 group-title=”Kids”,Cartoon Network HD
+https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTMvY2FydG9vbi1uZXR3b3JrLWhk&name=Cartoon+Network+HD&format=.m3u8
 #EXTINF:0 group-title=”Kids”,Pogo
-http://103.229.254.25:7001/play/a0dh/index.m3u8
+https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTMvcG9nbw%3D%3D&name=POGO&format=.m3u8
 
 
 
@@ -611,9 +613,18 @@ http://tv.dugdugilive.com:8080/0ne$ky23/PTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="LTWS SPORTS",TSN 3
 
-#EXTINF:-1 group-title="LTWS SPORTS",TNT SPORTS 1
+#EXTINF:-1 group-title="LTWS SPORTS",Sky Sports Football
+https://premimum.online:443/live/Jen12345/Jen54321/23334.ts
+#EXTINF:-1 group-title="LTWS SPORTS",SUPERSPORTS LALIGA HD
+https://premimum.online:443/live/Jen12345/Jen54321/515.ts
+#EXTINF:-1 group-title="LTWS SPORTS",SUPERSPORTS PSL HD
+https://premimum.online:443/live/Jen12345/Jen54321/517.ts
+#EXTINF:-1 group-title="LTWS SPORTS",SUPERSPORTS PREMIER LEAGUE HD
+https://premimum.online:443/live/Jen12345/Jen54321/518.ts
+#EXTINF:-1 group-title="LTWS SPORTS",SUPERSPORTS FOOTBALL HD
+https://premimum.online:443/live/Jen12345/Jen54321/523.ts
 
-#EXTINF:-1 group-title="LTWS SPORTS",TNT SPORTS 2
+
 
 #EXTINF:-1 group-title="LTWS SPORTS",Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
