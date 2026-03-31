@@ -523,17 +523,17 @@ http://103.229.254.25:7001/play/a0et/index.m3u8
 
 #EXTINF:-1 group-title="-",A SportsHD
 http://103.229.254.25:7001/play/a087/index.m3u8
-#EXTINF:0 group-title=”Sports”,Fox Sports 501
-
-#EXTINF:0 group-title=”Sports”,Willow Xtra
-
-#EXTINF:0 group-title=”Sports”,Willow HD
-
+#EXTINF:0 group-title=”Sports”,Cricbuzz
+http://premimum.online:80/live/jen12345/jen54321/2494.ts
+#EXTINF:0 group-title=”Sports”,WillowTV
+http://sm-monirul.top/AyNa/play.php?id=abfabaee-3898-4279-8645-3da5b0232867&e=.m3u8
+#EXTINF:0 group-title=”Sports”,Willow 2
+http://premimum.online:80/live/jen12345/jen54321/5040.ts
 
 #EXTINF:0 group-title=”Sports”,Sky Sports Cricket
-
-#EXTINF:0 group-title=”Sports”,Astro Cricket
-
+http://premimum.online:80/live/jen12345/jen54321/23566.ts
+#EXTINF:0 group-title=”Sports”,Elevensport 1
+http://premimum.online:80/live/jen12345/jen54321/688286.ts
 #EXTINF:0 group-title=”Sports”, Super Cricket 
 
 #EXTINF:0 group-title=”Sports”,Sport 18 HD
@@ -732,7 +732,7 @@ http://sm-monirul.top/AyNa/play.php?id=a57241fe-02b1-4a39-a602-84a57622be6c&e=.m
 #EXTINF:-1 tvg-id="719f4fb9-cc8b-496e-8bf3-a1e5648e2cdb" tvg-logo="https://s3.aynaott.com/storage/04d612228fedede6da010e5b163d5ac6" group-title="Sports",Fox Sports 1
 http://sm-monirul.top/AyNa/play.php?id=719f4fb9-cc8b-496e-8bf3-a1e5648e2cdb&e=.m3u8
 #EXTINF:-1 tvg-id="576e5655-01d2-442f-b311-7c826d48fb7d" tvg-logo="https://s3.aynaott.com/storage/59fe7ff434fed04ecec29b4d737ebc95" group-title="Sports",TSN 1
-http://sm-monirul.top/AyNa/play.php?id=576e5655-01d2-442f-b311-7c826d48fb7d&e=.m3u8
+http://sm-monirul.top/A8yNa/play.php?id=576e5655-01d2-442f-b311-7c826d48fb7d&e=.m3u8
 #EXTINF:-1 tvg-id="9d3a1097-c171-4aee-99ad-e76c0c4a4c75" tvg-logo="https://s3.aynaott.com/storage/1cb10107a47db353e35ad78d3160eda7" group-title="Sports",TSN 3
 http://sm-monirul.top/AyNa/play.php?id=9d3a1097-c171-4aee-99ad-e76c0c4a4c75&e=.m3u8
 #EXTINF:-1 tvg-id="3b238911-d385-406a-b936-07550f30a4f3" tvg-logo="https://s3.aynaott.com/storage/188500190395c4de0e506d518925dcc4" group-title="Sports",DD Sports
