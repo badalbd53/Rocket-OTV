@@ -525,7 +525,7 @@ http://103.229.254.25:7001/play/a0et/index.m3u8
 http://103.229.254.25:7001/play/a087/index.m3u8
 #EXTINF:0 group-title=”Sports”,Cricbuzz
 http://premimum.online:80/live/jen12345/jen54321/2494.ts
-#EXTINF:0 group-title=”Sports”,WillowTV
+#EXTINF:0 group-title=”Sports”,Willow
 http://sm-monirul.top/AyNa/play.php?id=abfabaee-3898-4279-8645-3da5b0232867&e=.m3u8
 #EXTINF:0 group-title=”Sports”,Willow 2
 http://premimum.online:80/live/jen12345/jen54321/5040.ts
@@ -534,15 +534,15 @@ http://premimum.online:80/live/jen12345/jen54321/5040.ts
 http://premimum.online:80/live/jen12345/jen54321/23566.ts
 #EXTINF:0 group-title=”Sports”,Elevensport 1
 http://premimum.online:80/live/jen12345/jen54321/688286.ts
-#EXTINF:0 group-title=”Sports”, Super Cricket 
+#EXTINF:0 group-title=”Sports”,Fox Cric 501
+http://premimum.online:80/live/jen12345/jen54321/1856.ts
+#EXTINF:0 group-title=”Sports”, Supersports Cricket
+http://premimum.online:80/live/jen12345/jen54321/2496.ts
 
-#EXTINF:0 group-title=”Sports”,Sport 18 HD
-
-
-#EXTINF:0 group-title=”Sports”,Sony
-
-#EXTINF:0 group-title=”Sports”,World Cup
-
+#EXTINF:0 group-title=”Sports”,Sky Sport 1
+http://premimum.online:80/live/jen12345/jen54321/150854.ts
+#EXTINF:0 group-title=”Sports”,Sky Sport 3
+http://premimum.online:80/live/jen12345/jen54321/24018.ts
 #EXTINF:0 group-title=”Sports”,World Cup 2
 
 
@@ -553,15 +553,15 @@ http://premimum.online:80/live/jen12345/jen54321/688286.ts
 #EXTINF:0 group-title=”Sports”,FS1
 
 #EXTINF:-1 group-title="-",Bein Sport 1
-http://103.229.254.25:7001/play/a0f0/index.m3u8
-#EXTINF:-1 group-title="-",Bein Sport 2
-http://103.229.254.25:7001/play/a0ea/index.m3u8
-#EXTINF:-1 group-title="-",Ten Cricket
+
+#EXTINF:-1 group-title="-",Ten Sports HD
+http://premimum.online:80/live/jen12345/jen54321/98.ts
+#EXTINF:-1 group-title="-",Ten Cricket HD
 http://103.229.254.25:7001/play/a0ep/index.m3u8
 #EXTINF:-1 group-title="-",ThePapare 1
-http://103.229.254.25:7001/play/a0ew/index.m3u8
+
 #EXTINF:-1 group-title="-",ThePapare 2
-http://103.229.254.25:7001/play/a0ex/index.m3u8
+
 
 
 #EXTINF:0 group-title="TATA SKY",Sony SIX
@@ -606,7 +606,11 @@ http://tv.dugdugilive.com:8080/0ne$ky23/PTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="LTWS SPORTS",WILLOW HD
 
 #EXTINF:-1 group-title="LTWS SPORTS",ESPN
-
+http://premimum.online:80/live/jen12345/jen54321/503.ts
+#EXTINF:-1 group-title="LTWS SPORTS",ESPN
+http://premimum.online:80/live/jen12345/jen54321/155.ts
+#EXTINF:-1 group-title="LTWS SPORTS",ESPN 3
+http://premimum.online:80/live/jen12345/jen54321/505.ts
 #EXTINF:-1 group-title="LTWS SPORTS",TSN 1
 
 #EXTINF:-1 group-title="LTWS SPORTS",TSN 2
@@ -623,11 +627,44 @@ https://premimum.online:443/live/Jen12345/Jen54321/517.ts
 https://premimum.online:443/live/Jen12345/Jen54321/518.ts
 #EXTINF:-1 group-title="LTWS SPORTS",SUPERSPORTS FOOTBALL HD
 https://premimum.online:443/live/Jen12345/Jen54321/523.ts
+#EXTINF:-1 group-title="LTWS SPORTS",Now Sports
+http://premimum.online:80/live/jen12345/jen54321/688301.ts
+#EXTINF:-1 group-title="LTWS SPORTS",SPORT TV 1
+http://premimum.online:80/live/jen12345/jen54321/688307.ts
+#EXTINF:-1 group-title="LTWS SPORTS",SPORT TV 2
+http://premimum.online:80/live/jen12345/jen54321/315.ts
+#EXTINF:-1 group-title="LTWS SPORTS",SPORT TV 3
+http://premimum.online:80/live/jen12345/jen54321/316.ts
+#EXTINF:-1 group-title="LTWS SPORTS",SPORT TV 5
+http://premimum.online:80/live/jen12345/jen54321/318.ts
+
+
+
+
+#EXTINF:-1 group-title="LTWS SPORTS",Premier Sports 1
+http://premimum.online:80/live/jen12345/jen54321/5029.ts
+#EXTINF:-1 group-title="LTWS SPORTS",Premier Sports 2
+http://premimum.online:80/live/jen12345/jen54321/5030.ts
 
 
 
 #EXTINF:-1 group-title="LTWS SPORTS",Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 group-title="LTWS SPORTS",TNT Sports 1
+http://premimum.online:80/live/jen12345/jen54321/186627.ts
+#EXTINF:-1 group-title="LTWS SPORTS",TNT Sports 2
+http://premimum.online:80/live/jen12345/jen54321/285.ts
+#EXTINF:-1 group-title="LTWS SPORTS",TNT Sports 3
+http://premimum.online:80/live/jen12345/jen54321/148090.ts
+#EXTINF:-1 group-title="LTWS SPORTS",TNT Sports 4
+http://premimum.online:80/live/jen12345/jen54321/186630.ts
+#EXTINF:-1 group-title="LTWS SPORTS",TNT Sports 5
+http://premimum.online:80/live/jen12345/jen54321/186631.ts
+#EXTINF:-1 group-title="LTWS SPORTS",TNT Sports 6
+http://premimum.online:80/live/jen12345/jen54321/186632.ts
+
+
+
 
 
 
