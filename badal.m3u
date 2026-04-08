@@ -603,7 +603,29 @@ http://tv.dugdugilive.com:8080/0ne$ky23/PTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="LTWS SPORTS",PTV SPORTS
 
-#EXTINF:-1 group-title="LTWS SPORTS",WILLOW HD
+#EXTINF:-1 group-title="LTWS SPORTS",Bein Sports 1
+http://premimum.online:80/live/jen12345/jen54321/652310.ts
+#EXTINF:-1 group-title="LTWS SPORTS",Bein Sports 1 English
+http://premimum.online:80/live/jen12345/jen54321/676385.ts
+#EXTINF:-1 group-title="LTWS SPORTS",Bein Sports 2
+http://premimum.online:80/live/jen12345/jen54321/652311.ts
+#EXTINF:-1 group-title="LTWS SPORTS",Bein Sports 2 English
+http://premimum.online:80/live/jen12345/jen54321/652319.ts
+#EXTINF:-1 group-title="LTWS SPORTS",Bein Sports 3
+http://premimum.online:80/live/jen12345/jen54321/652312.ts
+#EXTINF:-1 group-title="LTWS SPORTS",Bein Sports 4
+http://premimum.online:80/live/jen12345/jen54321/652313.ts
+#EXTINF:-1 group-title="LTWS SPORTS",Bein Sports 5
+http://premimum.online:80/live/jen12345/jen54321/652314.ts
+#EXTINF:-1 group-title="LTWS SPORTS",Bein Sports 6
+http://premimum.online:80/live/jen12345/jen54321/652315.ts
+#EXTINF:-1 group-title="LTWS SPORTS",Bein Sports 7
+http://premimum.online:80/live/jen12345/jen54321/652316.ts
+#EXTINF:-1 group-title="LTWS SPORTS",Bein Sports 8
+http://premimum.online:80/live/jen12345/jen54321/652317.ts
+#EXTINF:-1 group-title="LTWS SPORTS",Bein Sports 9
+http://premimum.online:80/live/jen12345/jen54321/652318.ts
+
 
 #EXTINF:-1 group-title="LTWS SPORTS",ESPN
 http://premimum.online:80/live/jen12345/jen54321/503.ts
@@ -612,10 +634,17 @@ http://premimum.online:80/live/jen12345/jen54321/155.ts
 #EXTINF:-1 group-title="LTWS SPORTS",ESPN 3
 http://premimum.online:80/live/jen12345/jen54321/505.ts
 #EXTINF:-1 group-title="LTWS SPORTS",TSN 1
-
+http://premimum.online:80/live/jen12345/jen54321/616080.ts
 #EXTINF:-1 group-title="LTWS SPORTS",TSN 2
-
+http://premimum.online:80/live/jen12345/jen54321/616081.ts
 #EXTINF:-1 group-title="LTWS SPORTS",TSN 3
+http://premimum.online:80/live/jen12345/jen54321/616082.ts
+#EXTINF:-1 group-title="LTWS SPORTS",TSN 4
+http://premimum.online:80/live/jen12345/jen54321/616083.ts
+#EXTINF:-1 group-title="LTWS SPORTS",TSN 5
+http://premimum.online:80/live/jen12345/jen54321/616084.ts
+
+
 
 #EXTINF:-1 group-title="LTWS SPORTS",Sky Sports Football
 https://premimum.online:443/live/Jen12345/Jen54321/23334.ts
