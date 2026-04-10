@@ -540,11 +540,23 @@ http://premimum.online:80/live/jen12345/jen54321/1856.ts
 http://premimum.online:80/live/jen12345/jen54321/2496.ts
 
 #EXTINF:0 group-title=”Sports”,Sky Sport 1
-http://premimum.online:80/live/jen12345/jen54321/150854.ts
+http://premimum.online:80/live/jen12345/jen54321/23997.ts
+#EXTINF:0 group-title=”Sports”,Sky Sport 2
+http://premimum.online:80/live/jen12345/jen54321/23998.ts
 #EXTINF:0 group-title=”Sports”,Sky Sport 3
-http://premimum.online:80/live/jen12345/jen54321/24018.ts
-#EXTINF:0 group-title=”Sports”,World Cup 2
-
+http://premimum.online:80/live/jen12345/jen54321/23999.ts
+#EXTINF:0 group-title=”Sports”,Sky Sport 4
+http://premimum.online:80/live/jen12345/jen54321/24000.ts
+#EXTINF:0 group-title=”Sports”,Sky Sport 5
+http://premimum.online:80/live/jen12345/jen54321/343019.ts
+#EXTINF:0 group-title=”Sports”,Sky Sport 6
+http://premimum.online:80/live/jen12345/jen54321/343020.ts
+#EXTINF:0 group-title=”Sports”,Sky Sport 7
+http://premimum.online:80/live/jen12345/jen54321/343021.ts
+#EXTINF:0 group-title=”Sports”,Sky Sport 9
+http://premimum.online:80/live/jen12345/jen54321/343023.ts
+#EXTINF:0 group-title=”Sports”,Sky Sport Select
+http://premimum.online:80/live/jen12345/jen54321/34152.ts
 
 #EXTINF:0 group-title=”Sports”,Sport TV 1
 
@@ -666,6 +678,12 @@ http://premimum.online:80/live/jen12345/jen54321/315.ts
 http://premimum.online:80/live/jen12345/jen54321/316.ts
 #EXTINF:-1 group-title="LTWS SPORTS",SPORT TV 5
 http://premimum.online:80/live/jen12345/jen54321/318.ts
+#EXTINF:-1 group-title="LTWS SPORTS",DAZN 1 HD
+http://premimum.online:80/live/jen12345/jen54321/327.ts
+#EXTINF:-1 group-title="LTWS SPORTS",DAZN 2 HD
+http://premimum.online:80/live/jen12345/jen54321/564.ts
+#EXTINF:-1 group-title="LTWS SPORTS",DAZN 3 HD
+http://premimum.online:80/live/jen12345/jen54321/329.ts
 
 
 
