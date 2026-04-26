@@ -529,15 +529,29 @@ http://premimum.online:80/live/jen12345/jen54321/2494.ts
 http://sm-monirul.top/AyNa/play.php?id=abfabaee-3898-4279-8645-3da5b0232867&e=.m3u8
 #EXTINF:0 group-title=”Sports”,Willow 2
 http://premimum.online:80/live/jen12345/jen54321/5040.ts
+#EXTINF:0 group-title=”Sports”,Hub Sports 4
+http://premimum.online:80/live/jen12345/jen54321/196347.ts
 
 #EXTINF:0 group-title=”Sports”,Sky Sports Cricket
-http://premimum.online:80/live/jen12345/jen54321/23566.ts
-#EXTINF:0 group-title=”Sports”,Elevensport 1
+http://premimum.online:80/live/jen12345/jen54321/12.ts
+#EXTINF:0 group-title=”Sports”,Sky Sports Main Event 
+http://premimum.online:80/live/jen12345/jen54321/186597.ts
+#EXTINF:0 group-title=”Sports”,Sky Sports Premier League
+http://premimum.online:80/live/jen12345/jen54321/186604.ts
+#EXTINF:0 group-title=”Sports”,Sky Sports Football 
+http://premimum.online:80/live/jen12345/jen54321/122411.ts
+#EXTINF:0 group-title=”Sports”,Sky Sports Action
+http://premimum.online:80/live/jen12345/jen54321/122413.ts
+#EXTINF:0 group-title=”Sports”,Sky Sports Plus
+http://premimum.online:80/live/jen12345/jen54321/186620.ts
+#EXTINF:0 group-title=”Sports”,Sky Sports Mix
+http://premimum.online:80/live/jen12345/jen54321/186622.ts
+#EXTINF:0 group-title=”Sports”,Sky Sports Racing 
+http://premimum.online:80/live/jen12345/jen54321/122415.ts
+#EXTINF:0 group-title=”Sports”,Sky Sports F1
+http://premimum.online:80/live/jen12345/jen54321/186616.ts
 
-#EXTINF:0 group-title=”Sports”,Fox Sports 501 HD
-http://premimum.online:80/live/jen12345/jen54321/1856.ts
-#EXTINF:0 group-title=”Sports”, Supersports Cricket
-http://premimum.online:80/live/jen12345/jen54321/2496.ts
+
 
 #EXTINF:0 group-title=”Sports”,Sky Sport 1
 http://premimum.online:80/live/jen12345/jen54321/23997.ts
@@ -557,6 +571,11 @@ http://premimum.online:80/live/jen12345/jen54321/343021.ts
 http://premimum.online:80/live/jen12345/jen54321/343023.ts
 #EXTINF:0 group-title=”Sports”,Sky Sport Select
 http://premimum.online:80/live/jen12345/jen54321/34152.ts
+
+#EXTINF:0 group-title=”Sports”,Fox Sports 501 HD
+http://premimum.online:80/live/jen12345/jen54321/1856.ts
+#EXTINF:0 group-title=”Sports”, Supersports Cricket
+http://premimum.online:80/live/jen12345/jen54321/2496.ts
 
 #EXTINF:0 group-title=”Sports”,Sport TV 1
 
