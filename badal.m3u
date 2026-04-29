@@ -361,15 +361,15 @@ http://103.229.254.25:7001/play/a02z/index.m3u8
 
 
 #EXTINF:0 group-title=”Movies”,Sony Set Max
-
+http://premimum.online:80/live/jen12345/jen54321/24582.ts
 #EXTINF:0 group-title=”Movies”,Sony Max
 http://103.229.254.25:7001/play/a0co/index.m3u8
 #EXTINF:0 group-title=”Movies”,Sony Max HD
-http://tv.dugdugilive.com:8080/0ne$ky23/SonyMax/tracks-v1a1/mono.m3u8
+http://premimum.online:80/live/jen12345/jen54321/98857.ts
 #EXTINF:0 group-title=”Movies”,Sony Max 1
 
 #EXTINF:0 group-title=”Movies”,Sony Max 2
-
+http://premimum.online:80/live/jen12345/jen54321/973.ts
 #EXTINF:0 group-title=”Movies”,Sony Wah
 http://103.180.212.191:3500/live/1393.m3u8
 #EXTINF:0 group-title=”Movies”,& Picture
