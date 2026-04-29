@@ -373,9 +373,11 @@ http://premimum.online:80/live/jen12345/jen54321/973.ts
 #EXTINF:0 group-title=”Movies”,Sony Wah
 http://103.180.212.191:3500/live/1393.m3u8
 #EXTINF:0 group-title=”Movies”,& Picture
-http://tv.dugdugilive.com:8080/0ne$ky23/AndPictures/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title=”Movies”,& Picture HD
+
+#EXTINF:0 group-title=”Movies”,&Picture HD
 http://103.229.254.25:7001/play/a033/index.m3u8
+#EXTINF:0 group-title=”Movies”,&explore HD
+http://premimum.online:80/live/jen12345/jen54321/4082.ts
 #EXTINF:-1 group-title="-",&Prive HD
 http://103.229.254.25:7001/play/a03f/index.m3u8
 #EXTINF:-1 group-title="-",&flix HD
@@ -391,7 +393,7 @@ https://premimum.online:443/live/Jen12345/Jen54321/9378.ts
 #EXTINF:0 group-title=”Movies”,Rishtey Cineplex HD
 
 #EXTINF:0 group-title=”Movies”,Zee Cinema
-
+http://premimum.online:80/live/jen12345/jen54321/2439.ts
 #EXTINF:0 group-title=”Movies”,Zee Cinema
 http://103.229.254.25:7001/play/a06s/index.m3u8
 #EXTINF:0 group-title=”Movies”,Zee Cinema HD
@@ -399,9 +401,9 @@ http://103.229.254.25:7001/play/a0c2/index.m3u8
 #EXTINF:0 group-title=”Movies”,Zee Anmol Cinema
 http://103.229.254.25:7001/play/a035/index.m3u8
 #EXTINF:0 group-title=”Movies”,Zee Anmol Cinema 2
-
+http://103.175.73.12:8080/live/257/257_0.m3u8
 #EXTINF:0 group-title=”Movies”,Zee Action
-
+http://103.175.73.12:8080/live/279/270_0.m3u8
 #EXTINF:0 group-title=”Movies”,Zee Bollywood
 http://103.229.254.25:7001/play/a033/index.m3u8
 #EXTINF:-1 group-title="-",Zee Cafe HD
@@ -443,6 +445,8 @@ http://103.229.254.25:7001/play/a07l/index.m3u8
 http://103.229.254.25:7001/play/a07k/index.m3u8
 #EXTINF:-1 group-title="LTWS HINDI MOVIES",Goldmines 2
 http://103.175.73.12:8080/live/46/46_0.m3u8
+#EXTINF:-1 group-title="LTWS HINDI MOVIES",Goldmines Action
+http://103.175.73.12:8080/live/584/584_0.m3u8
 
 
 #EXTINF:-1 group-title="LTWS HINDI MOVIES",B4U KADAK
