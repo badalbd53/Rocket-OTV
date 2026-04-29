@@ -17,7 +17,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TPdPzcn/IMG-20240126-102629.jpg"group-title="JAGOBD  CHANNELS",ATN Islamic TV 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GprTxvx/IMG-20240126-102504.jpg"group-title="JAGOBD  CHANNELS",PeaceTV Bangla
-http://sm-monirul.top/AyNa/play.php?id=d0828e90-a8b9-4d2b-9bf7-ab996578147a&e=.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sbyq79V/IMG-20240126-102440.jpg" group-title="JAGOBD  CHANNELS", IQRA BANGLA
 
@@ -43,13 +43,13 @@ http://103.229.254.25:7001/play/a05p/index.m3u8
 
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Live Sports
-http://tv.dugdugilive.com:8080/0ne$ky23/LiveSP/tracks-v1a1/mono.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv HD
-http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/tracks-v1a1/mono.m3u8
+http://198.195.239.50:8095/bdixbd.net_gazitvhd/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv
-http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
-http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/index.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports HD
@@ -88,7 +88,7 @@ http://103.229.254.25:7001/play/a067/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/fj8nxOw.png group-title=”Bangla”,Channel 9 HD
 http://103.229.254.25:7001/play/a05j/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/p0I5dr0.png group-title=”Bangla”,Channel I
-http://tv.dugdugilive.com:8080/0ne$ky23/Channel-I/tracks-v1a1/mono.m3u8
+http://103.229.254.25:7001/play/a06e/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/tPZKfLr.png group-title=”Bangla”,Deepto TV
 http://103.229.254.25:7001/play/a05r/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/JgkIH3w.png group-title=”Bangla”,Desh TV
@@ -112,7 +112,7 @@ http://103.229.254.25:7001/play/a06i/index.m3u8
 #EXTINF:0 group-title=”Bangla”,DBC News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/MmhxR5E.png group-title=”Bangla”,Channel 24
-http://tv.dugdugilive.com:8080/0ne$ky23/Channel24/tracks-v1a1/mono.m3u8
+http://103.229.254.25:7001/play/a05n/index.m3u8
 #EXTINF:0 group-title=”Bangla”,Ekhon Tv
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/ds3aThu.jpg group-title=”Bangla”,Jamuna TV
@@ -132,7 +132,7 @@ http://103.229.254.25:7001/play/a05o/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/kFqOMtx.png group-title=”Bangla”,Ekushey ETV
 http://103.229.254.25:7001/play/a05x/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/3usnOla.png group-title=”Bangla”,NTV
-http://tv.dugdugilive.com:8080/0ne$ky23/NTV/tracks-v1a1/mono.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/2cpHJKq.png group-title=”Bangla”,Nagorik TV
 http://198.195.239.50:8095/nagorik/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/yi5p51T.png group-title=”Bangla”,RTV
@@ -519,9 +519,9 @@ http://103.229.254.25:7001/play/a0et/index.m3u8
 
 
 
-#EXTINF:0 group-title=”Sports”,Fox Sports 505
-
-#EXTINF:-1 group-title="-",A SportsHD
+#EXTINF:0 group-title=”Sports”,T Sports HD
+http://198.195.239.50:8095/Tsports/index.m3u8
+#EXTINF:0 group-title=”Sports”,A SportsHD
 http://103.229.254.25:7001/play/a087/index.m3u8
 #EXTINF:0 group-title=”Sports”,Cricbuzz
 http://premimum.online:80/live/jen12345/jen54321/2494.ts
