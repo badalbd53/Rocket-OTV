@@ -211,31 +211,31 @@ http://103.180.212.191:3500/live/248.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/9d1xXjN.png group-title=”Drama”,Star Jalsha HD
 http://103.229.254.25:7001/play/a0c0/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/e5Ldh7e.png group-title=”Drama”,Zee Bangla
-https://sm-monirul.top/Toffee/live.php?id=106a66093e92&e=.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/e5Ldh7e.png group-title=”Drama”,Zee Bangla HD
-http://103.229.254.25:7001/play/a0c3/index.m3u8
+http://premimum.online:80/live/jen12345/jen54321/98881.ts
 #EXTINF:0 tvg-logo=https://i.imgur.com/e5Ldh7e.png group-title=”Drama”,Akash AATH
-http://sm-monirul.top/AyNa/play.php?id=ed1ad924-f9f2-4302-97df-987bffb2b32e&e=.m3u8
+http://premimum.online:80/live/jen12345/jen54321/396.ts
 #EXTINF:0 tvg-logo=https://i.imgur.com/PW9hRDa.png group-title=”Drama”,Sun Bangla
-http://103.229.254.25:7001/play/a0cw/index.m3u8
+http://premimum.online:80/live/jen12345/jen54321/3753.ts
 #EXTINF:0 tvg-logo=https://i.imgur.com/HVZHZGl.png group-title=”Drama”,Colors Bangla HD
-http://tv.dugdugilive.com:8080/0ne$ky23/colors-bangla/tracks-v1a1/mono.m3u8
+http://premimum.online:80/live/jen12345/jen54321/98882.ts
 #EXTINF:-1 group-title="-",Enterr10 Bangla
-http://sm-monirul.top/AyNa/play.php?id=1092effd-ec5f-4842-a9eb-09db84a23415&e=.m3u8
+http://premimum.online:80/live/jen12345/jen54321/3801.ts
 
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/2PQfcOh.png group-title=”Movies”,Sony Cinema
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/2PQfcOh.png group-title=”Movies”,Jalsha Movies HD
-http://tv.dugdugilive.com:8080/0ne$ky23/jalshamovies/tracks-v1a1/mono.m3u8
+http://premimum.online:80/live/jen12345/jen54321/98884.ts
 #EXTINF:0 group-title=”Drama”,Colors Bangla Cinema
-
+http://premimum.online:80/live/jen12345/jen54321/271038.ts
 #EXTINF:0 tvg-logo=https://i.imgur.com/M6GyIvI.png group-title=”Movies”,Zee Bangla Cinema
-
+http://premimum.online:80/live/jen12345/jen54321/49615.ts
 #EXTINF:0 group-title=”Movies”,Enterr10 Bangla
 
 #EXTINF:0 group-title=”Drama”,Sony AATH
-http://tv.dugdugilive.com:8080/0ne$ky23/Dhoom/index.m3u8
+http://premimum.online:80/live/jen12345/jen54321/4083.ts
 #EXTINF:0 group-title=”Drama”,Sony AATH
 
 
@@ -251,7 +251,7 @@ http://tv.dugdugilive.com:8080/0ne$ky23/Dhoom/index.m3u8
 #EXTINF:0 group-title=”Drama”,Star Plus HD
 
 #EXTINF:0 group-title=”Drama”,Sony TV
-http://tv.dugdugilive.com:8080/0ne$ky23/SonyTV/tracks-v1a1/mono.m3u8
+http://premimum.online:80/live/jen12345/jen54321/98854.ts
 #EXTINF:0 group-title=”Drama”,Sony HD
 http://103.229.254.25:7001/play/a09u/index.m3u8
 #EXTINF:0 group-title=”Drama”,Sony Pal
@@ -295,11 +295,11 @@ https://premimum.online:443/live/Jen12345/Jen54321/19741.ts
 #EXTINF:0 group-title=”Kids”,Super Hungama
 
 #EXTINF:0 group-title=”Kids”,Cartoon Network
-https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTMvY2FydG9vbi1uZXR3b3Jr&name=Cartoon+Network&format=.m3u8
+
 #EXTINF:0 group-title=”Kids”,Cartoon Network
 https://s3.ideationtec.live/Cartoon_Network/Cartoon_Network.m3u8
 #EXTINF:0 group-title=”Kids”,Cartoon Network HD
-https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTMvY2FydG9vbi1uZXR3b3JrLWhk&name=Cartoon+Network+HD&format=.m3u8
+
 #EXTINF:0 group-title=”Kids”,Pogo
 https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTMvcG9nbw%3D%3D&name=POGO&format=.m3u8
 
