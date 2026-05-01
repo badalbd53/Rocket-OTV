@@ -134,7 +134,7 @@ http://103.229.254.25:7001/play/a05x/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/3usnOla.png group-title=”Bangla”,NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/2cpHJKq.png group-title=”Bangla”,Nagorik TV
-http://198.195.239.50:8095/nagorik/index.m3u8
+http://103.229.254.25:7001/play/a06q/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/yi5p51T.png group-title=”Bangla”,RTV
 http://103.229.254.25:7001/play/a068/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/fraEjzm.png group-title=”Bangla”,SA TV HD
@@ -147,12 +147,26 @@ http://103.229.254.25:7001/play/a066/index.m3u8
 http://103.229.254.25:7001/play/a05z/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/h5FhOWT.png group-title=”Bangla”,Ananda TV
 http://103.229.254.25:7001/play/a05v/index.m3u8
-#EXTINF:0 tvg-logo=https://i.imgur.com/IYGU8Km.png group-title=”Movies”,Movie Bangla
-http://premimum.online:80/live/jen12345/jen54321/510520.ts
 #EXTINF:-1 group-title="-",Channel S
 http://103.229.254.25:7001/play/a060/index.m3u8
-#EXTINF:0 tvg-logo=https://i.imgur.com/IYGU8Km.png group-title=”Movies”,My Cinema
-
+#EXTINF:0 tvg-logo=https://i.imgur.com/IYGU8Km.png group-title=”Movies”,Movie Bangla
+http://premimum.online:80/live/jen12345/jen54321/510520.ts
+#EXTINF:0 tvg-logo=https://i.imgur.com/IYGU8Km.png group-title=”Movies”,Cinema 1
+http://premimum.online:80/live/jen12345/jen54321/136494.ts
+#EXTINF:0 tvg-logo=https://i.imgur.com/IYGU8Km.png group-title=”Movies”,Cinema 2
+http://premimum.online:80/live/jen12345/jen54321/136495.ts
+#EXTINF:0 tvg-logo=https://i.imgur.com/IYGU8Km.png group-title=”Movies”,Cinema 3
+http://premimum.online:80/live/jen12345/jen54321/136496.ts
+#EXTINF:0 tvg-logo=https://i.imgur.com/IYGU8Km.png group-title=”Movies”,Cinema 4
+http://premimum.online:80/live/jen12345/jen54321/136497.ts
+#EXTINF:0 tvg-logo=https://i.imgur.com/IYGU8Km.png group-title=”Movies”,Cinema 5
+http://premimum.online:80/live/jen12345/jen54321/136498.ts
+#EXTINF:0 tvg-logo=https://i.imgur.com/IYGU8Km.png group-title=”Movies”,Cinema 6
+http://premimum.online:80/live/jen12345/jen54321/136500.ts
+#EXTINF:0 tvg-logo=https://i.imgur.com/IYGU8Km.png group-title=”Movies”,Cinema 7
+http://premimum.online:80/live/jen12345/jen54321/136501.ts
+#EXTINF:0 tvg-logo=https://i.imgur.com/IYGU8Km.png group-title=”Movies”,Cinema 8
+http://premimum.online:80/live/jen12345/jen54321/136502.ts
 
 
 
