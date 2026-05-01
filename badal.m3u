@@ -393,17 +393,17 @@ http://103.229.254.25:7001/play/a033/index.m3u8
 #EXTINF:0 group-title=”Movies”,&explore HD
 http://premimum.online:80/live/jen12345/jen54321/4082.ts
 #EXTINF:-1 group-title="-",&Prive HD
-http://103.229.254.25:7001/play/a03f/index.m3u8
+
 #EXTINF:-1 group-title="-",&flix HD
 http://103.229.254.25:7001/play/a02x/index.m3u8
 
 
 #EXTINF:0 group-title=”Movies”,Colors Cineplex Superhits
-https://premimum.online:443/live/Jen12345/Jen54321/172368.ts
+http://premimum.online:80/live/Jen12345/Jen54321/172368.ts
 #EXTINF:0 group-title=”Movies”,Colors Cineplex Bollywood
-https://premimum.online:443/live/Jen12345/Jen54321/37074.ts
+http://premimum.online:80/live/Jen12345/Jen54321/37074.ts
 #EXTINF:0 group-title=”Movies”,Colors Cineplex HD
-https://premimum.online:443/live/Jen12345/Jen54321/9378.ts
+http://premimum.online:80/live/Jen12345/Jen54321/9378.ts
 #EXTINF:0 group-title=”Movies”,Rishtey Cineplex HD
 
 #EXTINF:0 group-title=”Movies”,Zee Cinema
