@@ -293,19 +293,19 @@ http://103.229.254.25:7001/play/a0dl/index.m3u8
 #EXTINF:-1 group-title="Kids",Tom & Jarry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:0 group-title=”Kids”,Doreamon
-https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
+
 #EXTINF:0 group-title=”Kids”,Doreamon
-https://premimum.online:443/live/Jen12345/Jen54321/147746.ts
+http://premimum.online:80/live/Jen12345/Jen54321/147746.ts
 #EXTINF:0 group-title=”Kids”,Disney
-https://premimum.online:443/live/Jen12345/Jen54321/19832.ts
+http://premimum.online:80/live/Jen12345/Jen54321/19832.ts
 #EXTINF:0 group-title=”Kids”,Disney HD
-https://premimum.online:443/live/Jen12345/Jen54321/19741.ts
+http://premimum.online:80/live/jen12345/jen54321/19741.ts
 #EXTINF:0 group-title=”Kids”,Disney jr
 http://premimum.online:80/live/jen12345/jen54321/35713.ts
 #EXTINF:0 group-title=”Kids”,Disney
 
 #EXTINF:0 group-title=”Kids”,Hungama
-
+http://premimum.online:80/live/jen12345/jen54321/18456.ts
 #EXTINF:0 group-title=”Kids”,Super Hungama
 http://premimum.online:80/live/jen12345/jen54321/66162.ts
 #EXTINF:0 group-title=”Kids”,Cartoon Network
@@ -374,7 +374,7 @@ http://103.229.254.25:7001/play/a02z/index.m3u8
 #EXTINF:0 group-title=”Movies”,Zee Cinema
 
 
-#EXTINF:0 group-title=”Movies”,Sony Set Max
+#EXTINF:0 group-title=”Movies”,Sony Max
 http://premimum.online:80/live/jen12345/jen54321/24582.ts
 #EXTINF:0 group-title=”Movies”,Sony Max
 http://103.229.254.25:7001/play/a0co/index.m3u8
@@ -405,7 +405,7 @@ http://premimum.online:80/live/Jen12345/Jen54321/37074.ts
 #EXTINF:0 group-title=”Movies”,Colors Cineplex HD
 http://premimum.online:80/live/Jen12345/Jen54321/9378.ts
 #EXTINF:0 group-title=”Movies”,Rishtey Cineplex HD
-
+http://premimum.online:80/live/jen12345/jen54321/2440.ts
 #EXTINF:0 group-title=”Movies”,Zee Cinema
 http://premimum.online:80/live/jen12345/jen54321/2439.ts
 #EXTINF:0 group-title=”Movies”,Zee Cinema
