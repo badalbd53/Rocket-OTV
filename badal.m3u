@@ -412,7 +412,7 @@ http://premimum.online:80/live/jen12345/jen54321/2439.ts
 #EXTINF:0 group-title=”Movies”,Zee Cinema
 
 #EXTINF:0 group-title=”Movies”,Zee Cinema HD
-http://premimum.online:80/live/jen12345/jen54321/98860.ts
+http://103.229.254.25:7001/play/a0c2/index.m3u8
 #EXTINF:0 group-title=”Movies”,Zee Anmol Cinema
 http://premimum.online:80/live/jen12345/jen54321/7065.ts
 #EXTINF:0 group-title=”Movies”,Zee Anmol Cinema 2
