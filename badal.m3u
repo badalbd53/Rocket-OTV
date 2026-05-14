@@ -76,7 +76,7 @@ http://103.229.254.25:7001/play/a05t/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/fxq0pV2.png group-title=”Bangla”,Asian TV
 http://103.229.254.25:7001/play/a063/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/5PsRkPd.png group-title=”Bangla”,ATN Bangla
-http://103.229.254.25:7001/play/a06b/index.m3u8
+http://10.20.30.40:8088/202/index.m3u8
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/HX8SSDA.png group-title=”Bangla”,Banglavision TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
