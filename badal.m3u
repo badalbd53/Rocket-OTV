@@ -358,14 +358,14 @@ http://103.229.254.25:7001/play/a02z/index.m3u8
 
 
 #EXTINF:0 group-title=”Movies”,Dhinchaak
-
+http://172.19.178.182/playlist/livestream/3232323233/master.m3u8?vtoken=cGxheWxpc3RfZmVkMzY5YzRlN2I0X19iN2MzOTFiMDIyYzI3ZThjZDRhYzE0N2E4NDFkZjRiZF9fMTc3OTIwNTcwMV9fMTkyLjE2OC4xNC42X181OGE3MWQ0MzJkOTdkN2JhMDRlOTQyYTZlZDRhMmNhYjllZDdhYjE0NWQyMzZlZjkwOWJiOGUyNmZlNWU3YTFm
 #EXTINF:0 group-title=”Movies”,Zee Cinema
 
 
 #EXTINF:0 group-title=”Movies”,Sony Max
 http://premimum.online:80/live/jen12345/jen54321/24582.ts
 #EXTINF:0 group-title=”Movies”,Sony Max
-http://103.229.254.25:7001/play/a0co/index.m3u8
+
 #EXTINF:0 group-title=”Movies”,Sony Max HD
 http://premimum.online:80/live/jen12345/jen54321/98857.ts
 #EXTINF:0 group-title=”Movies”,Sony Max 1
