@@ -44,7 +44,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Live Sports
 
-#EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv HD
+#EXTINF:0 group-title=”Bangla”,Gtv HD
 http://ms.towkai.com/gazi_ml/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/eyAInC9.png group-title=”Bangla”,Gtv
 
@@ -91,17 +91,17 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/tPZKfLr.png group-title=”Bangla”,Deepto TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/JgkIH3w.png group-title=”Bangla”,Desh TV
-http://premimum.online:80/live/jen12345/jen54321/394.ts
+http://premimum.online/live/jen12345/jen54321/394.ts
 #EXTINF:0 group-title=”Bangla”,Nexus TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/nexustv.stream/playlist.m3u8
+http://ms.towkai.com/NexustvHD/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/v9PqrCG.png group-title=”News”,ATN News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
-#EXTINF:0 tvg-logo=https://i.imgur.com/v9PqrCG.png group-title=”News”, Channel 1 HD
+#EXTINF:0 group-title=”News”, Channel 1 HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/i8T9qQs.png group-title=”News”,Ekattor TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 #EXTINF:0 group-title=”News”,Ekhon TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8
+http://ms.towkai.com/EkhonHD/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title=”News”,Star News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/ds3aThu.jpg group-title=”Bangla”,Jamuna Tv
@@ -123,17 +123,17 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 #EXTINF:0 group-title=”Bangla”,Jagonews 24
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/jagonews24.stream/playlist.m3u8
 #EXTINF:0 group-title=”Bangla”,Green TV
-
+http://ms.towkai.com/GreenTV/index.m3u8
 #EXTINF:0 group-title=”Bangla”,Global Tv
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title=”Bangla”,Comilla 24
-
+http://ms.towkai.com/globaltv/index.m3u8
+#EXTINF:0 group-title=”Bangla”,Ayna TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/index.m3u8
 
 
 
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/kFqOMtx.png group-title=”Bangla”,Ekushey ETV
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/555.ts
+http://ms.towkai.com/Ekusheytv/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/3usnOla.png group-title=”Bangla”,NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/2cpHJKq.png group-title=”Bangla”,Nagorik TV
@@ -145,13 +145,13 @@ http://116.204.149.16/satv/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/K43LsMQ.png group-title=”Bangla”,Bangla TV HD
 http://116.204.149.16/banglatv/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/kDmkexe.png group-title=”Bangla”,Bijoy Tv
-http://premimum.online:80/live/jen12345/jen54321/408.ts
+http://ms.towkai.com/bijoy_ml/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/bahWhBG.png group-title=”Bangla”,MyTV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/playlist.m3u8
+http://ms.towkai.com/mytv/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/h5FhOWT.png group-title=”Bangla”,Ananda TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/index.m3u8
+http://ms.towkai.com/anandatv_ml/index.m3u8
 #EXTINF:-1 group-title="-",Channel S
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channels.stream/playlist.m3u8
+http://ms.towkai.com/channels_ml/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/IYGU8Km.png group-title=”Movies”,Movie Bangla
 http://premimum.online:80/live/jen12345/jen54321/510520.ts
 
@@ -176,9 +176,9 @@ http://premimum.online:80/live/jen12345/jen54321/510520.ts
 #EXTINF:0 tvg-logo=https://i.imgur.com/7rnhie0.png group-title=”Music”,Zoom
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/DKVLQ7m.png group-title=”Music”,MTV HD+
-http://103.229.254.25:7001/play/a02s/index.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/DKVLQ7m.png group-title=”Music”,MTV
-http://103.180.212.191:3500/live/248.m3u8
+
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/DKVLQ7m.png group-title=”Music”,Dhoom
 
@@ -211,7 +211,7 @@ http://103.180.212.191:3500/live/248.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/ppJO2Ep.png group-title=”Drama”,Star Jalsha
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/9d1xXjN.png group-title=”Drama”,Star Jalsha HD
-http://103.229.254.25:7001/play/a0c0/index.m3u8
+http://ms.towkai.com/starjalsha_ml/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/e5Ldh7e.png group-title=”Drama”,Zee Bangla
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/e5Ldh7e.png group-title=”Drama”,Zee Bangla HD
@@ -229,7 +229,7 @@ http://premimum.online:80/live/jen12345/jen54321/3801.ts
 #EXTINF:0 tvg-logo=https://i.imgur.com/2PQfcOh.png group-title=”Movies”,Sony Cinema
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/2PQfcOh.png group-title=”Movies”,Jalsha Movies HD
-http://premimum.online:80/live/jen12345/jen54321/98884.ts
+http://ms.towkai.com/jalshamovies_ml/index.m3u8
 #EXTINF:0 group-title=”Drama”,Colors Bangla Cinema
 http://premimum.online:80/live/jen12345/jen54321/271038.ts
 #EXTINF:0 tvg-logo=https://i.imgur.com/M6GyIvI.png group-title=”Movies”,Zee Bangla Cinema
@@ -239,7 +239,7 @@ http://premimum.online:80/live/jen12345/jen54321/49615.ts
 #EXTINF:0 group-title=”Drama”,Sony AATH
 http://premimum.online:80/live/jen12345/jen54321/4083.ts
 #EXTINF:0 group-title=”Drama”,Sony AATH
-
+http://198.195.239.50:8095/SonyAath/index.m3u8
 
 
 
@@ -255,11 +255,11 @@ http://premimum.online:80/live/jen12345/jen54321/4083.ts
 #EXTINF:0 group-title=”Drama”,Sony TV
 http://premimum.online:80/live/jen12345/jen54321/98854.ts
 #EXTINF:0 group-title=”Drama”,Sony HD
-http://103.229.254.25:7001/play/a09u/index.m3u8
+
 #EXTINF:0 group-title=”Drama”,Sony Pal
 http://premimum.online:80/live/jen12345/jen54321/6627.ts
 #EXTINF:0 group-title=”Drama”,Shemaroo
-http://103.175.73.12:8080/live/258/258_0.m3u8
+
 #EXTINF:0 group-title=”Drama”,Colors HD
 
 
@@ -271,11 +271,11 @@ http://103.175.73.12:8080/live/258/258_0.m3u8
 
 
 #EXTINF:-1 group-title=”Kids”,Nick
-http://103.229.254.25:7001/play/a0cq/index.m3u8
+
 #EXTINF:-1 group-title=”Kids”,Nick Jr
-http://103.229.254.25:7001/play/a0di/index.m3u8
+
 #EXTINF:-1 group-title=”Kids”,Sonic
-http://103.229.254.25:7001/play/a0dl/index.m3u8
+
 #EXTINF:-1 group-title=”Kids”,Sonic
 
 #EXTINF:-1 group-title="Kids",Tom & Jarry
@@ -320,31 +320,31 @@ http://premimum.online:80/live/jen12345/jen54321/1918.ts
 #EXTINF:0 group-title=”Documentary”,Discovery Bangla
 http://premimum.online:80/live/jen12345/jen54321/156.ts
 #EXTINF:0 group-title=”Documentary”,Discovery HD
-http://103.229.254.25:7001/play/a03g/index.m3u8
+
 #EXTINF:0 group-title=”Documentary”,Discovery Science
-http://103.229.254.25:7001/play/a03h/index.m3u8
+
 #EXTINF:-1 group-title="-",Investigation Discovery
 http://premimum.online:80/live/jen12345/jen54321/23790.ts
 
 
 #EXTINF:0 group-title=”Documentary”,National Geographic HD
-http://103.229.254.25:7001/play/a038/index.m3u8
+
 #EXTINF:0 group-title=”Documentary”,NatGeo Wild HD
 http://premimum.online:80/live/jen12345/jen54321/7344.ts
 #EXTINF:0 group-title=”Documentary”,Travel XP HD
-http://103.229.254.25:7001/play/a0cy/index.m3u8
+
 #EXTINF:0 group-title=”Documentary”,Animal Planet
 
 #EXTINF:0 group-title=”Documentary”,Animal Planet HD
-http://103.229.254.25:7001/play/a0dr/index.m3u8
+
 #EXTINF:0 group-title=”Documentary”,Sony BBC Earth HD
-http://103.229.254.25:7001/play/a031/index.m3u8
+
 #EXTINF:0 group-title=”Documentary”,Sky Nature 
 
 #EXTINF:0 group-title=”Documentary”,TLC HD
 
 #EXTINF:-1 group-title="-",History TV18 HD
-http://103.229.254.25:7001/play/a02z/index.m3u8
+
 
 
 
@@ -358,7 +358,7 @@ http://103.229.254.25:7001/play/a02z/index.m3u8
 
 
 #EXTINF:0 group-title=”Movies”,Dhinchaak
-http://172.19.178.182/playlist/livestream/3232323233/master.m3u8?vtoken=cGxheWxpc3RfZmVkMzY5YzRlN2I0X19iN2MzOTFiMDIyYzI3ZThjZDRhYzE0N2E4NDFkZjRiZF9fMTc3OTIwNTcwMV9fMTkyLjE2OC4xNC42X181OGE3MWQ0MzJkOTdkN2JhMDRlOTQyYTZlZDRhMmNhYjllZDdhYjE0NWQyMzZlZjkwOWJiOGUyNmZlNWU3YTFm
+
 #EXTINF:0 group-title=”Movies”,Zee Cinema
 
 
@@ -399,37 +399,37 @@ http://premimum.online:80/live/jen12345/jen54321/2439.ts
 #EXTINF:0 group-title=”Movies”,Zee Cinema
 
 #EXTINF:0 group-title=”Movies”,Zee Cinema HD
-http://103.229.254.25:7001/play/a0c2/index.m3u8
+
 #EXTINF:0 group-title=”Movies”,Zee Anmol Cinema
 http://premimum.online:80/live/jen12345/jen54321/7065.ts
 #EXTINF:0 group-title=”Movies”,Zee Anmol Cinema 2
-http://103.175.73.12:8080/live/257/257_0.m3u8
+
 #EXTINF:0 group-title=”Movies”,Zee Action
 http://premimum.online:80/live/jen12345/jen54321/967.ts
 #EXTINF:0 group-title=”Movies”,Zee Bollywood
 http://premimum.online:80/live/jen12345/jen54321/966.ts
 #EXTINF:-1 group-title="-",Zee Cafe HD
-http://103.229.254.25:7001/play/a0cx/index.m3u8
+
 #EXTINF:-1 group-title="-",Zee Classic
-http://103.229.254.25:7001/play/a09w/index.m3u8
+
 
 
 #EXTINF:0 group-title=”Movies”,Star Gold
 
 #EXTINF:0 group-title=”Movies”,Star Gold HD
-http://103.229.254.25:7001/play/a0dd/index.m3u8
+
 #EXTINF:-1 group-title="-",Star Gold 2
-http://103.229.254.25:7001/play/a0df/index.m3u8
+
 #EXTINF:-1 group-title="-",Star Gold 2 HD
-http://103.229.254.25:7001/play/a0d0/index.m3u8
+
 #EXTINF:-1 group-title="-",Star Gold Romance
-http://103.229.254.25:7001/play/a0ck/index.m3u8
+
 #EXTINF:-1 group-title="-",Star Gold Thrills
 
 #EXTINF:-1 group-title="-",Star Gold Select
 http://premimum.online:80/live/jen12345/jen54321/98859.ts
 #EXTINF:-1 group-title="-",Star Gold Select HD
-http://103.229.254.25:7001/play/a032/index.m3u8
+
 
 #EXTINF:0 group-title=”Movies”,UTV Cinema HD
 
@@ -440,11 +440,11 @@ http://103.229.254.25:7001/play/a032/index.m3u8
 #EXTINF:0 group-title=”Movies”,Star Gold Select
 
 #EXTINF:-1 group-title="LTWS HINDI MOVIES",GOLDMINES
-http://103.175.73.12:8080/live/53/53_0.m3u8
+
 #EXTINF:-1 group-title="LTWS HINDI MOVIES",GOLDMINES BOLLYWOOD
-http://103.229.254.25:7001/play/a07l/index.m3u8
+
 #EXTINF:-1 group-title="LTWS HINDI MOVIES",GOLDMINES MOVIES
-http://103.229.254.25:7001/play/a07k/index.m3u8
+
 #EXTINF:-1 group-title="LTWS HINDI MOVIES",Goldmines 2
 http://103.175.73.12:8080/live/46/46_0.m3u8
 #EXTINF:-1 group-title="LTWS HINDI MOVIES",Goldmines Action
@@ -452,9 +452,9 @@ http://103.175.73.12:8080/live/584/584_0.m3u8
 
 
 #EXTINF:-1 group-title="LTWS HINDI MOVIES",B4U KADAK
-http://103.229.254.25:7001/play/a08c/index.m3u8
+
 #EXTINF:-1 group-title="LTWS HINDI MOVIES",Bollywood Action
-http://103.229.254.25:7001/play/a0es/index.m3u8
+
 #EXTINF:-1 group-title="LTWS HINDI MOVIES",DHAMAKA MOVIES
 
 #EXTINF:-1 group-title="LTWS HINDI MOVIES",B4U MOVIES
@@ -489,14 +489,14 @@ http://103.175.73.12:8080/live/43/43_0.m3u8
 #EXTINF:0 group-title=”Entertainment”,Sony Pix
 
 #EXTINF:0 group-title=”Movies”,Sony Pix HD
-http://103.229.254.25:7001/play/a02u/index.m3u8
+
 #EXTINF:0 group-title=”Movies”,Zee Cafe HD
-http://103.229.254.25:7001/play/a0cx/index.m3u8
+
 #EXTINF:0 group-title=”Movies”,Star Movies HD
 #EXTINF:-1 group-title="-",STAR Movies HD
-http://103.229.254.25:7001/play/a02w/index.m3u8
+
 #EXTINF:-1 group-title="-",STAR Movies Select HD
-http://103.229.254.25:7001/play/a02v/index.m3u8
+
 
 #EXTINF:0 group-title=”Movies”,Movies Now
 
@@ -513,7 +513,7 @@ http://103.229.254.25:7001/play/a02v/index.m3u8
 #EXTINF:0 group-title=”Movies”,AXN
 
 #EXTINF:-1 group-title="-",MAX Movies
-http://103.229.254.25:7001/play/a0et/index.m3u8
+
 
 
 
@@ -528,7 +528,7 @@ http://103.229.254.25:7001/play/a0et/index.m3u8
 #EXTINF:0 group-title=”Sports”,T Sports HD
 http://198.195.239.50:8095/Tsports/index.m3u8
 #EXTINF:0 group-title=”Sports”,A SportsHD
-http://103.229.254.25:7001/play/a087/index.m3u8
+
 #EXTINF:0 group-title=”Sports”,Cricbuzz
 http://premimum.online:80/live/jen12345/jen54321/2494.ts
 #EXTINF:0 group-title=”Sports”,Willow
