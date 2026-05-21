@@ -318,13 +318,13 @@ http://premimum.online:80/live/jen12345/jen54321/1918.ts
 
 
 #EXTINF:0 group-title=”Documentary”,Discovery Bangla
-http://premimum.online:80/live/jen12345/jen54321/156.ts
+http://premimum.online/live/jen12345/jen54321/156.ts
 #EXTINF:0 group-title=”Documentary”,Discovery HD
 
 #EXTINF:0 group-title=”Documentary”,Discovery Science
 
 #EXTINF:-1 group-title="-",Investigation Discovery
-http://premimum.online:80/live/jen12345/jen54321/23790.ts
+http://premimum.online/live/jen12345/jen54321/23790.ts
 
 
 #EXTINF:0 group-title=”Documentary”,National Geographic HD
@@ -377,13 +377,13 @@ http://103.180.212.191:3500/live/1393.m3u8
 #EXTINF:0 group-title=”Movies”,& Picture
 
 #EXTINF:0 group-title=”Movies”,&Picture HD
-http://103.229.254.25:7001/play/a033/index.m3u8
+
 #EXTINF:0 group-title=”Movies”,&explore HD
 http://premimum.online:80/live/jen12345/jen54321/4082.ts
 #EXTINF:-1 group-title="-",&Prive HD
 
 #EXTINF:-1 group-title="-",&flix HD
-http://103.229.254.25:7001/play/a02x/index.m3u8
+
 
 
 #EXTINF:0 group-title=”Movies”,Colors Cineplex Superhits
