@@ -253,11 +253,11 @@ http://198.195.239.50:8095/SonyAath/index.m3u8
 #EXTINF:0 group-title=”Drama”,Star Plus HD
 
 #EXTINF:0 group-title=”Drama”,Sony TV
-http://premimum.online:80/live/jen12345/jen54321/98854.ts
-#EXTINF:0 group-title=”Drama”,Sony HD
 
+#EXTINF:0 group-title=”Drama”,Sony HD
+http://198.195.239.50:8095/SonyTv/index.m3u8
 #EXTINF:0 group-title=”Drama”,Sony Pal
-http://premimum.online:80/live/jen12345/jen54321/6627.ts
+
 #EXTINF:0 group-title=”Drama”,Shemaroo
 
 #EXTINF:0 group-title=”Drama”,Colors HD
@@ -271,11 +271,11 @@ http://premimum.online:80/live/jen12345/jen54321/6627.ts
 
 
 #EXTINF:-1 group-title=”Kids”,Nick
-
+http://opplex.ch:80/live/jashwanrp/67891234/76722.ts
 #EXTINF:-1 group-title=”Kids”,Nick Jr
-
+http://ms.towkai.com/nickjunior_ml/index.m3u8
 #EXTINF:-1 group-title=”Kids”,Sonic
-
+http://opplex.ch:80/live/jashwanrp/67891234/34011.ts
 #EXTINF:-1 group-title=”Kids”,Sonic
 
 #EXTINF:-1 group-title="Kids",Tom & Jarry
@@ -283,27 +283,27 @@ https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:0 group-title=”Kids”,Doreamon
 
 #EXTINF:0 group-title=”Kids”,Doreamon
-http://premimum.online:80/live/Jen12345/Jen54321/147746.ts
-#EXTINF:0 group-title=”Kids”,Disney
-http://premimum.online:80/live/Jen12345/Jen54321/19832.ts
+http://opplex.ch:80/live/jashwanrp/67891234/388459.ts
+#EXTINF:0 group-title=”Kids”,Mr. Bean
+http://opplex.ch:80/live/jashwanrp/67891234/301501.ts
 #EXTINF:0 group-title=”Kids”,Disney HD
 https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/19741.ts
 #EXTINF:0 group-title=”Kids”,Disney jr
-http://premimum.online:80/live/jen12345/jen54321/35713.ts
+http://ms.towkai.com/disneyjr_ml/index.m3u8
 #EXTINF:0 group-title=”Kids”,Disney
 
 #EXTINF:0 group-title=”Kids”,Hungama
-http://premimum.online:80/live/jen12345/jen54321/18456.ts
+http://ms.towkai.com/hungama_ml/index.m3u8
 #EXTINF:0 group-title=”Kids”,Super Hungama
-http://premimum.online:80/live/jen12345/jen54321/66162.ts
+
 #EXTINF:0 group-title=”Kids”,Cartoon Network
-http://premimum.online:80/live/jen12345/jen54321/1066.ts
+
 #EXTINF:0 group-title=”Kids”,Cartoon Network
 https://s3.ideationtec.live/Cartoon_Network/Cartoon_Network.m3u8
 #EXTINF:0 group-title=”Kids”,Cartoon Network HD+
-http://premimum.online:80/live/jen12345/jen54321/117177.ts
+http://ms.towkai.com/cn_ml/index.m3u8
 #EXTINF:0 group-title=”Kids”,Pogo
-http://premimum.online:80/live/jen12345/jen54321/1918.ts
+http://ms.towkai.com/pogo_ml/index.m3u8
 
 
 
@@ -324,13 +324,13 @@ http://ms.towkai.com/discovery_mimelive/index.m3u8
 #EXTINF:0 group-title=”Documentary”,Discovery Science
 
 #EXTINF:-1 group-title="-",Investigation Discovery
-http://premimum.online/live/jen12345/jen54321/23790.ts
+
 
 
 #EXTINF:0 group-title=”Documentary”,National Geographic HD
 
 #EXTINF:0 group-title=”Documentary”,NatGeo Wild HD
-http://premimum.online:80/live/jen12345/jen54321/7344.ts
+
 #EXTINF:0 group-title=”Documentary”,Travel XP HD
 
 #EXTINF:0 group-title=”Documentary”,Animal Planet
@@ -363,23 +363,23 @@ http://premimum.online:80/live/jen12345/jen54321/7344.ts
 
 
 #EXTINF:0 group-title=”Movies”,Sony Max
-http://premimum.online:80/live/jen12345/jen54321/24582.ts
+
 #EXTINF:0 group-title=”Movies”,Sony Max
 
 #EXTINF:0 group-title=”Movies”,Sony Max HD
-http://premimum.online:80/live/jen12345/jen54321/98857.ts
+http://198.195.239.50:8095/SonyMAX/index.m3u8
 #EXTINF:0 group-title=”Movies”,Sony Max 1
 
 #EXTINF:0 group-title=”Movies”,Sony Max 2
-http://premimum.online:80/live/jen12345/jen54321/973.ts
+
 #EXTINF:0 group-title=”Movies”,Sony Wah
 http://103.180.212.191:3500/live/1393.m3u8
 #EXTINF:0 group-title=”Movies”,& Picture
 
 #EXTINF:0 group-title=”Movies”,&Picture HD
-
+http://ms.towkai.com/andpictures_ml/index.m3u8
 #EXTINF:0 group-title=”Movies”,&explore HD
-http://premimum.online:80/live/jen12345/jen54321/4082.ts
+
 #EXTINF:-1 group-title="-",&Prive HD
 
 #EXTINF:-1 group-title="-",&flix HD
@@ -387,27 +387,27 @@ http://premimum.online:80/live/jen12345/jen54321/4082.ts
 
 
 #EXTINF:0 group-title=”Movies”,Colors Cineplex Superhits
-http://premimum.online:80/live/Jen12345/Jen54321/172368.ts
+
 #EXTINF:0 group-title=”Movies”,Colors Cineplex Bollywood
-http://premimum.online:80/live/Jen12345/Jen54321/37074.ts
+http://opplex.ch:80/live/jashwanrp/67891234/104190.ts
 #EXTINF:0 group-title=”Movies”,Colors Cineplex HD
-http://premimum.online:80/live/Jen12345/Jen54321/9378.ts
+http://opplex.ch:80/live/jashwanrp/67891234/206310.ts
 #EXTINF:0 group-title=”Movies”,Rishtey Cineplex HD
-http://premimum.online:80/live/jen12345/jen54321/2440.ts
+http://opplex.ch:80/live/jashwanrp/67891234/206315.ts
 #EXTINF:0 group-title=”Movies”,Zee Cinema
-http://premimum.online:80/live/jen12345/jen54321/2439.ts
+http://opplex.ch:80/live/jashwanrp/67891234/112970.ts
 #EXTINF:0 group-title=”Movies”,Zee Cinema
-
+http://opplex.ch:80/live/jashwanrp/67891234/109958.ts
 #EXTINF:0 group-title=”Movies”,Zee Cinema HD
-
+http://ms.towkai.com/zeecinema_ml/index.m3u8
 #EXTINF:0 group-title=”Movies”,Zee Anmol Cinema
-http://premimum.online:80/live/jen12345/jen54321/7065.ts
+http://opplex.ch:80/live/jashwanrp/67891234/221261.ts
 #EXTINF:0 group-title=”Movies”,Zee Anmol Cinema 2
 
 #EXTINF:0 group-title=”Movies”,Zee Action
-http://premimum.online:80/live/jen12345/jen54321/967.ts
+
 #EXTINF:0 group-title=”Movies”,Zee Bollywood
-http://premimum.online:80/live/jen12345/jen54321/966.ts
+
 #EXTINF:-1 group-title="-",Zee Cafe HD
 
 #EXTINF:-1 group-title="-",Zee Classic
@@ -415,21 +415,21 @@ http://premimum.online:80/live/jen12345/jen54321/966.ts
 
 
 #EXTINF:0 group-title=”Movies”,Star Gold
-
+http://opplex.ch:80/live/jashwanrp/67891234/66178.ts
 #EXTINF:0 group-title=”Movies”,Star Gold HD
-
+http://ms.towkai.com/stargold_ml/index.m3u8
 #EXTINF:-1 group-title="-",Star Gold 2
 
 #EXTINF:-1 group-title="-",Star Gold 2 HD
-
+http://ms.towkai.com/stargold2_ml/index.m3u8
 #EXTINF:-1 group-title="-",Star Gold Romance
-
+http://opplex.ch:80/live/jashwanrp/67891234/66186.ts
 #EXTINF:-1 group-title="-",Star Gold Thrills
-
+http://opplex.ch:80/live/jashwanrp/67891234/221258.ts
 #EXTINF:-1 group-title="-",Star Gold Select
-http://premimum.online:80/live/jen12345/jen54321/98859.ts
-#EXTINF:-1 group-title="-",Star Gold Select HD
 
+#EXTINF:-1 group-title="-",Star Gold Select HD
+http://ms.towkai.com/star_gold_select/index.m3u8
 
 #EXTINF:0 group-title=”Movies”,UTV Cinema HD
 
