@@ -440,25 +440,25 @@ http://ms.towkai.com/star_gold_select/index.m3u8
 #EXTINF:0 group-title=”Movies”,Star Gold Select
 
 #EXTINF:-1 group-title="LTWS HINDI MOVIES",GOLDMINES
-
+https://cdn-2.pishow.tv/live/1459/master.m3u8
+#EXTINF:-1 group-title="LTWS HINDI MOVIES",Goldmines 2
+http://103.175.73.12:8080/live/46/46_0.m3u8
 #EXTINF:-1 group-title="LTWS HINDI MOVIES",GOLDMINES BOLLYWOOD
 
 #EXTINF:-1 group-title="LTWS HINDI MOVIES",GOLDMINES MOVIES
-
-#EXTINF:-1 group-title="LTWS HINDI MOVIES",Goldmines 2
-http://103.175.73.12:8080/live/46/46_0.m3u8
+https://cdn-2.pishow.tv/live/1461/master.m3u8
 #EXTINF:-1 group-title="LTWS HINDI MOVIES",Goldmines Action
 http://103.175.73.12:8080/live/584/584_0.m3u8
 
 
 #EXTINF:-1 group-title="LTWS HINDI MOVIES",B4U KADAK
-
+https://cdn-2.pishow.tv/live/227/master.m3u8
 #EXTINF:-1 group-title="LTWS HINDI MOVIES",Bollywood Action
 
 #EXTINF:-1 group-title="LTWS HINDI MOVIES",DHAMAKA MOVIES
 
 #EXTINF:-1 group-title="LTWS HINDI MOVIES",B4U MOVIES
-http://103.175.73.12:8080/live/43/43_0.m3u8
+https://cdn-2.pishow.tv/live/419/master.m3u8
 
 
 
