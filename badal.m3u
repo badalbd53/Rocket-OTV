@@ -3,7 +3,7 @@
 http://ms.towkai.com/BTVNewsHD/index.m3u8
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/RR0Iv6V.png group-title=”Bangla”,BTV World
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+http://ms.towkai.com/BtvNational/index.m3u8
 
 
 #EXTINF:0 group-title=”Bangla”,BTV Chattogram
