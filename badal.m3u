@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:0 group-title=”World cup",Live 1
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
+#EXTINF:0 group-title=”World cup",Fox
+https://himelhimuishere.pages.dev/fwc2k26.m3u8
 #EXTINF:0 group-title=”World cup",Telemundo HD
 https://m.mxonlive.xyz/nexusstream/telemundohd.m3u8
 #EXTINF:0 group-title=”World cup",Bioscope+
