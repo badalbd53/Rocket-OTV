@@ -332,6 +332,10 @@ http://198.195.239.50:8095/SonyAath/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1781633736:KeyName=prod_linear:Signature=_XJfE3SKWshGpBwe9B8kwZaDaUjX26CRmLZassnuIGvDhcHTwqBVd5-IRO_l0gH2xX5Yaopli_UturQ1CEFKAw"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyaath/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment Channels" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png", wrorld cup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1781633736:KeyName=prod_linear:Signature=_XJfE3SKWshGpBwe9B8kwZaDaUjX26CRmLZassnuIGvDhcHTwqBVd5-IRO_l0gH2xX5Yaopli_UturQ1CEFKAw"}
+https://cdn-tt.pages.dev/ch1.m3u8
 
 
 
