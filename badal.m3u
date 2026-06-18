@@ -65,6 +65,12 @@ https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_uhd.mpd
 https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
 #EXTINF:0 group-title=”World cup", TRT 1
 https://tv-trt1-esdai.medya.trt.com.tr/master_1080p.m3u8
+#EXTINF:-1 group-title="World Cup 2026" tvg-id="TVRI TV Nasional.id" tvg-logo="https://i.imgur.com/Lk0f0G4.png",TVRI
+#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+http://103.148.44.38:8000/play/a03t/index.m3u8
+
+#EXTINF:-1 tvg-name="TVRI Sport" tvg-id="TVRI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/1280px-TVRI_Sport_2022.svg.png" group-title="World Cup 2026", TVRI Sport 
+http://103.148.44.38:8000/play/a05u/index.m3u8
 
 #EXTINF:0 group-title=”World cup",Toffee 1
 https://cdn-tt.pages.dev/ch1.m3u8|cookie=Edge-Cache-Cookie="Expires=1781743209~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AduQTZ9zjRTu3xKLee-korgWoOW8CZaRePOt52YrX9oT2-ig6Swv0XMGyB24z_ea2kBkwnA0S1cuMagg05LgwAFxzscF"
