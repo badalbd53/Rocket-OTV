@@ -60,7 +60,7 @@ https://a162aivottevtad-a.akamaihd.net/IAD/83926f460d3441c0981f73bd62d7abab/v1/d
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813
-https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_uhd.mpd
+https://simplitv-live.mdn.ors.at/live/eds/zdf_uhd/dash4h/zdf_uhd.mpd
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="ttps://shorturl.at/NPoFh", TVP Sports
 https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
 #EXTINF:0 group-title=”World cup", TRT 1
@@ -73,14 +73,15 @@ http://103.148.44.38:8000/play/a03t/index.m3u8
 http://103.148.44.38:8000/play/a05u/index.m3u8
 
 #EXTINF:0 group-title=”World cup",Toffee 1
-https://cdn-tt.pages.dev/ch1.m3u8|cookie=Edge-Cache-Cookie="Expires=1781743209~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AduQTZ9zjRTu3xKLee-korgWoOW8CZaRePOt52YrX9oT2-ig6Swv0XMGyB24z_ea2kBkwnA0S1cuMagg05LgwAFxzscF"
+https://cdn-tt.pages.dev/ch1.m3u8
 #EXTINF:0 group-title=”World cup",Toffee 2
-https://cdn-tt.pages.dev/ch2.m3u8|cookie=Edge-Cache-Cookie="Expires=1781743209~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AduQTZ9zjRTu3xKLee-korgWoOW8CZaRePOt52YrX9oT2-ig6Swv0XMGyB24z_ea2kBkwnA0S1cuMagg05LgwAFxzscF"
+https://cdn-tt.pages.dev/ch2.m3u8
 #EXTINF:0 group-title=”World cup",Toffee 3
-https://cdn-tt.pages.dev/ch3.m3u8|cookie=Edge-Cache-Cookie="Expires=1781743209~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AduQTZ9zjRTu3xKLee-korgWoOW8CZaRePOt52YrX9oT2-ig6Swv0XMGyB24z_ea2kBkwnA0S1cuMagg05LgwAFxzscF"
+https://cdn-tt.pages.dev/ch3.m3u8
 #EXTINF:0 group-title=”World cup",Toffee 4
-https://cdn-tt.pages.dev/ch4.m3u8|cookie=Edge-Cache-Cookie="Expires=1781743209~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AduQTZ9zjRTu3xKLee-korgWoOW8CZaRePOt52YrX9oT2-ig6Swv0XMGyB24z_ea2kBkwnA0S1cuMagg05LgwAFxzscF"
-
+https://cdn-tt.pages.dev/ch4.m3u8
+#EXTINF:0 group-title=”World cup",Toffee 4
+https://cdn-tt.pages.dev/ch5.m3u8
 
 #EXTINF:0 group-title=”World cup",Caze TV
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
