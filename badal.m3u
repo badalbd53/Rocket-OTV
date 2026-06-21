@@ -21,6 +21,10 @@ https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ajfoeddkbz/out/v
 #KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/500px-FOX_Sports_logo.svg.png" group-title="",Fox 1 
+https://vfdbdfbd.pages.dev/1782028518/40dd5100ee634824b1e68542e76d063d/0TBHGusKiVHkE6BqU37r9lCN8o0_mlB06yh6KFVV63Q/fox-sports-1-4k.m3u8
+
+
 #EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png", M6 FRANCE - AQ [No delay]
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -28,18 +32,14 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1
 #KODIPROP:inputstream.adaptive.license_key=433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3
 https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd
 
-#EXTINF:-1 tvg-id="beINSports1.au" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORT1.png" group-title="HD SPORTS",BeIN Sports 1 HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://a166aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
 
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png", TSN 1
-https://kplust.pages.dev/spw1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/960px-DAZN_Logo_Master.svg.png?_=20220511101728" group-title="",DAZN (4K)
+https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
 
 #EXTINF:0 group-title=”World cup",Bain Sports 1
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png?_=20221114223321" group-title="",Dsports
+https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
 #EXTINF:-1 tvg-name="DSPORTS FHD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="FIFA WC 2026",DSPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -72,7 +72,6 @@ https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
 #EXTINF:0 group-title=”World cup", TRT 1
 https://tv-trt1-esdai.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:-1 group-title="World Cup 2026" tvg-id="TVRI TV Nasional.id" tvg-logo="https://i.imgur.com/Lk0f0G4.png",TVRI
-#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 http://103.148.44.38:8000/play/a03t/index.m3u8
 
 #EXTINF:-1 tvg-name="TVRI Sport" tvg-id="TVRI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/1280px-TVRI_Sport_2022.svg.png" group-title="World Cup 2026", TVRI Sport 
@@ -89,11 +88,12 @@ https://cdn-tt.pages.dev/ch4.m3u8
 #EXTINF:0 group-title=”World cup",Toffee 5
 https://cdn-tt.pages.dev/ch5.m3u8
 
-#EXTINF:0 group-title=”World cup",Caze TV
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
-
+#EXTINF:0 group-title=”World cup",DAZN
+https://m.mxonlive.xyz/nexusstream/ch07.m3u8
 #EXTINF:0 group-title=”World cup",WIN Sports
-https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
+https://m.mxonlive.xyz/nexusstream/ch08.m3u8
+
+
 
 =============World Cup 2026==========
 
