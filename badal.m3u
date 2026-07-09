@@ -367,16 +367,7 @@ http://ms.towkai.com/jalshamovies_ml/index.m3u8
 #EXTINF:0 group-title=”Drama”,Sony AATH
 
 #EXTINF:0 group-title=”Drama”,Sony AATH
-http://198.195.239.50:8095/SonyAath/index.m3u8
-#EXTINF:-1 group-title="Entertainment Channels" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png", Sony Aat VIP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1781633736:KeyName=prod_linear:Signature=_XJfE3SKWshGpBwe9B8kwZaDaUjX26CRmLZassnuIGvDhcHTwqBVd5-IRO_l0gH2xX5Yaopli_UturQ1CEFKAw"}
-https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyaath/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment Channels" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png", wrorld cup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1781633736:KeyName=prod_linear:Signature=_XJfE3SKWshGpBwe9B8kwZaDaUjX26CRmLZassnuIGvDhcHTwqBVd5-IRO_l0gH2xX5Yaopli_UturQ1CEFKAw"}
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/index.m3u8
-
+https://stream.ottplus.bd/live/sony_aath_abr/index.m3u8
 
 
 
@@ -391,7 +382,7 @@ https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/index.m3u8
 #EXTINF:0 group-title=”Drama”,Sony TV
 
 #EXTINF:0 group-title=”Drama”,Sony HD
-http://198.195.239.50:8095/SonyTv/index.m3u8
+
 #EXTINF:0 group-title=”Drama”,Sony Pal
 
 #EXTINF:0 group-title=”Drama”,Shemaroo
@@ -421,7 +412,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:0 group-title=”Kids”,Doreamon
 https://live20.bozztv.com/giatvplayout7/giatv-209902/index.m3u8
 #EXTINF:0 group-title=”Kids”,Mr. Bean
-http://opplex.ch:80/live/jashwanrp/67891234/301501.ts
+
 #EXTINF:0 group-title=”Kids”,Disney HD
 https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/19741.ts
 #EXTINF:0 group-title=”Kids”,Disney jr
@@ -454,7 +445,7 @@ http://ms.towkai.com/pogo_ml/index.m3u8
 
 
 #EXTINF:0 group-title=”Documentary”,Discovery Bangla
-http://opplex.ch:80/live/jashwanrp/67891234/109974.ts
+
 #EXTINF:0 group-title=”Documentary”,Discovery HD
 http://ms.towkai.com/discovery_mimelive/index.m3u8
 #EXTINF:0 group-title=”Documentary”,Discovery Science
@@ -501,9 +492,9 @@ http://ms.towkai.com/historytv_mimelive/index.m3u8
 #EXTINF:0 group-title=”Movies”,Sony Max
 
 #EXTINF:0 group-title=”Movies”,Sony Max
-
+https://stream.ottplus.bd/live/max_sd_abr/index.m3u8
 #EXTINF:0 group-title=”Movies”,Sony Max HD
-http://198.195.239.50:8095/SonyMAX/index.m3u8
+https://stream.ottplus.bd/live/max_hd_abr/index.m3u8
 #EXTINF:0 group-title=”Movies”,Sony Max 1
 
 #EXTINF:0 group-title=”Movies”,Sony Max 2
@@ -525,19 +516,19 @@ http://ms.towkai.com/andpictures_ml/index.m3u8
 #EXTINF:0 group-title=”Movies”,Colors Cineplex Superhits
 
 #EXTINF:0 group-title=”Movies”,Colors Cineplex Bollywood
-http://opplex.ch:80/live/jashwanrp/67891234/104190.ts
+
 #EXTINF:0 group-title=”Movies”,Colors Cineplex HD
-http://opplex.ch:80/live/jashwanrp/67891234/206310.ts
+
 #EXTINF:0 group-title=”Movies”,Rishtey Cineplex HD
-http://opplex.ch:80/live/jashwanrp/67891234/206315.ts
+
 #EXTINF:0 group-title=”Movies”,Zee Cinema
-http://opplex.ch:80/live/jashwanrp/67891234/112970.ts
+
 #EXTINF:0 group-title=”Movies”,Zee Cinema
-http://opplex.ch:80/live/jashwanrp/67891234/109958.ts
+
 #EXTINF:0 group-title=”Movies”,Zee Cinema HD
 http://ms.towkai.com/zeecinema_ml/index.m3u8
 #EXTINF:0 group-title=”Movies”,Zee Anmol Cinema
-http://opplex.ch:80/live/jashwanrp/67891234/221261.ts
+
 #EXTINF:0 group-title=”Movies”,Zee Anmol Cinema 2
 
 #EXTINF:0 group-title=”Movies”,Zee Action
@@ -551,7 +542,7 @@ http://opplex.ch:80/live/jashwanrp/67891234/221261.ts
 
 
 #EXTINF:0 group-title=”Movies”,Star Gold
-http://opplex.ch:80/live/jashwanrp/67891234/66178.ts
+
 #EXTINF:0 group-title=”Movies”,Star Gold HD
 http://ms.towkai.com/stargold_ml/index.m3u8
 #EXTINF:-1 group-title="-",Star Gold 2
@@ -559,9 +550,9 @@ http://ms.towkai.com/stargold_ml/index.m3u8
 #EXTINF:-1 group-title="-",Star Gold 2 HD
 http://ms.towkai.com/stargold2_ml/index.m3u8
 #EXTINF:-1 group-title="-",Star Gold Romance
-http://opplex.ch:80/live/jashwanrp/67891234/66186.ts
+
 #EXTINF:-1 group-title="-",Star Gold Thrills
-http://opplex.ch:80/live/jashwanrp/67891234/221258.ts
+
 #EXTINF:-1 group-title="-",Star Gold Select
 
 #EXTINF:-1 group-title="-",Star Gold Select HD
