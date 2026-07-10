@@ -261,11 +261,11 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/2cpHJKq.png group-title=”Bangla”,Nagorik TV
 http://198.195.239.50:8095/nagorik/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/yi5p51T.png group-title=”Bangla”,RTV
-http://116.204.149.16/rtvhd/index.m3u8
+http://ms.towkai.com/rtvhd/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/fraEjzm.png group-title=”Bangla”,SA TV HD
-http://116.204.149.16/satv/index.m3u8
+http://ms.towkai.com/satv/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/K43LsMQ.png group-title=”Bangla”,Bangla TV HD
-http://116.204.149.16/banglatv/index.m3u8
+http://ms.towkai.com/banglatv/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/kDmkexe.png group-title=”Bangla”,Bijoy Tv
 http://ms.towkai.com/bijoy_ml/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/bahWhBG.png group-title=”Bangla”,MyTV
@@ -340,12 +340,6 @@ http://ms.towkai.com/starjalsha_ml/index.m3u8
 http://ms.towkai.com/zeebangla_ml/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/e5Ldh7e.png group-title=”Drama”,Akash AATH
 http://ms.towkai.com/aakash_ml/index.m3u8
-#EXTINF:-1 tvg-id="142" tvg-name="Sony AATH" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739906659479.png" group-title="Entertainment",Sony AATH Akash
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7d0a6f5200f053bf9e6faacf45bffdf4:99f2e29def2fcd1fe1411488164d9803
-https://owrcovcrpy.gpcdn.net/bpk-tv/1732/output/index.mpd
 #EXTINF:0 tvg-logo=https://i.imgur.com/PW9hRDa.png group-title=”Drama”,Sun Bangla
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/HVZHZGl.png group-title=”Drama”,Colors Bangla HD
@@ -380,9 +374,9 @@ https://stream.ottplus.bd/live/sony_aath_abr/index.m3u8
 #EXTINF:0 group-title=”Drama”,Star Plus HD
 
 #EXTINF:0 group-title=”Drama”,Sony TV
-
+https://stream.ottplus.live/live/sony_ent_sd_abr/index.m3u8
 #EXTINF:0 group-title=”Drama”,Sony HD
-
+https://stream.ottplus.live/live/sony_ent_hd_abr/index.m3u8
 #EXTINF:0 group-title=”Drama”,Sony Pal
 
 #EXTINF:0 group-title=”Drama”,Shemaroo
@@ -398,11 +392,11 @@ https://stream.ottplus.bd/live/sony_aath_abr/index.m3u8
 
 
 #EXTINF:-1 group-title=”Kids”,Nick
-http://opplex.ch:80/live/jashwanrp/67891234/76722.ts
+
 #EXTINF:-1 group-title=”Kids”,Nick Jr
 http://ms.towkai.com/nickjunior_ml/index.m3u8
 #EXTINF:-1 group-title=”Kids”,Sonic
-http://opplex.ch:80/live/jashwanrp/67891234/34011.ts
+
 #EXTINF:-1 group-title=”Kids”,Sonic
 
 #EXTINF:-1 group-title="Kids",Tom & Jarry
@@ -422,9 +416,9 @@ http://ms.towkai.com/disneyjr_ml/index.m3u8
 #EXTINF:0 group-title=”Kids”,Hungama
 http://ms.towkai.com/hungama_ml/index.m3u8
 #EXTINF:0 group-title=”Kids”,Super Hungama
-
+https://stream.ottplus.live/live/sony_yay_abr/index.m3u8
 #EXTINF:0 group-title=”Kids”,Cartoon Network
-
+https://stream.ottplus.live/live/cn_sd_abr/index.m3u8
 #EXTINF:0 group-title=”Kids”,Cartoon Network
 https://s3.ideationtec.live/Cartoon_Network/Cartoon_Network.m3u8
 #EXTINF:0 group-title=”Kids”,Cartoon Network HD+
@@ -444,28 +438,29 @@ http://ms.towkai.com/pogo_ml/index.m3u8
 
 
 
-#EXTINF:0 group-title=”Documentary”,Discovery Bangla
-
+#EXTINF:0 group-title=”Documentary”,Discovery
+https://stream.ottplus.bd/live/discovery_sd_abr/index.m3u8
 #EXTINF:0 group-title=”Documentary”,Discovery HD
 http://ms.towkai.com/discovery_mimelive/index.m3u8
 #EXTINF:0 group-title=”Documentary”,Discovery Science
 http://ms.towkai.com/discoveryscience_mimelive/index.m3u8
 #EXTINF:-1 group-title="-",Investigation Discovery
-
+https://stream.ottplus.live/live/id_hd_abr/index.m3u8
 
 
 #EXTINF:0 group-title=”Documentary”,National Geographic HD
 http://ms.towkai.com/national_geographic_channel/index.m3u8
 #EXTINF:0 group-title=”Documentary”,NatGeo Wild HD
 http://ms.towkai.com/natgeowild_mimelive/index.m3u8
-#EXTINF:0 group-title=”Documentary”,Travel XP HD
-http://ms.towkai.com/travelxp_ml/index.m3u8
 #EXTINF:0 group-title=”Documentary”,Animal Planet
 
 #EXTINF:0 group-title=”Documentary”,Animal Planet HD
 http://ms.towkai.com/ap_mimelive/index.m3u8
-#EXTINF:0 group-title=”Documentary”,Sony BBC Earth HD
+#EXTINF:0 group-title=”Documentary”,Travel XP HD
+http://ms.towkai.com/travelxp_ml/index.m3u8
 
+#EXTINF:0 group-title=”Documentary”,Sony BBC Earth HD
+https://stream.ottplus.live/live/bbc_earth_hd_abr/index.m3u8
 #EXTINF:0 group-title=”Documentary”,Sky Nature 
 
 #EXTINF:0 group-title=”Documentary”,TLC HD
@@ -498,7 +493,7 @@ https://stream.ottplus.bd/live/max_hd_abr/index.m3u8
 #EXTINF:0 group-title=”Movies”,Sony Max 1
 
 #EXTINF:0 group-title=”Movies”,Sony Max 2
-
+https://stream.ottplus.bd/live/max_2_abr/index.m3u8
 #EXTINF:0 group-title=”Movies”,Sony Wah
 http://103.180.212.191:3500/live/1393.m3u8
 #EXTINF:0 group-title=”Movies”,& Picture
@@ -532,9 +527,9 @@ http://ms.towkai.com/zeecinema_ml/index.m3u8
 #EXTINF:0 group-title=”Movies”,Zee Anmol Cinema 2
 
 #EXTINF:0 group-title=”Movies”,Zee Action
-
+https://stream.ottplus.live/live/zee_action_abr/index.m3u8
 #EXTINF:0 group-title=”Movies”,Zee Bollywood
-
+https://stream.ottplus.bd/live/zee_bollywood_abr/index.m3u8
 #EXTINF:-1 group-title="-",Zee Cafe HD
 
 #EXTINF:-1 group-title="-",Zee Classic
@@ -585,7 +580,7 @@ https://cdn-2.pishow.tv/live/227/master.m3u8
 #EXTINF:-1 group-title="LTWS HINDI MOVIES",DHAMAKA MOVIES
 
 #EXTINF:-1 group-title="LTWS HINDI MOVIES",B4U MOVIES
-https://cdn-2.pishow.tv/live/419/master.m3u8
+http://ms.towkai.com/b4umovies_ml/index.m3u8
 
 
 
@@ -616,7 +611,7 @@ https://cdn-2.pishow.tv/live/419/master.m3u8
 #EXTINF:0 group-title=”Entertainment”,Sony Pix
 
 #EXTINF:0 group-title=”Movies”,Sony Pix HD
-
+http://ms.towkai.com/sonypix_ml/index.m3u8
 #EXTINF:0 group-title=”Movies”,Zee Cafe HD
 
 #EXTINF:0 group-title=”Movies”,Star Movies HD
