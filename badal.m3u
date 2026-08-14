@@ -318,7 +318,7 @@ http://ms.towkai.com/pogo_ml/index.m3u8
 
 #EXTINF:0 group-title=”Documentary”,Discovery
 http://103.165.93.31:8095/discovery/tracks-v1a1/mono.m3u8
-EXTINF:0 group-title=”Documentary”,Discovery HD
+#EXTINF:0 group-title=”Documentary”,Discovery HD
 http://ms.towkai.com/discovery_mimelive/index.m3u8
 #EXTINF:0 group-title=”Documentary”,Discovery Science
 http://ms.towkai.com/discoveryscience_mimelive/index.m3u8
