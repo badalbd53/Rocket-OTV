@@ -79,43 +79,43 @@ http://ms.towkai.com/asiantv_ml/index.m3u8
 http://ms.towkai.com/atnbangla_ml/index.m3u8
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/HX8SSDA.png group-title=”Bangla”,Banglavision TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+http://ms.towkai.com/banglavision_ml/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/pTJSGtj.png group-title=”Bangla”,Boishakhi TV
 http://ms.towkai.com/boishakhi_ml/index.m3u8
 #EXTINF:0 group-title=”Bangla”,Boishakhi TV Plus
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/fj8nxOw.png group-title=”Bangla”,Channel 9 HD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
+http://ms.towkai.com/channel9_ml/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/p0I5dr0.png group-title=”Bangla”,Channel I
-https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+http://ms.towkai.com/ChanneliHD/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/tPZKfLr.png group-title=”Bangla”,Deepto TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
+http://ms.towkai.com/DeeptoHD/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/JgkIH3w.png group-title=”Bangla”,Desh TV
 http://ms.towkai.com/DeshSD/index.m3u8
 #EXTINF:0 group-title=”Bangla”,Nexus TV
 http://ms.towkai.com/NexustvHD/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/v9PqrCG.png group-title=”News”,ATN News
-https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+http://ms.towkai.com/atnnews_ml/index.m3u8
 #EXTINF:0 group-title=”News”, Channel 1 HD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+https://stream.ottplus.live/live/channel_1_hd_abr/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/i8T9qQs.png group-title=”News”,Ekattor TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+http://ms.towkai.com/EkattorHD/index.m3u8
 #EXTINF:0 group-title=”News”,Ekhon TV
 http://ms.towkai.com/EkhonHD/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title=”News”,Star News
-https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/ds3aThu.jpg group-title=”Bangla”,Jamuna Tv
-https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+http://ms.towkai.com/Jamuna_SD/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/kviJN1i.png group-title=”News”,Independent TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+http://ms.towkai.com/itv_ml/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/Z2QvpTn.png group-title=”News”,Somoy News
 http://ms.towkai.com/somoytv/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/FxsW4XI.png group-title=”News”,News 24
-https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
+http://ms.towkai.com/News24HD/index.m3u8
 #EXTINF:0 group-title=”Bangla”,DBC News
-https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
+http://ms.towkai.com/dbcnews_ml/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/MmhxR5E.png group-title=”Bangla”,Channel 24
-https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+http://ms.towkai.com/channel24_ml/index.m3u8
 #EXTINF:0 group-title=”Bangla”,Ekhon Tv
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/ds3aThu.jpg group-title=”Bangla”,Jamuna TV
@@ -135,9 +135,9 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:0 tvg-logo=https://i.imgur.com/kFqOMtx.png group-title=”Bangla”,Ekushey ETV
 http://ms.towkai.com/Ekusheytv/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/3usnOla.png group-title=”Bangla”,NTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+http://ms.towkai.com/ntvsd/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/2cpHJKq.png group-title=”Bangla”,Nagorik TV
-http://198.195.239.50:8095/nagorik/index.m3u8
+
 #EXTINF:0 tvg-logo=https://i.imgur.com/yi5p51T.png group-title=”Bangla”,RTV
 http://ms.towkai.com/rtvhd/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/fraEjzm.png group-title=”Bangla”,SA TV HD
@@ -221,7 +221,7 @@ http://ms.towkai.com/aakash_ml/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/PW9hRDa.png group-title=”Drama”,Sun Bangla
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/HVZHZGl.png group-title=”Drama”,Colors Bangla HD
-
+http://103.165.93.31:8095/colorsBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="-",Enterr10 Bangla
 
 
@@ -231,13 +231,13 @@ http://ms.towkai.com/aakash_ml/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/2PQfcOh.png group-title=”Movies”,Jalsha Movies HD
 http://ms.towkai.com/jalshamovies_ml/index.m3u8
 #EXTINF:0 group-title=”Drama”,Colors Bangla Cinema
-
+http://103.165.93.31:8095/colorsBanglaChinema/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/M6GyIvI.png group-title=”Movies”,Zee Bangla Cinema
 
 #EXTINF:0 group-title=”Movies”,Enterr10 Bangla
-
+http://103.165.93.31:8095/enter10Bangla/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title=”Drama”,Sony AATH
-
+http://103.165.93.31:8095/sonyAath/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title=”Drama”,Sony AATH
 https://stream.ottplus.bd/live/sony_aath_abr/index.m3u8
 
@@ -270,11 +270,11 @@ https://stream.ottplus.live/live/sony_ent_hd_abr/index.m3u8
 
 
 #EXTINF:-1 group-title=”Kids”,Nick
-
+http://103.165.93.31:8095/nick/index.m3u8
 #EXTINF:-1 group-title=”Kids”,Nick Jr
 http://ms.towkai.com/nickjunior_ml/index.m3u8
 #EXTINF:-1 group-title=”Kids”,Sonic
-
+http://103.165.93.31:8095/sonic/index.m3u8
 #EXTINF:-1 group-title=”Kids”,Sonic
 
 #EXTINF:-1 group-title="Kids",Tom & Jarry
@@ -317,8 +317,8 @@ http://ms.towkai.com/pogo_ml/index.m3u8
 
 
 #EXTINF:0 group-title=”Documentary”,Discovery
-https://stream.ottplus.bd/live/discovery_sd_abr/index.m3u8
-#EXTINF:0 group-title=”Documentary”,Discovery HD
+http://103.165.93.31:8095/discovery/tracks-v1a1/mono.m3u8
+EXTINF:0 group-title=”Documentary”,Discovery HD
 http://ms.towkai.com/discovery_mimelive/index.m3u8
 #EXTINF:0 group-title=”Documentary”,Discovery Science
 http://ms.towkai.com/discoveryscience_mimelive/index.m3u8
@@ -391,7 +391,7 @@ http://ms.towkai.com/andpictures_ml/index.m3u8
 #EXTINF:0 group-title=”Movies”,Colors Cineplex Bollywood
 
 #EXTINF:0 group-title=”Movies”,Colors Cineplex HD
-
+http://66.102.126.10:8000/play/a076/index.m3u8
 #EXTINF:0 group-title=”Movies”,Rishtey Cineplex HD
 
 #EXTINF:0 group-title=”Movies”,Zee Cinema
