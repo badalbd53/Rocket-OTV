@@ -68,7 +68,7 @@ http://ms.towkai.com/T_SportsFHD/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/CJUmEHD.png group-title=”Bangla”,T Sports
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/7ftu2Rt.jpg group-title=”Bangla”,Maasranga
-https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+http://ms.towkai.com/maasranga/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/PK9Gm5g.png group-title=”Bangla”,Duronto TV
 http://ms.towkai.com/DurontoHD/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/4imblNY.jpg group-title=”Bangla”,Mohona
@@ -76,7 +76,7 @@ http://ms.towkai.com/MOHONA/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/fxq0pV2.png group-title=”Bangla”,Asian TV
 http://ms.towkai.com/asiantv_ml/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/5PsRkPd.png group-title=”Bangla”,ATN Bangla
-http://10.20.30.40:8088/202/index.m3u8
+http://ms.towkai.com/atnbangla_ml/index.m3u8
 
 #EXTINF:0 tvg-logo=https://i.imgur.com/HX8SSDA.png group-title=”Bangla”,Banglavision TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
