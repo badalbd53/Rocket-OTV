@@ -103,7 +103,7 @@ http://ms.towkai.com/EkattorHD/index.m3u8
 #EXTINF:0 group-title=”News”,Ekhon TV
 http://ms.towkai.com/EkhonHD/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title=”News”,Star News
-
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/starnewsbd.stream/playlist.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/ds3aThu.jpg group-title=”Bangla”,Jamuna Tv
 http://ms.towkai.com/Jamuna_SD/index.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/kviJN1i.png group-title=”News”,Independent TV
@@ -286,11 +286,11 @@ https://live20.bozztv.com/giatvplayout7/giatv-209902/index.m3u8
 #EXTINF:0 group-title=”Kids”,Mr. Bean
 
 #EXTINF:0 group-title=”Kids”,Disney HD
-https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/19741.ts
+
 #EXTINF:0 group-title=”Kids”,Disney jr
 http://ms.towkai.com/disneyjr_ml/index.m3u8
 #EXTINF:0 group-title=”Kids”,Disney
-
+https://s1.itcnbd.live/Disney-D/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title=”Kids”,Hungama
 http://ms.towkai.com/hungama_ml/index.m3u8
 #EXTINF:0 group-title=”Kids”,Super Hungama
