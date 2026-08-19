@@ -365,13 +365,13 @@ http://ms.towkai.com/historytv_mimelive/index.m3u8
 #EXTINF:0 group-title=”Movies”,Sony Max
 
 #EXTINF:0 group-title=”Movies”,Sony Max
-https://stream.ottplus.bd/live/max_sd_abr/index.m3u8
+https://s3.itcnbd.live/server-2/proxy/sony_max/playlist?u=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fslang%2Fsony_max_576%2Fsony_max_576.m3u8%3Fbitrate%3D1000000%26channel%3Dsony_max_576%26gp_id%3D&e=.m3u8
 #EXTINF:0 group-title=”Movies”,Sony Max HD
-https://stream.ottplus.bd/live/max_hd_abr/index.m3u8
+https://s3.itcnbd.live/server-2/proxy/sony_max_hd/playlist?u=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fslang%2Fsony_max_hd_576%2Fsony_max_hd_576.m3u8%3Fbitrate%3D1000000%26channel%3Dsony_max_hd_576%26gp_id%3D&e=.m3u8
 #EXTINF:0 group-title=”Movies”,Sony Max 1
-
+https://bdix.ottking.top:8082/Sony-Max-1/index.m3u8
 #EXTINF:0 group-title=”Movies”,Sony Max 2
-https://stream.ottplus.bd/live/max_2_abr/index.m3u8
+https://s3.itcnbd.live/server-2/proxy/sonymax_2/playlist?u=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fslang%2Fsonymax_2_576%2Fsonymax_2_576.m3u8%3Fbitrate%3D1000000%26channel%3Dsonymax_2_576%26gp_id%3D&e=.m3u8
 #EXTINF:0 group-title=”Movies”,Sony Wah
 http://103.180.212.191:3500/live/1393.m3u8
 #EXTINF:0 group-title=”Movies”,& Picture
