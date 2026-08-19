@@ -252,9 +252,9 @@ https://stream.ottplus.bd/live/sony_aath_abr/index.m3u8
 #EXTINF:0 group-title=”Drama”,Star Plus HD
 
 #EXTINF:0 group-title=”Drama”,Sony TV
-https://stream.ottplus.live/live/sony_ent_sd_abr/index.m3u8
+https://s3.itcnbd.live/server-6/stream/resource/aHR0cDovLzE3Mi4xNi4yMDAuMjA1OjgwODgvNDAzL3RyYWNrcy12MWExL21vbm8ubTN1OD90b2tlbj1hNzY5ZTI0YzYxMTE1NGJjYWE5MTVhY2Q2ZmI2MWJiZmYyODA1ZWIyLWJlNzJjYzliMzRlYmJmZjU0YzczNDZiMmU2NjBhNzE5LTE3ODcxMjI0NzgtMTc4NzExODg3OA&e=.m3u8
 #EXTINF:0 group-title=”Drama”,Sony HD
-https://stream.ottplus.live/live/sony_ent_hd_abr/index.m3u8
+https://s3.itcnbd.live/server-2/proxy/sonyentertainmnt_hd/playlist?u=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fslang%2Fsonyentertainmnt_hd_576%2Fsonyentertainmnt_hd_576.m3u8%3Fbitrate%3D1000000%26channel%3Dsonyentertainmnt_hd_576%26gp_id%3D&e=.m3u8
 #EXTINF:0 group-title=”Drama”,Sony Pal
 
 #EXTINF:0 group-title=”Drama”,Shemaroo
