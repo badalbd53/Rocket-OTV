@@ -237,9 +237,9 @@ http://103.165.93.31:8095/colorsBanglaChinema/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title=”Movies”,Enterr10 Bangla
 http://103.165.93.31:8095/enter10Bangla/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title=”Drama”,Sony AATH
-http://103.165.93.31:8095/sonyAath/tracks-v1a1/mono.m3u8
+http://27.124.71.27/Sony_Aath/index.m3u8
 #EXTINF:0 group-title=”Drama”,Sony AATH
-https://stream.ottplus.bd/live/sony_aath_abr/index.m3u8
+https://toffee.aliflaila.live/channel/25.m3u8
 
 
 
